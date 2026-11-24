@@ -1,0 +1,1234 @@
+similarity,id_a,id_b,oblast_a,oblast_b,exact_duplicate,text_a,text_b
+1.0,2024-Opstinsko-A-1-4,2024-Opstinsko-B-2-3,Geometrija,Geometrija,True,"Neka je $X$ središte osnovice $AB$ trapeza $ABCD$. Ako je $\angle ADX = \angle BCX$, dokazati da su simetrale uglova $\angle ADX, \angle DXC$ i $\angle XCB$ prave istog pramena, tj. da se sve tri seku u jednoj tački ili da su paralelne.","Neka je $X$ središte osnovice $AB$ trapeza $ABCD$. Ako je $\angle ADX = \angle BCX$, dokazati da su simetrale uglova $\angle ADX, \angle DXC$ i $\angle XCB$ prave istog pramena, tj. da se sve tri seku u jednoj tački ili da su paralelne."
+1.0,2002-Drzavno-A-1-2,2002-Drzavno-B-1-2,Geometrija,Geometrija,True,"Dat je trougao $ABC$ i tačke $M$, $N$, $P$ na njegovim stranicama $AB$, $BC$, $AC$ redom, takve da je četvorougao $AMNP$ paralelogram. Posmatrajmo krugove opisane oko trouglova $MBN$ i $NCP$. Neka su $t_1$ i $t_2$ njihove tangente u tačkama $M$ i $P$ redom. Dokazati da je $t_1 \parallel t_2$.","Dat je trougao $ABC$ i tačke $M$, $N$, $P$ na njegovim stranicama $AB$, $BC$, $AC$ redom, takve da je četvorougao $AMNP$ paralelogram. Posmatrajmo krugove opisane oko trouglova $MBN$ i $NCP$. Neka su $t_1$ i $t_2$ njihove tangente u tačkama $M$ i $P$ redom. Dokazati da je $t_1 \parallel t_2$."
+1.0,2011-Opstinsko-A-2-1,2011-Opstinsko-B-2-1,Algebra,Algebra,True,"Data je jednačina $4x^2 - (3a+1)x - a - 2 = 0$.
+    \begin{itemize}
+        \item[a)] Odrediti sve $a \in \mathbb{R}$ tako da za rešenja $x_1$ i $x_2$ jednačine važi
+        \[
+            \frac{1}{x_1^2} + \frac{1}{x_2^2} \geq \frac{40}{9}.
+        \]
+        \item[b)] Za koje $a \in \mathbb{R}$ se oba rešenja jednačine nalaze u intervalu $(-1,2)$?
+    \end{itemize}","Data je jednačina $4x^2 - (3a+1)x - a - 2 = 0$.
+    \begin{itemize}
+        \item[a)] Odrediti sve $a \in \mathbb{R}$ tako da za rešenja $x_1$ i $x_2$ jednačine važi
+        \[
+            \frac{1}{x_1^2} + \frac{1}{x_2^2} \geq \frac{40}{9}.
+        \]
+        \item[b)] Za koje $a \in \mathbb{R}$ se oba rešenja jednačine nalaze u intervalu $(-1,2)$?
+    \end{itemize}"
+1.0,2011-Opstinsko-A-1-2,2011-Opstinsko-B-2-4,Kombinatorika,Kombinatorika,True,"Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?","Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?"
+1.0,2011-Opstinsko-A-1-2,2011-Opstinsko-B-4-4,Kombinatorika,Kombinatorika,True,"Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?","Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?"
+1.0,2010-Opstinsko-B-3-2,2010-Opstinsko-B-4-3,Geometrija,Geometrija,True,U loptu je upisana pravilna trostrana piramida sa pravim ivičnim uglovima pri vrhu. Odrediti odnos dužina visine piramide i poluprečnika lopte.,U loptu je upisana pravilna trostrana piramida sa pravim ivičnim uglovima pri vrhu. Odrediti odnos dužina visine piramide i poluprečnika lopte.
+1.0,2010-Opstinsko-A-3-5,2010-Opstinsko-A-4-5,Geometrija,Geometrija,True,"U $\triangle ABC$ je $\angle BCA > 90^\circ$ i $\angle CAB < \angle ABC$. Tangenta na opisanu kružnicu $k$ u tački $A$ seče pravu $BC$ u tački $P$. Neka je $M$ tačka na $k$, takva da je $PM = PC$ (različita od tačke $C$), $N$ presek pravih $CM$ i $AB$, a $D$ presek opisane kružnice $\triangle AMN$ i prave $AP$ (različit od $A$). Dokazati da je $CD \parallel AB$.","U $\triangle ABC$ je $\angle BCA > 90^\circ$ i $\angle CAB < \angle ABC$. Tangenta na opisanu kružnicu $k$ u tački $A$ seče pravu $BC$ u tački $P$. Neka je $M$ tačka na $k$, takva da je $PM = PC$ (različita od tačke $C$), $N$ presek pravih $CM$ i $AB$, a $D$ presek opisane kružnice $\triangle AMN$ i prave $AP$ (različit od $A$). Dokazati da je $CD \parallel AB$."
+1.0,2010-Opstinsko-A-3-1,2010-Opstinsko-B-3-5,Algebra,Algebra,True,"U skupu realnih brojeva rešiti nejednačinu
+    \[
+        \log_{\sqrt{x}} \log_2 (4^x - 12) \leqslant 2.
+    \]","U skupu realnih brojeva rešiti nejednačinu
+    \[
+        \log_{\sqrt{x}} \log_2 (4^x - 12) \leqslant 2.
+    \]"
+1.0,2010-Opstinsko-A-2-1,2010-Opstinsko-B-2-5,Algebra,Algebra,True,"Neka je $m \in \mathbb{R}$ takav da jednačina $x^2 - 2(m-1)x + m + 5 = 0$ ima realne i različite korene. Dokazati da je tačno jedan koren te jednačine u intervalu $(-2,3)$.","Neka je $m \in \mathbb{R}$ takav da jednačina $x^2 - 2(m-1)x + m + 5 = 0$ ima realne i različite korene. Dokazati da je tačno jedan koren te jednačine u intervalu $(-2,3)$."
+1.0,2010-Opstinsko-A-1-5,2010-Opstinsko-B-1-5,Kombinatorika,Kombinatorika,True,Svako od jediničnih polja tablice $3 \times 3$ obojeno je jednom od tri boje. Koliko ima različitih bojenja kod kojih su svaka dva susedna jedinična polja (tj.\ polja sa zajedničkom stranicom) različite boje?,Svako od jediničnih polja tablice $3 \times 3$ obojeno je jednom od tri boje. Koliko ima različitih bojenja kod kojih su svaka dva susedna jedinična polja (tj.\ polja sa zajedničkom stranicom) različite boje?
+1.0,2010-Opstinsko-A-1-2,2010-Opstinsko-B-1-4,Teorija brojeva,Teorija brojeva,True,Prirodan broj $n$ daje ostatak $35$ pri deljenju i sa $2009$ i sa $2010$. Koliki je ostatak broja $n$ pri deljenju sa $42$?,Prirodan broj $n$ daje ostatak $35$ pri deljenju i sa $2009$ i sa $2010$. Koliki je ostatak broja $n$ pri deljenju sa $42$?
+1.0,2009-Opstinsko-A-4-2,2009-Opstinsko-B-4-5,Kombinatorika,Kombinatorika,True,Neka je $k$ najmanji broj poteza koji je potrebno načiniti za prebacivanje skakača iz donjeg levog ugla u gornji desni ugao šahovske table $8 \times 8$. Na koliko različitih načina se to može učiniti u tačno $k$ poteza?,Neka je $k$ najmanji broj poteza koji je potrebno načiniti za prebacivanje skakača iz donjeg levog ugla u gornji desni ugao šahovske table $8 \times 8$. Na koliko različitih načina se to može učiniti u tačno $k$ poteza?
+1.0,2009-Opstinsko-A-3-3,2009-Opstinsko-A-4-4,Teorija brojeva,Teorija brojeva,True,Neka su $m$ i $n$ različiti prirodni brojevi. Dokazati da postoji kompleksan broj $z$ modula $1$ takav da je $|1 - z^m + z^n| \geqslant 2$.,Neka su $m$ i $n$ različiti prirodni brojevi. Dokazati da postoji kompleksan broj $z$ modula $1$ takav da je $|1 - z^m + z^n| \geqslant 2$.
+1.0,2009-Opstinsko-A-3-1,2009-Opstinsko-B-3-5,Algebra,Algebra,True,"U skupu realnih brojeva rešiti jednačinu
+    \[
+        10^{-3} x^{\log_{10} x} + x \left( \log_{10}^2 x - 2 \log_{10} x \right) = x^2 + 3x.
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        10^{-3} x^{\log_{10} x} + x \left( \log_{10}^2 x - 2 \log_{10} x \right) = x^2 + 3x.
+    \]"
+1.0,2009-Opstinsko-B-2-5,2009-Opstinsko-B-3-4,Kombinatorika,Kombinatorika,True,"Na takmičenju je učestvovalo $100$ učenika, koji su rešavali po pet zadataka. Poznato je da je svaki zadatak rešilo bar $60$ učenika. Dokazati da postoje dva učenika koji su zajedno rešili sve zadatke.","Na takmičenju je učestvovalo $100$ učenika, koji su rešavali po pet zadataka. Poznato je da je svaki zadatak rešilo bar $60$ učenika. Dokazati da postoje dva učenika koji su zajedno rešili sve zadatke."
+1.0,2009-Opstinsko-A-2-2,2009-Opstinsko-B-2-4,Algebra,Algebra,True,"Neka je $X = \bigl\{ f_a(x) = x^2 + ax - 2a - 5 \mid a \in \mathbb{R} \bigr\}$ (skup parabola).
+    \begin{itemize}
+        \item[(a)] Dokazati da sve parabole iz $X$ seku $x$-osu.
+        \item[(b)] Odrediti jednačinu geometrijskog mesta temena svih ovih parabola.
+        \item[(v)] Za koju vrednost parametra $a$ je zbir kvadrata korena jednačine $f_a(x) = 0$ najmanji?
+    \end{itemize}","Neka je $X = \bigl\{ f_a(x) = x^2 + ax - 2a - 5 \mid a \in \mathbb{R} \bigr\}$ (skup parabola).
+    \begin{itemize}
+        \item[(a)] Dokazati da sve parabole iz $X$ seku $x$-osu.
+        \item[(b)] Odrediti jednačinu geometrijskog mesta temena svih ovih parabola.
+        \item[(v)] Za koju vrednost parametra $a$ je zbir kvadrata korena jednačine $f_a(x) = 0$ najmanji?
+    \end{itemize}"
+1.0,2005-Drzavno-A-1-1,2005-Drzavno-B-1-1,Kombinatorika,Kombinatorika,True,Koliko ima jednakokrakih trapeza sa celobrojnim stranicama čiji je obim 2005?,Koliko ima jednakokrakih trapeza sa celobrojnim stranicama čiji je obim 2005?
+1.0,2004-Drzavno-A-2-4,2004-Drzavno-B-2-4,Algebra,Algebra,True,"Razlika korena kvadratne jednačine $x^{2} + px + q = 0$ ($p, q \in \mathbb{R}$) jednaka je 4. Naći te korene tako da zbir $p + q$ bude najmanji mogući.","Razlika korena kvadratne jednačine $x^{2} + px + q = 0$ ($p, q \in \mathbb{R}$) jednaka je 4. Naći te korene tako da zbir $p + q$ bude najmanji mogući."
+1.0,2004-Drzavno-A-1-5,2004-Drzavno-B-1-5,Kombinatorika,Kombinatorika,True,"Koliko ima prirodnih brojeva $n$, $10 \leqslant n < 100000$, deljivih sa 4 u čijem se dekadnom zapisu ne pojavljuje cifra 0 i nikoje dve susedne cifre nisu jednake?","Koliko ima prirodnih brojeva $n$, $10 \leqslant n < 100000$, deljivih sa 4 u čijem se dekadnom zapisu ne pojavljuje cifra 0 i nikoje dve susedne cifre nisu jednake?"
+1.0,2003-Drzavno-A-4-1,2003-Drzavno-B-4-1,Geometrija,Geometrija,True,"Naći skup svih mogućih pozitivnih realnih brojeva $V$ takvih da postoji pravougli paralelepiped sa sledećim osobinama: njegova zapremina je $V$, površina $18$, a suma rastojanja od centra do strana je $6$.","Naći skup svih mogućih pozitivnih realnih brojeva $V$ takvih da postoji pravougli paralelepiped sa sledećim osobinama: njegova zapremina je $V$, površina $18$, a suma rastojanja od centra do strana je $6$."
+1.0,2003-Drzavno-A-3-3,2003-Drzavno-A-4-3,Geometrija,Geometrija,True,"Neka je $O$ centar opisane kružnice, a $T$ težište trougla $ABC$, koji nije jednakostraničan. Dokazati da je $OT$ normalna na težišnu duž $CC_1$ ako i samo ako za stranice trougla važi $BC^2 + CA^2 = 2AB^2$.","Neka je $O$ centar opisane kružnice, a $T$ težište trougla $ABC$, koji nije jednakostraničan. Dokazati da je $OT$ normalna na težišnu duž $CC_1$ ako i samo ako za stranice trougla važi $BC^2 + CA^2 = 2AB^2$."
+1.0,2003-Drzavno-A-3-2,2003-Drzavno-A-4-2,Teorija brojeva,Teorija brojeva,True,Neka je $p > 2$ prost broj. Dokazati da je svaki delilac broja $2^p - 1$ oblika $2kp + 1$ za neko prirodno $k$.,Neka je $p > 2$ prost broj. Dokazati da je svaki delilac broja $2^p - 1$ oblika $2kp + 1$ za neko prirodno $k$.
+1.0,2003-Drzavno-A-2-2,2003-Drzavno-B-2-2,Algebra,Algebra,True,"Neka je $S$ podskup skupa realnih brojeva koji je zatvoren u odnosu na množenje (to znači kad god su $a, b \in S$, onda je i $a \cdot b \in S$). Neka su $T$ i $U$ disjunktni podskupovi skupa $S$, čija je unija ceo skup $S$. Poznato je da proizvod ma koja tri elementa skupa $T$ (ne obavezno različita) pripada skupu $T$ i da proizvod ma koja tri elementa iz $U$ pripada skupu $U$. Dokazati da je bar jedan od podskupova $T$ i $U$ zatvoren u odnosu na množenje.","Neka je $S$ podskup skupa realnih brojeva koji je zatvoren u odnosu na množenje (to znači kad god su $a, b \in S$, onda je i $a \cdot b \in S$). Neka su $T$ i $U$ disjunktni podskupovi skupa $S$, čija je unija ceo skup $S$. Poznato je da proizvod ma koja tri elementa skupa $T$ (ne obavezno različita) pripada skupu $T$ i da proizvod ma koja tri elementa iz $U$ pripada skupu $U$. Dokazati da je bar jedan od podskupova $T$ i $U$ zatvoren u odnosu na množenje."
+1.0,2003-Drzavno-A-1-3,2003-Drzavno-B-1-3,Kombinatorika,Kombinatorika,True,Svako od $20$ ljudi šalje nekoj desetorici od ostalih po jedno pismo. Dokazati da postoje dve osobe koje su jedna drugoj poslale pismo.,Svako od $20$ ljudi šalje nekoj desetorici od ostalih po jedno pismo. Dokazati da postoje dve osobe koje su jedna drugoj poslale pismo.
+1.0,2001-Drzavno-A-3-3,2001-Drzavno-B-3-3,Geometrija,Geometrija,True,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.
+1.0,2001-Drzavno-A-3-3,2001-Drzavno-B-4-3,Geometrija,Geometrija,True,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.
+1.0,2001-Drzavno-A-2-3,2006-Okruzno-B-2-2,Geometrija,Geometrija,False,Svaka dijagonala konveksnog petougla odseca trougao jedinične površine. Izračunati površinu tog petougla.,Svaka dijagonala konveksnog petougla odseca trougao jedinične površine. Izračunati površinu tog petougla.
+1.0,2001-Drzavno-A-2-1,2001-Drzavno-B-2-1,Algebra,Algebra,True,"Odrediti skup svih realnih vrednosti parametra $a$ za koje nejednačina
+    \[
+        x^2 - a(a + 1)x + a^3 \leq 0
+    \]
+    ima tačno pet celobrojnih rešenja.","Odrediti skup svih realnih vrednosti parametra $a$ za koje nejednačina
+    \[
+        x^2 - a(a + 1)x + a^3 \leq 0
+    \]
+    ima tačno pet celobrojnih rešenja."
+1.0,2001-Drzavno-A-1-5,2001-Drzavno-B-1-5,Kombinatorika,Kombinatorika,True,"Dat je skup $\mathcal{A}$ od 2000 tačaka u ravni, tako da među njima ne postoje tri kolinearne. Dokazati da se ove tačke mogu spojiti sa 1000 plavih, 1000 crvenih i 1000 žutih duži, tako da važi:
+    \begin{itemize}
+        \item[(1)] svaka tačka skupa $\mathcal{A}$ spojena je sa tačno 3 druge skupa $\mathcal{A}$;
+        \item[(2)] iz svake tačke skupa $\mathcal{A}$ polaze duži tri različite boje;
+        \item[(3)] duži različitih boja nemaju zajedničkih unutrašnjih tačaka.
+    \end{itemize}","Dat je skup $\mathcal{A}$ od 2000 tačaka u ravni, tako da među njima ne postoje tri kolinearne. Dokazati da se ove tačke mogu spojiti sa 1000 plavih, 1000 crvenih i 1000 žutih duži, tako da važi:
+    \begin{itemize}
+        \item[(1)] svaka tačka skupa $\mathcal{A}$ spojena je sa tačno 3 druge skupa $\mathcal{A}$;
+        \item[(2)] iz svake tačke skupa $\mathcal{A}$ polaze duži tri različite boje;
+        \item[(3)] duži različitih boja nemaju zajedničkih unutrašnjih tačaka.
+    \end{itemize}"
+1.0,2001-Drzavno-A-1-3,2001-Drzavno-B-2-3,Algebra,Algebra,True,"Neka su $a$, $b$, $c$ pozitivni brojevi, takvi da je $a > c$ i $b > c$. Dokazati:
+    \[
+        \sqrt{c(a - c)} + \sqrt{c(b - c)} \leq \sqrt{ab}.
+    \]","Neka su $a$, $b$, $c$ pozitivni brojevi, takvi da je $a > c$ i $b > c$. Dokazati:
+    \[
+        \sqrt{c(a - c)} + \sqrt{c(b - c)} \leq \sqrt{ab}.
+    \]"
+1.0,2000-Drzavno-A-3-2,2000-Drzavno-A-4-2,Algebra,Algebra,True,"Za kakve $a, b \in \mathbf{R}$ sistem jednačina:
+    \begin{align*}
+        \cos x + \cos y &= a\\
+        \sin x + \sin y &= b
+    \end{align*}
+    ima rešenja?","Za kakve $a, b \in \mathbf{R}$ sistem jednačina:
+    \begin{align*}
+        \cos x + \cos y &= a\\
+        \sin x + \sin y &= b
+    \end{align*}
+    ima rešenja?"
+1.0,2009-Drzavno-A-3-4,2009-Drzavno-A-4-4,Teorija brojeva,Teorija brojeva,True,"Odrediti sve prirodne brojeve $a, b, c$, tako da važi $4 \mid a + b$ i $a^2 - 2a = b^2 + c^2$.","Odrediti sve prirodne brojeve $a, b, c$, tako da važi $4 \mid a + b$ i $a^2 - 2a = b^2 + c^2$."
+1.0,2009-Drzavno-A-3-2,2009-Drzavno-A-4-2,Geometrija,Geometrija,True,"Kružnice $k_1$ i $k_2$ se seku u tačkama $A$ i $B$. Tangenta na $k_1$ u $A$ i tangenta na $k_2$ u $B$ se seku u tački $M$. Proizvoljna prava kroz $A$ seče krugove $k_1$ i $k_2$ u tačkama $X$ i $Y$ redom. Ako je $BY \cap MX = P$ i $MA \cap k_2 = Q$, dokazati da je $PQ \parallel XY$.","Kružnice $k_1$ i $k_2$ se seku u tačkama $A$ i $B$. Tangenta na $k_1$ u $A$ i tangenta na $k_2$ u $B$ se seku u tački $M$. Proizvoljna prava kroz $A$ seče krugove $k_1$ i $k_2$ u tačkama $X$ i $Y$ redom. Ako je $BY \cap MX = P$ i $MA \cap k_2 = Q$, dokazati da je $PQ \parallel XY$."
+1.0,2008-Drzavno-A-3-1,2008-Drzavno-B-3-5,Geometrija,Geometrija,True,Položaj velike i male kazaljke na satu naziva se dvostruko mogućim ako će zamenom mesta velike i male kazaljke one opet korektno pokazivati neko vreme. Koliko ima dvostruko mogućih položaja kazaljki?,Položaj velike i male kazaljke na satu naziva se dvostruko mogućim ako će zamenom mesta velike i male kazaljke one opet korektno pokazivati neko vreme. Koliko ima dvostruko mogućih položaja kazaljki?
+1.0,2008-Drzavno-A-1-2,2008-Drzavno-B-1-4,Geometrija,Geometrija,True,U trouglu $ABC$ je $\angle ABC = 45^\circ$ i $\angle CAB = 15^\circ$. Neka je $M$ tačka na polupravoj $BC$ takva da je $\overrightarrow{BM} = 3 \cdot \overrightarrow{BC}$. Odrediti uglove trougla $ABM$.,U trouglu $ABC$ je $\angle ABC = 45^\circ$ i $\angle CAB = 15^\circ$. Neka je $M$ tačka na polupravoj $BC$ takva da je $\overrightarrow{BM} = 3 \cdot \overrightarrow{BC}$. Odrediti uglove trougla $ABM$.
+1.0,2006-Drzavno-A-2-4,2006-Drzavno-B-2-5,Kombinatorika,Kombinatorika,True,"U dnevnoj sobi se nalazi neki broj ljudi, i poznato je da svaki od njih poznaje tačno pet prisutnih (poznanstvo je uzajamno). Dokazati da je za neko $n \geqslant 5$ moguće odabrati $n$ ljudi iz dnevne sobe i smestiti ih za okrugli sto u trpezariji tako da svako sedi između dva poznanika.","U dnevnoj sobi se nalazi neki broj ljudi, i poznato je da svaki od njih poznaje tačno pet prisutnih (poznanstvo je uzajamno). Dokazati da je za neko $n \geqslant 5$ moguće odabrati $n$ ljudi iz dnevne sobe i smestiti ih za okrugli sto u trpezariji tako da svako sedi između dva poznanika."
+1.0,2006-Drzavno-A-1-1,2006-Drzavno-B-1-2,Kombinatorika,Kombinatorika,True,"Ako su $A$ i $B$ neprazni podskupovi ravni $\alpha$, takvi da je $A \cap B = \emptyset$ i $A \cup B = \alpha$, dokazati da postoji jednakokraki pravougli trougao čija su sva tri temena u jednom od skupova $A$ ili $B$.","Ako su $A$ i $B$ neprazni podskupovi ravni $\alpha$, takvi da je $A \cap B = \emptyset$ i $A \cup B = \alpha$, dokazati da postoji jednakokraki pravougli trougao čija su sva tri temena u jednom od skupova $A$ ili $B$."
+1.0,2005-Drzavno-A-4-3,2005-Drzavno-B-4-3,Teorija brojeva,Teorija brojeva,True,"Ako su $1 = d_1 < d_2 < \ldots < d_k = n$ svi delioci prirodnog broja $n > 1$, dokazati da je $d_1 + d_2 + \ldots + d_k > k\sqrt{n}$.","Ako su $1 = d_1 < d_2 < \ldots < d_k = n$ svi delioci prirodnog broja $n > 1$, dokazati da je $d_1 + d_2 + \ldots + d_k > k\sqrt{n}$."
+1.0,2005-Drzavno-A-3-3,2005-Drzavno-B-3-3,Geometrija,Geometrija,True,"U četvorouglu $ABCD$ je $\angle DAB = 150^{\circ}$, $\angle DAC + \angle ABD = 120^{\circ}$ i $\angle DBC - \angle ABD = 60^{\circ}$. Naći $\angle BDC$.","U četvorouglu $ABCD$ je $\angle DAB = 150^{\circ}$, $\angle DAC + \angle ABD = 120^{\circ}$ i $\angle DBC - \angle ABD = 60^{\circ}$. Naći $\angle BDC$."
+1.0,2005-Drzavno-A-2-2,2005-Drzavno-B-2-2,Geometrija,Geometrija,True,Neka je $H$ ortocentar oštrouglog trougla $\triangle ABC$. Na dužima $BH$ i $CH$ određene su tačke $B_1$ i $C_1$ takve da je $\angle AB_1C = \angle AC_1B = 90^{\circ}$. Dokazati da je $AB_1 = AC_1$.,Neka je $H$ ortocentar oštrouglog trougla $\triangle ABC$. Na dužima $BH$ i $CH$ određene su tačke $B_1$ i $C_1$ takve da je $\angle AB_1C = \angle AC_1B = 90^{\circ}$. Dokazati da je $AB_1 = AC_1$.
+1.0,2001-Drzavno-B-3-3,2001-Drzavno-B-4-3,Geometrija,Geometrija,True,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.,Dokazati da je merni broj površine normalne projekcije jedinične kocke na proizvoljnu ravan $\alpha$ jednak mernom broju dužine normalne projekcije kocke na pravu $n$ normalnu na $\alpha$.
+1.0,1999-Drzavno-B-3-5,1999-Drzavno-B-4-5,Algebra,Algebra,True,"Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne.","Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne."
+1.0,2009-Opstinsko-A-2-1,2009-Opstinsko-B-3-3,Algebra,Algebra,True,"Odrediti sve $a, b \in \mathbb{R}$ tako da za svako $x \in \mathbb{R}$ važi
+    \[
+        a(\cos x - 1) + b^2 = \cos(ax + b^2) - 1.
+    \]","Odrediti sve $a, b \in \mathbb{R}$ tako da za svako $x \in \mathbb{R}$ važi
+    \[
+        a(\cos x - 1) + b^2 = \cos(ax + b^2) - 1.
+    \]"
+1.0,2009-Opstinsko-A-1-3,2009-Opstinsko-B-1-5,Teorija brojeva,Teorija brojeva,True,Neka je $n \in \mathbb{N}$. Dokazati da $121 \nmid n^2 + 3n + 5$.,Neka je $n \in \mathbb{N}$. Dokazati da $121 \nmid n^2 + 3n + 5$.
+1.0,2008-Opstinsko-A-4-1,2008-Opstinsko-B-4-5,Algebra,Algebra,True,"Odrediti za koje $a, b \in \mathbb{R}$ grafici funkcija
+    \[
+        f(x) = a \cdot 2^x + b \quad \text{i} \quad g(x) = b \cdot 2^{-x} + a
+    \]
+    imaju tačno dve zajedničke tačke. Odrediti te tačke.","Odrediti za koje $a, b \in \mathbb{R}$ grafici funkcija
+    \[
+        f(x) = a \cdot 2^x + b \quad \text{i} \quad g(x) = b \cdot 2^{-x} + a
+    \]
+    imaju tačno dve zajedničke tačke. Odrediti te tačke."
+1.0,2008-Opstinsko-B-3-3,2008-Opstinsko-B-4-3,Kombinatorika,Kombinatorika,True,"Na košarkaškom turniru učestvovalo je $8$ ekipa i svaka je sa svakom odigrala po jednu utakmicu. Za pobedu se dobija dva poena, a poražena ekipa dobija $0$ poena (nema nerešenih utakmica). Ekipe su sakupile redom $14, 12, 8, 8, 6, 4, 2, 2$ poena. Koliko utakmica su poslednje četiri ekipe izgubile od prve četiri ekipe?","Na košarkaškom turniru učestvovalo je $8$ ekipa i svaka je sa svakom odigrala po jednu utakmicu. Za pobedu se dobija dva poena, a poražena ekipa dobija $0$ poena (nema nerešenih utakmica). Ekipe su sakupile redom $14, 12, 8, 8, 6, 4, 2, 2$ poena. Koliko utakmica su poslednje četiri ekipe izgubile od prve četiri ekipe?"
+1.0,2008-Opstinsko-A-3-2,2008-Opstinsko-B-3-5,Geometrija,Geometrija,True,U kupu je upisana lopta. Dokazati da je odnos površina kupe i lopte jednak odnosu njihovih zapremina.,U kupu je upisana lopta. Dokazati da je odnos površina kupe i lopte jednak odnosu njihovih zapremina.
+1.0,2008-Opstinsko-A-3-1,2008-Opstinsko-B-3-1,Algebra,Algebra,True,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]"
+1.0,2008-Opstinsko-A-2-1,2008-Opstinsko-B-2-4,Teorija brojeva,Teorija brojeva,True,Dokazati da se nijedan prost broj oblika $p = 2^{2^n} + 1$ ne može predstaviti kao razlika petih stepena dva prirodna broja.,Dokazati da se nijedan prost broj oblika $p = 2^{2^n} + 1$ ne može predstaviti kao razlika petih stepena dva prirodna broja.
+1.0,2008-Opstinsko-A-1-4,2008-Opstinsko-B-1-5,Kombinatorika,Kombinatorika,True,"Poznato je da bi $60$ krava pojelo svu travu sa livade za $24$ dana, a $30$ krava za $60$ dana. Svakog dana izraste ista količina trave.
+
+    (a) Koliko krava bi pojelo svu travu sa livade za $100$ dana?
+
+    (b) Za koliko dana bi $10$ krava pojelo svu travu sa livade?","Poznato je da bi $60$ krava pojelo svu travu sa livade za $24$ dana, a $30$ krava za $60$ dana. Svakog dana izraste ista količina trave.
+
+    (a) Koliko krava bi pojelo svu travu sa livade za $100$ dana?
+
+    (b) Za koliko dana bi $10$ krava pojelo svu travu sa livade?"
+1.0,2008-Opstinsko-A-1-1,2008-Opstinsko-B-1-4,Teorija brojeva,Teorija brojeva,True,Odrediti da li je broj $10^{5^{10^{5^{10}}}} + 5^{10^{5^{10^{5}}}}$ deljiv sa $11$.,Odrediti da li je broj $10^{5^{10^{5^{10}}}} + 5^{10^{5^{10^{5}}}}$ deljiv sa $11$.
+1.0,2007-Opstinsko-A-4-2,2007-Opstinsko-B-4-4,Algebra,Algebra,True,"Odrediti maksimalnu vrednost funkcije
+    \[
+        f(x) = \left| x(x-1)(x-2)(x-3)(x-4)(x-5)(x-6)(x-7) \right|
+    \]
+    za $x \in [3,4]$.","Odrediti maksimalnu vrednost funkcije
+    \[
+        f(x) = \left| x(x-1)(x-2)(x-3)(x-4)(x-5)(x-6)(x-7) \right|
+    \]
+    za $x \in [3,4]$."
+1.0,2007-Opstinsko-A-4-1,2007-Opstinsko-B-4-3,Algebra,Algebra,True,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.
+1.0,2007-Opstinsko-B-3-2,2007-Opstinsko-B-4-2,Algebra,Algebra,True,"Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            2x + y + z + u & = & 1 \\
+            x + 2y + z + u & = & 1 \\
+            x + y + 2z + u & = & 1 \\
+            x + y + z + 2u & = & 1.
+        \end{array}
+    \]","Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            2x + y + z + u & = & 1 \\
+            x + 2y + z + u & = & 1 \\
+            x + y + 2z + u & = & 1 \\
+            x + y + z + 2u & = & 1.
+        \end{array}
+    \]"
+1.0,2007-Opstinsko-A-3-4,2007-Opstinsko-A-4-1,Algebra,Algebra,True,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.
+1.0,2007-Opstinsko-A-3-4,2007-Opstinsko-B-4-3,Algebra,Algebra,True,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.,Jednačina $z^4 + z^3 + 2z^2 + 2z + 4 = 0$ ima jedan kompleksni koren čiji je realni deo jednak imaginarnom delu. Naći taj koren.
+1.0,2007-Opstinsko-A-2-2,2007-Opstinsko-A-3-3,Geometrija,Geometrija,True,"U ravni su zadati prava $l$ i tačke $A$ i $B$ sa iste strane $l$. Neka je $M$ tačka na $l$ za koju je $AM + MB$ najmanje, a $N$ tačka na $l$ za koju važi da je $AN = BN$. Dokazati da $A, B, M, N$ leže na istom krugu.","U ravni su zadati prava $l$ i tačke $A$ i $B$ sa iste strane $l$. Neka je $M$ tačka na $l$ za koju je $AM + MB$ najmanje, a $N$ tačka na $l$ za koju važi da je $AN = BN$. Dokazati da $A, B, M, N$ leže na istom krugu."
+1.0,2007-Opstinsko-A-1-2,2007-Opstinsko-B-1-3,Algebra,Algebra,True,"(M504) Rešiti sistem jednačina ($[x]$ je ceo deo realnog broja $x$)
+    \[
+        \begin{array}{rcl}
+            x - y & = & 2005 \\
+            {[x]} + [y] & = & 2007.
+        \end{array}
+    \]","(M504) Rešiti sistem jednačina ($[x]$ je ceo deo realnog broja $x$)
+    \[
+        \begin{array}{rcl}
+            x - y & = & 2005 \\
+            {[x]} + [y] & = & 2007.
+        \end{array}
+    \]"
+1.0,2006-Opstinsko-A-4-3,2006-Opstinsko-B-4-5,Algebra,Algebra,True,"Pretpostavimo da smo realnu funkciju $\psi$ uveli na sledeći način
+    \[
+        \psi(x) = \left\{
+        \begin{array}{ll}
+            x, & x > 2, \\
+            2, & 1 < x \leqslant 2, \\
+            2x, & x \leqslant 1.
+        \end{array}
+        \right.
+    \]
+    Rešiti sledeće formule po $x \in \mathbb{R}$:
+    \begin{enumerate}
+        \item[(a)] $\psi(x) < x$;
+        \item[(b)] $\psi(x) + \psi(1 - x) + \psi(\psi(x)) = 2$.","Pretpostavimo da smo realnu funkciju $\psi$ uveli na sledeći način
+    \[
+        \psi(x) = \left\{
+        \begin{array}{ll}
+            x, & x > 2, \\
+            2, & 1 < x \leqslant 2, \\
+            2x, & x \leqslant 1.
+        \end{array}
+        \right.
+    \]
+    Rešiti sledeće formule po $x \in \mathbb{R}$:
+    \begin{enumerate}
+        \item[(a)] $\psi(x) < x$;
+        \item[(b)] $\psi(x) + \psi(1 - x) + \psi(\psi(x)) = 2$."
+1.0,2006-Opstinsko-A-4-2,2006-Opstinsko-B-4-4,Algebra,Algebra,True,"Naći najveću vrednost funkcije
+    \[
+        f(x) = \frac{x}{x^2 + 9} + \frac{1}{x^2 - 6x + 21} + \cos 2\pi x
+    \]
+    na intervalu $(0, +\infty)$.","Naći najveću vrednost funkcije
+    \[
+        f(x) = \frac{x}{x^2 + 9} + \frac{1}{x^2 - 6x + 21} + \cos 2\pi x
+    \]
+    na intervalu $(0, +\infty)$."
+1.0,2006-Opstinsko-A-4-1,2006-Opstinsko-B-4-2,Algebra,Algebra,True,Neka je funkcija $f : \mathbb{R} \to \mathbb{R}$ zadata formulom $f(x) = 3 \sin x + 4 \cos x$. Odrediti maksimalnu i minimalnu vrednost ove funkcije.,Neka je funkcija $f : \mathbb{R} \to \mathbb{R}$ zadata formulom $f(x) = 3 \sin x + 4 \cos x$. Odrediti maksimalnu i minimalnu vrednost ove funkcije.
+1.0,1999-Okruzno-A-3-2,1999-Okruzno-B-3-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,1999-Okruzno-A-3-2,1999-Okruzno-A-4-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,1999-Okruzno-A-3-2,1999-Okruzno-B-4-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,2009-Drzavno-B-3-4,2009-Drzavno-B-4-4,Kombinatorika,Kombinatorika,True,Koliko se najviše konja može postaviti na šahovsku tablu dimenzija $7 \times 7$ tako da se nikoja dva ne tuku?,Koliko se najviše konja može postaviti na šahovsku tablu dimenzija $7 \times 7$ tako da se nikoja dva ne tuku?
+1.0,2007-Drzavno-B-3-1,2007-Drzavno-B-4-1,Kombinatorika,Kombinatorika,True,"Dvočlana particija skupa $P = \{1, 2, \ldots, n\}$ je par $\{A,B\}$ nepraznih podskupova od $P$ takvih da je $P = A \cup B$ i $A \cap B = \emptyset$ (particije $\{A,B\}$ i $\{B,A\}$ se smatraju jednakim). Dokazati da je broj dvočlanih particija skupa $P$ jednak $2^{n-1} - 1$.","Dvočlana particija skupa $P = \{1, 2, \ldots, n\}$ je par $\{A,B\}$ nepraznih podskupova od $P$ takvih da je $P = A \cup B$ i $A \cap B = \emptyset$ (particije $\{A,B\}$ i $\{B,A\}$ se smatraju jednakim). Dokazati da je broj dvočlanih particija skupa $P$ jednak $2^{n-1} - 1$."
+1.0,2006-Opstinsko-B-3-1,2006-Opstinsko-B-4-1,Algebra,Algebra,True,"Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]","Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]"
+1.0,2006-Opstinsko-A-3-3,2006-Opstinsko-B-3-3,Geometrija,Geometrija,True,Između stranica trougla postoji relacija $a - b = b - c > 0$. Dokazati da drugi po veličini ugao ne prelazi $60^{\circ}$.,Između stranica trougla postoji relacija $a - b = b - c > 0$. Dokazati da drugi po veličini ugao ne prelazi $60^{\circ}$.
+1.0,2006-Opstinsko-A-3-1,2006-Opstinsko-B-3-1,Algebra,Algebra,True,"Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]","Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]"
+1.0,2006-Opstinsko-A-3-1,2006-Opstinsko-B-4-1,Algebra,Algebra,True,"Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]","Rešiti sistem jednačina
+    \[
+        \begin{array}{rcl}
+            \log_2 x + \log_4 y + \log_4 z & = & 2 \\
+            \log_3 y + \log_9 z + \log_9 x & = & 2 \\
+            \log_4 z + \log_{16} x + \log_{16} y & = & 2.
+        \end{array}
+    \]"
+1.0,2006-Opstinsko-A-2-3,2006-Opstinsko-B-2-3,Geometrija,Geometrija,True,"Naći $\angle ACB$ oštrouglog $\triangle ABC$ ako je poznato da duž $HN$, koja spaja podnožja visina $AH$ i $BN$, polovi simetralu $\angle ACB$.","Naći $\angle ACB$ oštrouglog $\triangle ABC$ ako je poznato da duž $HN$, koja spaja podnožja visina $AH$ i $BN$, polovi simetralu $\angle ACB$."
+1.0,2006-Opstinsko-A-1-5,2006-Opstinsko-A-2-2,Kombinatorika,Kombinatorika,True,Može li se jednakostranični trougao podeliti na $2006$ jednakostraničnih trouglova?,Može li se jednakostranični trougao podeliti na $2006$ jednakostraničnih trouglova?
+1.0,2006-Opstinsko-A-1-1,2006-Opstinsko-B-1-2,Kombinatorika,Kombinatorika,True,Na koliko načina se $3$ topa mogu postaviti na šahovsku tablu dimenzija $6 \times 2006$ tako da se uzajamno ne tuku (tj.\ dva topa se ne mogu istovremeno naći u istoj vrsti ili istoj koloni)?,Na koliko načina se $3$ topa mogu postaviti na šahovsku tablu dimenzija $6 \times 2006$ tako da se uzajamno ne tuku (tj.\ dva topa se ne mogu istovremeno naći u istoj vrsti ili istoj koloni)?
+1.0,2005-Opstinsko-A-4-3,2005-Opstinsko-B-4-3,Algebra,Algebra,True,"Data je funkcija $f(x) = \lim\limits_{n \to \infty} \dfrac{x}{1 + x^n}$, $x \geq 0$. Odrediti nule i znak funkcije $f(x)$, ispitati monotoniju, a zatim nacrtati grafik funkcije $f(x)$.","Data je funkcija $f(x) = \lim\limits_{n \to \infty} \dfrac{x}{1 + x^n}$, $x \geq 0$. Odrediti nule i znak funkcije $f(x)$, ispitati monotoniju, a zatim nacrtati grafik funkcije $f(x)$."
+1.0,2005-Opstinsko-B-3-2,2005-Opstinsko-B-4-2,Algebra,Algebra,True,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.
+1.0,2005-Opstinsko-A-3-4,2005-Opstinsko-A-4-4,Algebra,Algebra,True,"Neka su $a$, $b$ i $c$ kompleksni brojevi takvi da su sva tri korena jednačine $x^3 + ax^2 + bx + c = 0$ modula 1. Dokazati da su sva tri korena jednačine $x^3 + |a|x^2 + |b|x + |c| = 0$, takođe, modula 1.","Neka su $a$, $b$ i $c$ kompleksni brojevi takvi da su sva tri korena jednačine $x^3 + ax^2 + bx + c = 0$ modula 1. Dokazati da su sva tri korena jednačine $x^3 + |a|x^2 + |b|x + |c| = 0$, takođe, modula 1."
+1.0,2005-Opstinsko-A-3-2,2005-Opstinsko-B-3-2,Algebra,Algebra,True,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.
+1.0,2005-Opstinsko-A-3-2,2005-Opstinsko-B-4-2,Algebra,Algebra,True,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.,U skupu realnih brojeva rešiti jednačinu $x^{\log_2 3} + 3^{\log_2 \sqrt{x}} = 12$.
+1.0,2005-Opstinsko-A-2-4,2005-Opstinsko-B-2-4,Algebra,Algebra,True,"Za koje vrednosti realnog parametra $m$ jednačina
+    \[
+        mx^2 + (2m + 1)x + (m - 3) = 0
+    \]
+    ima bar jedno negativno rešenje? Kada ima dva negativna rešenja?","Za koje vrednosti realnog parametra $m$ jednačina
+    \[
+        mx^2 + (2m + 1)x + (m - 3) = 0
+    \]
+    ima bar jedno negativno rešenje? Kada ima dva negativna rešenja?"
+1.0,2002-Okruzno-A-1-4,2002-Okruzno-B-2-4,Geometrija,Geometrija,True,"Nad stranicama konveksnog četvorougla, kao nad prečnicima, konstruisana su četiri kruga. Dokazati da ti krugovi prekrivaju četvorougao.","Nad stranicama konveksnog četvorougla, kao nad prečnicima, konstruisana su četiri kruga. Dokazati da ti krugovi prekrivaju četvorougao."
+1.0,2001-Okruzno-B-3-5,2001-Okruzno-B-4-5,Teorija brojeva,Teorija brojeva,True,"Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan.","Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan."
+1.0,2001-Okruzno-A-3-5,2001-Okruzno-B-3-5,Teorija brojeva,Teorija brojeva,True,"Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan.","Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan."
+1.0,2001-Okruzno-A-3-5,2001-Okruzno-B-4-5,Teorija brojeva,Teorija brojeva,True,"Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan.","Neka je $S = \{r_1^4 + r_2^4 + \cdots + r_{15}^4 \mid r_1, r_2, \ldots, r_{15} \in \mathbb{Z}\}$. Dokazati da je skup $\mathbb{N} \setminus S$ beskonačan."
+1.0,2001-Okruzno-A-2-4,2001-Okruzno-B-2-4,Geometrija,Geometrija,True,"U ravni su dati jednako orijentisani kvadrati $A_1B_1C_1D_1$ i $A_2B_2C_2D_2$. Dokazati da su središta duži $A_1A_2$, $B_1B_2$, $C_1C_2$, $D_1D_2$ temena kvadrata.","U ravni su dati jednako orijentisani kvadrati $A_1B_1C_1D_1$ i $A_2B_2C_2D_2$. Dokazati da su središta duži $A_1A_2$, $B_1B_2$, $C_1C_2$, $D_1D_2$ temena kvadrata."
+1.0,2001-Okruzno-A-2-1,2001-Okruzno-B-3-1,Algebra,Algebra,True,"Ako su $x$, $y$ i $z$ realni brojevi, takvi da je $\sin x + \sin y + \sin z \geq 2$, onda je $\cos x + \cos y + \cos z \leq \sqrt{5}$. Dokazati.","Ako su $x$, $y$ i $z$ realni brojevi, takvi da je $\sin x + \sin y + \sin z \geq 2$, onda je $\cos x + \cos y + \cos z \leq \sqrt{5}$. Dokazati."
+1.0,2001-Okruzno-A-1-5,2001-Okruzno-B-1-5,Kombinatorika,Kombinatorika,True,"Četiri temena datog pravilnog osmougla treba obojiti plavom, a preostala četiri crvenom bojom. Dva bojenja smatramo ekvivalentnim ako postoji rotacija ravni tog osmougla koja svako njegovo teme prevodi u teme obojeno istom bojom. Koliko ima neekvivalentnih bojenja?","Četiri temena datog pravilnog osmougla treba obojiti plavom, a preostala četiri crvenom bojom. Dva bojenja smatramo ekvivalentnim ako postoji rotacija ravni tog osmougla koja svako njegovo teme prevodi u teme obojeno istom bojom. Koliko ima neekvivalentnih bojenja?"
+1.0,2000-Okruzno-A-2-1,2000-Okruzno-B-2-1,Teorija brojeva,Teorija brojeva,True,U celim brojevima rešiti jednačinu: $7a + 14b = 5a^{2} + 5ab + 5b^{2}$.,U celim brojevima rešiti jednačinu: $7a + 14b = 5a^{2} + 5ab + 5b^{2}$.
+1.0,2000-Okruzno-A-1-5,2000-Okruzno-B-4-3,Algebra,Algebra,True,"Naći sve realne brojeve $a$, $b$, $c$, $d$ tako da važi:
+    \begin{align*}
+        abc + ab + bc + ca + a + b + c &= 2\\
+        bcd + bc + cd + db + b + c + d &= 5\\
+        cda + cd + da + ac + c + d + a &= 7\\
+        dab + da + ab + bd + d + a + b &= 11
+    \end{align*}","Naći sve realne brojeve $a$, $b$, $c$, $d$ tako da važi:
+    \begin{align*}
+        abc + ab + bc + ca + a + b + c &= 2\\
+        bcd + bc + cd + db + b + c + d &= 5\\
+        cda + cd + da + ac + c + d + a &= 7\\
+        dab + da + ab + bd + d + a + b &= 11
+    \end{align*}"
+1.0,1999-Okruzno-A-4-1,1999-Okruzno-B-4-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,1999-Okruzno-B-3-1,1999-Okruzno-A-4-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,1999-Okruzno-B-3-1,1999-Okruzno-B-4-1,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]","Rešiti nejednačinu:
+    \[
+        1 \leq |\cos x|^{\sqrt{2x - 3} \cdot \log_{|\cos x|}\left(\frac{1 + 2\sqrt{3}|\sin x|}{8(1 - 2\cos^{2} x)}\right)}
+    \]"
+1.0,1999-Okruzno-A-3-3,1999-Okruzno-B-4-3,Algebra,Algebra,True,"$P$ je polinom četvrtog stepena takav da je $P(1) = P(-1)$ i $P(2) = P(-2)$. Dokazati da je tada $P : R \to R$ parna funkcija, tj. da važi $P(x) = P(-x)$ za svako $x \in R$.","$P$ je polinom četvrtog stepena takav da je $P(1) = P(-1)$ i $P(2) = P(-2)$. Dokazati da je tada $P : R \to R$ parna funkcija, tj. da važi $P(x) = P(-x)$ za svako $x \in R$."
+1.0,2005-Okruzno-A-3-3,2005-Okruzno-B-3-3,Geometrija,Geometrija,True,"Neka su $a$, $b$, $c$ stranice proizvoljnog trougla i $\alpha$, $\beta$ uglovi naspram stranica $a$ i $b$. Dokazati da važi $a \cos \alpha + b \cos \beta \leq c$.","Neka su $a$, $b$, $c$ stranice proizvoljnog trougla i $\alpha$, $\beta$ uglovi naspram stranica $a$ i $b$. Dokazati da važi $a \cos \alpha + b \cos \beta \leq c$."
+1.0,2005-Okruzno-A-2-4,2005-Okruzno-B-3-4,Algebra,Algebra,True,Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći? (Obrazložiti odgovor!),Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći? (Obrazložiti odgovor!)
+1.0,2005-Okruzno-A-2-3,2005-Okruzno-B-2-4,Algebra,Algebra,True,"Neka su $x$ i $y$ realni brojevi, takvi da je $x^2 + y^2 \leq 25$. Odrediti najveću i najmanju vrednost izraza $x^2 + y^2 + 12x - 16y$.","Neka su $x$ i $y$ realni brojevi, takvi da je $x^2 + y^2 \leq 25$. Odrediti najveću i najmanju vrednost izraza $x^2 + y^2 + 12x - 16y$."
+1.0,2005-Okruzno-B-1-5,2005-Okruzno-B-2-5,Kombinatorika,Kombinatorika,True,"Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?","Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?"
+1.0,2005-Okruzno-A-1-5,2005-Okruzno-B-1-5,Kombinatorika,Kombinatorika,True,"Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?","Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?"
+1.0,2005-Okruzno-A-1-5,2005-Okruzno-B-2-5,Kombinatorika,Kombinatorika,True,"Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?","Ana i Branko su stavili neki broj žetona na polja šahovske table $8 \times 8$. Ana je zapisala brojeve žetona u svakoj vrsti, a Branko brojeve žetona u svakoj koloni. Ana je zapisala sve različite brojeve. Da li je moguće da su svi Brankovi brojevi različiti od Aninih?"
+1.0,2005-Okruzno-A-1-3,2005-Okruzno-B-1-3,Teorija brojeva,Teorija brojeva,True,"Neka su $x$ i $y$ celi brojevi, takvi da $90$ deli $x^2 + xy + y^2$. Dokazati da onda $900$ deli $xy$.","Neka su $x$ i $y$ celi brojevi, takvi da $90$ deli $x^2 + xy + y^2$. Dokazati da onda $900$ deli $xy$."
+1.0,2002-Okruzno-A-4-4,2002-Okruzno-B-4-4,Kombinatorika,Kombinatorika,True,"Čovek se nalazi u čamcu na levoj obali kanala širokog $3\,km$. Želi da stigne do kuće na desnoj obali kanala, koja je od njega udaljena $5\,km$ vazdušnom linijom. On će doveslati do nekog mesta na drugoj obali brzinom od $6\,km/h$, a zatim nastaviti do kuće trčeći brzinom od $8\,km/h$. Odrediti rastojanje kuće i mesta do kog treba čovek da dovesla, da bi stigao kući za najkraće moguće vreme. (Pretpostavlja se da voda u kanalu miruje.)","Čovek se nalazi u čamcu na levoj obali kanala širokog $3\,km$. Želi da stigne do kuće na desnoj obali kanala, koja je od njega udaljena $5\,km$ vazdušnom linijom. On će doveslati do nekog mesta na drugoj obali brzinom od $6\,km/h$, a zatim nastaviti do kuće trčeći brzinom od $8\,km/h$. Odrediti rastojanje kuće i mesta do kog treba čovek da dovesla, da bi stigao kući za najkraće moguće vreme. (Pretpostavlja se da voda u kanalu miruje.)"
+1.0,2002-Okruzno-B-3-1,2002-Okruzno-B-4-1,Geometrija,Geometrija,True,"U ravni su dati krugovi $k_1(O_1, r_1)$, $k_2(O_2, r_2)$, $k_3(O_3, r_3)$, tako da svaki od njih spolja dodiruje preostala dva. Izračunati poluprečnik kruga opisanog oko trougla $O_1O_2O_3$.","U ravni su dati krugovi $k_1(O_1, r_1)$, $k_2(O_2, r_2)$, $k_3(O_3, r_3)$, tako da svaki od njih spolja dodiruje preostala dva. Izračunati poluprečnik kruga opisanog oko trougla $O_1O_2O_3$."
+1.0,2002-Okruzno-A-3-3,2002-Okruzno-B-3-3,Algebra,Algebra,True,"Neka su $\vec{a}, \vec{b}, \vec{c}$ nekomplanarni vektori u $\mathbb{R}^3$, i $\alpha, \beta, \gamma$ realni brojevi. Dokazati da su vektori:
+    \[
+        \beta\vec{c} - \gamma\vec{b}, \quad \gamma\vec{a} - \alpha\vec{c}, \quad \alpha\vec{b} - \beta\vec{a}
+    \]
+    komplanarni.","Neka su $\vec{a}, \vec{b}, \vec{c}$ nekomplanarni vektori u $\mathbb{R}^3$, i $\alpha, \beta, \gamma$ realni brojevi. Dokazati da su vektori:
+    \[
+        \beta\vec{c} - \gamma\vec{b}, \quad \gamma\vec{a} - \alpha\vec{c}, \quad \alpha\vec{b} - \beta\vec{a}
+    \]
+    komplanarni."
+1.0,2002-Okruzno-A-3-1,2002-Okruzno-A-4-1,Geometrija,Geometrija,True,"U oštrouglom nejednakokrakom trouglu $ABC$ uočena je tačka $T$ iz koje se svaka stranica tog trougla vidi pod uglom od $120^\circ$ (\textit{Toričelijeva tačka trougla}). Neka su $A_1$, $B_1$, $C_1$ podnožja normala iz tačke $T$ na stranice trougla, i $k$ kružnica opisana oko $\triangle A_1B_1C_1$. Ako su $A_2$, $B_2$, $C_2$ presečne tačke kružnice $k$ sa stranicama trougla $ABC$, različite od tačaka $A_1$, $B_1$, $C_1$, dokazati da je $\triangle A_2B_2C_2$ jednakostraničan.","U oštrouglom nejednakokrakom trouglu $ABC$ uočena je tačka $T$ iz koje se svaka stranica tog trougla vidi pod uglom od $120^\circ$ (\textit{Toričelijeva tačka trougla}). Neka su $A_1$, $B_1$, $C_1$ podnožja normala iz tačke $T$ na stranice trougla, i $k$ kružnica opisana oko $\triangle A_1B_1C_1$. Ako su $A_2$, $B_2$, $C_2$ presečne tačke kružnice $k$ sa stranicama trougla $ABC$, različite od tačaka $A_1$, $B_1$, $C_1$, dokazati da je $\triangle A_2B_2C_2$ jednakostraničan."
+1.0,2002-Okruzno-A-1-5,2002-Okruzno-B-1-5,Kombinatorika,Kombinatorika,True,"Na odbojkaškom turniru, učestvovalo je 10 ekipa. Svaka od njih je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa je imala $x_1$ pobeda i $y_1$ poraza, druga $x_2$ pobeda i $y_2$ poraza, \ldots, deseta je imala $x_{10}$ pobeda i $y_{10}$ poraza. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \cdots + x_{10}^2 = y_1^2 + y_2^2 + \cdots + y_{10}^2.
+    \]
+    (U odbojci nema nerešenog rezultata -- svaka utakmica se završava pobedom jedne od ekipa.)","Na odbojkaškom turniru, učestvovalo je 10 ekipa. Svaka od njih je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa je imala $x_1$ pobeda i $y_1$ poraza, druga $x_2$ pobeda i $y_2$ poraza, \ldots, deseta je imala $x_{10}$ pobeda i $y_{10}$ poraza. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \cdots + x_{10}^2 = y_1^2 + y_2^2 + \cdots + y_{10}^2.
+    \]
+    (U odbojci nema nerešenog rezultata -- svaka utakmica se završava pobedom jedne od ekipa.)"
+1.0,2007-Okruzno-A-1-1,2007-Okruzno-B-1-1,Teorija brojeva,Teorija brojeva,False,Naći ostatak pri deljenju broja $3^{1000} + 4^{1000}$ sa $13$.,Naći ostatak pri deljenju broja $3^{1000} + 4^{1000}$ sa $13$.
+1.0,2006-Okruzno-B-3-4,2006-Okruzno-B-4-5,Geometrija,Geometrija,True,"(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$.","(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$."
+1.0,2006-Okruzno-B-3-3,2006-Okruzno-B-4-4,Geometrija,Geometrija,True,"Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$.","Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$."
+1.0,2006-Okruzno-B-3-2,2006-Okruzno-B-4-2,Teorija brojeva,Teorija brojeva,True,"U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]","U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]"
+1.0,2006-Okruzno-A-3-5,2006-Okruzno-B-3-4,Geometrija,Geometrija,True,"(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$.","(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$."
+1.0,2006-Okruzno-A-3-5,2006-Okruzno-B-4-5,Geometrija,Geometrija,True,"(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$.","(a) Kako se menja zapremina tetraedra $ABCD$ ako se povećava ivica $AB$ a sve ostale ivice tetraedra ostaju neizmenjene?
+
+    (b) Dužina ivice $AB$ tetraedra $ABCD$ je veća ili jednaka $1$, dok su ostale ivice dužine manje ili jednake $1$. Dokazati da je $V_{ABCD} \leqslant \dfrac{1}{8}$."
+1.0,2006-Okruzno-A-3-4,2006-Okruzno-A-4-2,Geometrija,Geometrija,True,"Dato je $n$ različitih tačaka $A_1, A_2, \ldots, A_n$ u ravni. Neka je $S$ skup svih središta duži $A_iA_j$, $1 \leqslant i < j \leqslant n$.
+
+    a) Dokazati da skup tačaka $S$ ima bar $2n - 3$ elementa.
+
+    b) Naći jedan raspored tačaka $A_1, A_2, \ldots, A_n$ za koji skup $S$ ima tačno $2n - 3$ elementa.","Dato je $n$ različitih tačaka $A_1, A_2, \ldots, A_n$ u ravni. Neka je $S$ skup svih središta duži $A_iA_j$, $1 \leqslant i < j \leqslant n$.
+
+    a) Dokazati da skup tačaka $S$ ima bar $2n - 3$ elementa.
+
+    b) Naći jedan raspored tačaka $A_1, A_2, \ldots, A_n$ za koji skup $S$ ima tačno $2n - 3$ elementa."
+1.0,2006-Okruzno-A-2-3,2006-Okruzno-B-3-3,Geometrija,Geometrija,True,"Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$.","Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$."
+1.0,2006-Okruzno-A-2-3,2006-Okruzno-B-4-4,Geometrija,Geometrija,True,"Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$.","Neka su $\alpha, \beta, \gamma$ uglovi trougla. Ako je $\dfrac{\sin^2 \beta + \sin^2 \gamma - \sin^2 \alpha}{\sin \beta \sin \gamma} = 1$ odrediti ugao $\alpha$."
+1.0,2006-Okruzno-A-2-2,2006-Okruzno-B-3-2,Teorija brojeva,Teorija brojeva,True,"U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]","U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]"
+1.0,2006-Okruzno-A-2-2,2006-Okruzno-B-4-2,Teorija brojeva,Teorija brojeva,True,"U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]","U skupu realnih brojeva rešiti sistem jednačina
+    \[
+        x^z = y^{\frac{8}{3}}, \qquad y^z = x^{\frac{2}{3}}, \qquad z = \sqrt[4]{x} + \sqrt[4]{9y}.
+    \]"
+1.0,2006-Okruzno-A-1-5,2006-Okruzno-B-1-5,Kombinatorika,Kombinatorika,True,U svako polje tablice $8 \times 8$ napisan je broj. Dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ (sastavljen od $9$ polja) ili kvadrat $4 \times 4$ (sastavljen od $16$ polja) i povećati za $1$ svaki broj na poljima izabranog kvadrata. Da li se svaka polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?,U svako polje tablice $8 \times 8$ napisan je broj. Dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ (sastavljen od $9$ polja) ili kvadrat $4 \times 4$ (sastavljen od $16$ polja) i povećati za $1$ svaki broj na poljima izabranog kvadrata. Da li se svaka polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?
+1.0,2006-Okruzno-A-1-3,2006-Okruzno-B-2-5,Kombinatorika,Kombinatorika,True,"Od Novog Sada do Beograda postoje novi i stari put koji su povezani sa $7$ poprečnih puteva. Koliko ima različitih načina putovanja ovim putevima od Novog Sada do Beograda, takvih da u svakom načinu putovanja svaki deo puta je pređen najviše jedanput?","Od Novog Sada do Beograda postoje novi i stari put koji su povezani sa $7$ poprečnih puteva. Koliko ima različitih načina putovanja ovim putevima od Novog Sada do Beograda, takvih da u svakom načinu putovanja svaki deo puta je pređen najviše jedanput?"
+1.0,2006-Okruzno-A-1-2,2006-Okruzno-B-1-1,Teorija brojeva,Teorija brojeva,True,Naći najveći prirodan broj koji je manji od zbira kvadrata svojih cifara.,Naći najveći prirodan broj koji je manji od zbira kvadrata svojih cifara.
+1.0,2005-Okruzno-A-4-3,2005-Okruzno-B-4-3,Algebra,Algebra,True,Naći minimum funkcije $f(x) = \sqrt{x^2 - 4x + 8} + \sqrt{x^2 - 10x + 41}$. Za koje vrednosti $x$ se dostiže taj minimum?,Naći minimum funkcije $f(x) = \sqrt{x^2 - 4x + 8} + \sqrt{x^2 - 10x + 41}$. Za koje vrednosti $x$ se dostiže taj minimum?
+1.0,2009-Okruzno-A-2-3,2009-Okruzno-B-4-4,Geometrija,Geometrija,True,"Neka je $P$ površina trougla, a $R$ poluprečnik njegove opisane kružnice. Dokazati da važi nejednakost $P \leqslant \dfrac{3\sqrt{3}R^2}{4}$. Kada se u prethodnoj nejednakosti dostiže jednakost?","Neka je $P$ površina trougla, a $R$ poluprečnik njegove opisane kružnice. Dokazati da važi nejednakost $P \leqslant \dfrac{3\sqrt{3}R^2}{4}$. Kada se u prethodnoj nejednakosti dostiže jednakost?"
+1.0,2009-Okruzno-A-2-1,2009-Okruzno-B-2-5,Algebra,Algebra,True,"U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 + \sqrt{x}} + \sqrt[3]{2 - \sqrt{x}} = 1.
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 + \sqrt{x}} + \sqrt[3]{2 - \sqrt{x}} = 1.
+    \]"
+1.0,2008-Okruzno-A-4-2,2008-Okruzno-B-4-5,Algebra,Algebra,True,"Odrediti sve $m \in \mathbb{R}$, tako da koreni jednačine
+    \[
+        x^3 - 12x^2 + mx - 60 = 0
+    \]
+    predstavljaju dužine stranica pravouglog trougla.","Odrediti sve $m \in \mathbb{R}$, tako da koreni jednačine
+    \[
+        x^3 - 12x^2 + mx - 60 = 0
+    \]
+    predstavljaju dužine stranica pravouglog trougla."
+1.0,2008-Okruzno-A-4-1,2008-Okruzno-B-4-4,Algebra,Algebra,True,"Neka su $a, b, c \in \mathbb{R}$. Dokazati da jednačina
+    \[
+        (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) = 0
+    \]
+    ima bar jedno rešenje u skupu realnih brojeva.","Neka su $a, b, c \in \mathbb{R}$. Dokazati da jednačina
+    \[
+        (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) = 0
+    \]
+    ima bar jedno rešenje u skupu realnih brojeva."
+1.0,2008-Okruzno-A-3-1,2008-Okruzno-B-3-4,Geometrija,Geometrija,True,"U $\triangle ABC$, simetrala $\angle BAC$ seče $BC$ u tački $D$; prava koja sadrži $D$ i paralelna je sa $AC$ seče $AB$ u tački $E$; prava koja sadrži $E$ i paralelna je sa $BC$ seče $AC$ u tački $F$. Dokazati da je $AE = FC$.","U $\triangle ABC$, simetrala $\angle BAC$ seče $BC$ u tački $D$; prava koja sadrži $D$ i paralelna je sa $AC$ seče $AB$ u tački $E$; prava koja sadrži $E$ i paralelna je sa $BC$ seče $AC$ u tački $F$. Dokazati da je $AE = FC$."
+1.0,2008-Okruzno-A-2-3,2008-Okruzno-B-3-3,Algebra,Algebra,True,"Neka su $\alpha \in \left( 0, \dfrac{\pi}{2} \right)$ i $\beta \in \left[ \dfrac{\pi}{4}, \dfrac{\pi}{2} \right)$ takvi da važi
+    \[
+        \sin \alpha = \frac{2 \tg \beta}{1 + \tg^2 \beta}.
+    \]
+    Odrediti moguće vrednosti $\alpha + 2\beta$.","Neka su $\alpha \in \left( 0, \dfrac{\pi}{2} \right)$ i $\beta \in \left[ \dfrac{\pi}{4}, \dfrac{\pi}{2} \right)$ takvi da važi
+    \[
+        \sin \alpha = \frac{2 \tg \beta}{1 + \tg^2 \beta}.
+    \]
+    Odrediti moguće vrednosti $\alpha + 2\beta$."
+1.0,2008-Okruzno-A-2-2,2008-Okruzno-B-2-5,Geometrija,Geometrija,True,"Oko jednakostraničnog $\triangle ABC$ je opisana kružnica. Neka je $M$ tačka koja pripada luku $BC$ te kružnice, kojem ne pripada teme $A$. Dokazati da je $MA = MB + MC$.","Oko jednakostraničnog $\triangle ABC$ je opisana kružnica. Neka je $M$ tačka koja pripada luku $BC$ te kružnice, kojem ne pripada teme $A$. Dokazati da je $MA = MB + MC$."
+1.0,2008-Okruzno-A-2-1,2008-Okruzno-B-2-2,Algebra,Algebra,True,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti
+    \[
+        x + a^3 = \sqrt[3]{a - x}.
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti
+    \[
+        x + a^3 = \sqrt[3]{a - x}.
+    \]"
+1.0,2008-Okruzno-A-1-2,2008-Okruzno-B-1-5,Kombinatorika,Kombinatorika,True,"(a) Na koliko načina se mogu izabrati dva nesusedna dvocifrena broja?
+
+    (b) Koliko ima petocifrenih brojeva u kojima se cifra $5$ pojavljuje tačno dva puta i čije su preostale tri cifre različiti elementi skupa $\{1, 2, 3, 4, 6, 7\}$?","(a) Na koliko načina se mogu izabrati dva nesusedna dvocifrena broja?
+
+    (b) Koliko ima petocifrenih brojeva u kojima se cifra $5$ pojavljuje tačno dva puta i čije su preostale tri cifre različiti elementi skupa $\{1, 2, 3, 4, 6, 7\}$?"
+1.0,2008-Okruzno-A-1-1,2008-Okruzno-B-1-4,Geometrija,Geometrija,True,"Kroz presečne tačke $A$ i $B$ kružnica $k_1$ i $k_2$ konstruisane su dve paralelne prave koje po drugi put seku kružnicu $k_1$ u tačkama $C$ i $D$, a kružnicu $k_2$ u tačkama $E$ i $F$. Dokazati da je $CD = EF$.","Kroz presečne tačke $A$ i $B$ kružnica $k_1$ i $k_2$ konstruisane su dve paralelne prave koje po drugi put seku kružnicu $k_1$ u tačkama $C$ i $D$, a kružnicu $k_2$ u tačkama $E$ i $F$. Dokazati da je $CD = EF$."
+1.0,2007-Okruzno-A-3-5,2007-Okruzno-A-4-5,Algebra,Algebra,True,"Naći sva realna rešenja jednačine
+    \[
+        \left( 2 + \sqrt{3} \right)^x + 1 = \left( 2 \cdot \sqrt{2 + \sqrt{3}} \right)^x.
+    \]","Naći sva realna rešenja jednačine
+    \[
+        \left( 2 + \sqrt{3} \right)^x + 1 = \left( 2 \cdot \sqrt{2 + \sqrt{3}} \right)^x.
+    \]"
+1.0,2007-Okruzno-A-3-3,2007-Okruzno-A-4-1,Geometrija,Geometrija,True,"Na strani $BC$ trougla $ABC$ uočimo tačku $D$ i uočimo upisane krugove u trouglove $ABD$ i $ACD$. Zajednička spoljašnja tangenta ova dva kruga, različita od prave $BC$, seče duž $AD$ u tački $K$. Dokazati da dužina duži $AK$ ne zavisi od položaja tačke $D$.","Na strani $BC$ trougla $ABC$ uočimo tačku $D$ i uočimo upisane krugove u trouglove $ABD$ i $ACD$. Zajednička spoljašnja tangenta ova dva kruga, različita od prave $BC$, seče duž $AD$ u tački $K$. Dokazati da dužina duži $AK$ ne zavisi od položaja tačke $D$."
+1.0,2007-Okruzno-A-2-1,2007-Okruzno-B-3-1,Geometrija,Geometrija,True,Neka je $AC$ tetiva kružnice poluprečnika $R$ kojoj odgovara centralni ugao $\varphi$. Na kružnom luku koji odgovara ovoj tetivi (unutar ugla $\varphi$) odrediti tačku $B$ tako da zbir dužina tetiva $AB$ i $BC$ bude maksimalan. Koliki je taj zbir?,Neka je $AC$ tetiva kružnice poluprečnika $R$ kojoj odgovara centralni ugao $\varphi$. Na kružnom luku koji odgovara ovoj tetivi (unutar ugla $\varphi$) odrediti tačku $B$ tako da zbir dužina tetiva $AB$ i $BC$ bude maksimalan. Koliki je taj zbir?
+1.0,2007-Okruzno-A-1-4,2007-Okruzno-B-1-4,Algebra,Algebra,True,"Uz pretpostavku $0 < b \leqslant a$ dokazati nejednakost
+    \[
+        \frac{1}{8} \frac{(a-b)^2}{a} \leqslant \frac{a+b}{2} - \sqrt{ab} \leqslant \frac{1}{8} \frac{(a-b)^2}{b}.
+    \]
+    Pod kojim uslovima neka od nejednakosti prelazi u jednakost.","Uz pretpostavku $0 < b \leqslant a$ dokazati nejednakost
+    \[
+        \frac{1}{8} \frac{(a-b)^2}{a} \leqslant \frac{a+b}{2} - \sqrt{ab} \leqslant \frac{1}{8} \frac{(a-b)^2}{b}.
+    \]
+    Pod kojim uslovima neka od nejednakosti prelazi u jednakost."
+1.0,2007-Okruzno-A-1-3,2007-Okruzno-B-1-3,Kombinatorika,Kombinatorika,True,"Za element permutacije kažemo da je \emph{desno minimalan} ako je manji od svih elemenata koji se nalaze desno od njega. Na primer u permutaciji $(2, 1, 4, 6, 3, 7, 8, 5)$ desno minimalni elementi su na drugoj i petoj poziciji (elementi $1$ i $3$). Koliko ima različitih permutacija elemenata skupa $\{1, 2, \ldots, 8\}$ koje imaju desno minimalne elemente na drugoj i petoj poziciji (i možda još na nekim drugim pozicijama)?","Za element permutacije kažemo da je \emph{desno minimalan} ako je manji od svih elemenata koji se nalaze desno od njega. Na primer u permutaciji $(2, 1, 4, 6, 3, 7, 8, 5)$ desno minimalni elementi su na drugoj i petoj poziciji (elementi $1$ i $3$). Koliko ima različitih permutacija elemenata skupa $\{1, 2, \ldots, 8\}$ koje imaju desno minimalne elemente na drugoj i petoj poziciji (i možda još na nekim drugim pozicijama)?"
+1.0,2013-Okruzno-A-2-1,2013-Okruzno-B-3-2,Algebra,Algebra,True,"Dokazati da ne postoji $x \in \mathbb{R}$ tako da važi
+    \[
+        \tg 2x \cdot \ctg 3x \in \left( \frac{2}{3}, 9 \right).
+    \]","Dokazati da ne postoji $x \in \mathbb{R}$ tako da važi
+    \[
+        \tg 2x \cdot \ctg 3x \in \left( \frac{2}{3}, 9 \right).
+    \]"
+1.0,2012-Okruzno-A-2-3,2012-Okruzno-B-3-3,Teorija brojeva,Teorija brojeva,True,Dokazati da se kvadrat prirodnog broja ne može završavati sa četiri iste nenula cifre.,Dokazati da se kvadrat prirodnog broja ne može završavati sa četiri iste nenula cifre.
+1.0,2011-Okruzno-A-1-1,2011-Okruzno-B-1-4,Teorija brojeva,Teorija brojeva,True,"Da li postoje prirodni brojevi $a$, $b$, $c$ takvi da je
+    \[
+        2010 = (a+b) \cdot (b+c) \cdot (c+a)?
+    \]","Da li postoje prirodni brojevi $a$, $b$, $c$ takvi da je
+    \[
+        2010 = (a+b) \cdot (b+c) \cdot (c+a)?
+    \]"
+1.0,2010-Okruzno-B-3-2,2010-Okruzno-B-4-2,Geometrija,Geometrija,True,"Ako je $r$ poluprečnik osnove i $H$ visina prave kružne kupe, a $\rho$ poluprečnik sfere upisane u tu kupu, dokazati da važi $\dfrac{1}{\rho^2} - \dfrac{1}{r^2} = \dfrac{2}{\rho H}$.","Ako je $r$ poluprečnik osnove i $H$ visina prave kružne kupe, a $\rho$ poluprečnik sfere upisane u tu kupu, dokazati da važi $\dfrac{1}{\rho^2} - \dfrac{1}{r^2} = \dfrac{2}{\rho H}$."
+1.0,2010-Okruzno-A-3-5,2010-Okruzno-A-4-5,Geometrija,Geometrija,True,"Neka je $ABCDE$ konveksan petougao. Neka je $\{P_1\} = AB \cap ED$, $\{P_2\} = BC \cap EA$, $\{P_3\} = CD \cap BA$, $\{P_4\} = DE \cap CB$ i $\{P_5\} = EA \cap DC$. Kružnice opisane oko trouglova $P_1AE$, $P_2BA$, $P_3CB$, $P_4DC$ i $P_5ED$ seku se u tačkama $A'$, $B'$, $C'$, $D'$ i $E'$ različitim od tačaka $A$, $B$, $C$, $D$ i $E$. Dokazati da su tačke $A'$, $B'$, $C'$, $D'$ i $E'$ konciklične.","Neka je $ABCDE$ konveksan petougao. Neka je $\{P_1\} = AB \cap ED$, $\{P_2\} = BC \cap EA$, $\{P_3\} = CD \cap BA$, $\{P_4\} = DE \cap CB$ i $\{P_5\} = EA \cap DC$. Kružnice opisane oko trouglova $P_1AE$, $P_2BA$, $P_3CB$, $P_4DC$ i $P_5ED$ seku se u tačkama $A'$, $B'$, $C'$, $D'$ i $E'$ različitim od tačaka $A$, $B$, $C$, $D$ i $E$. Dokazati da su tačke $A'$, $B'$, $C'$, $D'$ i $E'$ konciklične."
+1.0,2010-Okruzno-A-3-1,2010-Okruzno-A-4-1,Teorija brojeva,Teorija brojeva,True,Dokazati da je prirodan broj $n \geqslant 4$ prost ako i samo ako $n \mid \displaystyle\sum_{k=1}^{n-3} (k \cdot k!)$.,Dokazati da je prirodan broj $n \geqslant 4$ prost ako i samo ako $n \mid \displaystyle\sum_{k=1}^{n-3} (k \cdot k!)$.
+1.0,2010-Okruzno-B-2-5,2010-Okruzno-B-3-5,Teorija brojeva,Teorija brojeva,True,"Na pitanje koji mu je broj kuće, Perica je odgovorio sledeće:
+
+    \begin{quote}
+        Ako je moj broj kuće deljiv sa $3$, onda je on između $50$ i $59$.\\
+        Ako moj broj kuće nije deljiv sa $4$, onda je on između $60$ i $69$.\\
+        Ako moj broj kuće nije deljiv sa $6$, onda je on između $70$ i $79$.
+    \end{quote}
+
+    Koji je Peričin broj kuće?","Na pitanje koji mu je broj kuće, Perica je odgovorio sledeće:
+
+    \begin{quote}
+        Ako je moj broj kuće deljiv sa $3$, onda je on između $50$ i $59$.\\
+        Ako moj broj kuće nije deljiv sa $4$, onda je on između $60$ i $69$.\\
+        Ako moj broj kuće nije deljiv sa $6$, onda je on između $70$ i $79$.
+    \end{quote}
+
+    Koji je Peričin broj kuće?"
+1.0,2010-Okruzno-A-2-3,2010-Okruzno-B-3-4,Geometrija,Geometrija,True,"Neka su $M, N, P, Q$ kolinearne tačke, tako da važi $M-N-P-Q$ i $MN = 4$, $NP = 2$, $PQ = 6$. Neka je $T$ tačka van prave $MN$ iz koje se duži $MN, NP, PQ$ vide pod jednakim uglom $\alpha$. Odrediti moguće vrednosti $\alpha$.","Neka su $M, N, P, Q$ kolinearne tačke, tako da važi $M-N-P-Q$ i $MN = 4$, $NP = 2$, $PQ = 6$. Neka je $T$ tačka van prave $MN$ iz koje se duži $MN, NP, PQ$ vide pod jednakim uglom $\alpha$. Odrediti moguće vrednosti $\alpha$."
+1.0,2010-Okruzno-A-1-1,2010-Okruzno-B-1-5,Teorija brojeva,Teorija brojeva,True,"Neka su $x,y,z \in \mathbb{N}$ za koje važi $x^3 - y^3 - z^3 = 3xyz$ i $x^2 = 2(y+z)$. Odrediti $x+y+z$.","Neka su $x,y,z \in \mathbb{N}$ za koje važi $x^3 - y^3 - z^3 = 3xyz$ i $x^2 = 2(y+z)$. Odrediti $x+y+z$."
+1.0,2009-Okruzno-A-3-5,2009-Okruzno-A-4-5,Kombinatorika,Kombinatorika,True,"Odrediti najveći mogući broj lovaca koji se mogu smestiti na šahovsku tablu dimenzija $7 \times 7$, tako da svaki od njih napada parno mnogo drugih lovaca.
+
+    \textit{Napomena.} Lovac napada figuru ako se nalaze na istoj (ne nužno glavnoj) dijagonali i ako se između njih ne nalazi još neka figura.","Odrediti najveći mogući broj lovaca koji se mogu smestiti na šahovsku tablu dimenzija $7 \times 7$, tako da svaki od njih napada parno mnogo drugih lovaca.
+
+    \textit{Napomena.} Lovac napada figuru ako se nalaze na istoj (ne nužno glavnoj) dijagonali i ako se između njih ne nalazi još neka figura."
+1.0,2009-Okruzno-A-3-1,2009-Okruzno-B-3-5,Algebra,Algebra,True,Neka je $n > 2$ prirodan broj. Dokazati da važi $\sin \dfrac{\pi}{n} > \dfrac{3}{\sqrt{n^2 + 9}}$.,Neka je $n > 2$ prirodan broj. Dokazati da važi $\sin \dfrac{\pi}{n} > \dfrac{3}{\sqrt{n^2 + 9}}$.
+1.0,2005-Opstinsko-B-1-2,2005-Opstinsko-B-2-2,Teorija brojeva,Teorija brojeva,True,"Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]","Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]"
+1.0,2005-Opstinsko-A-1-2,2005-Opstinsko-B-1-2,Teorija brojeva,Teorija brojeva,True,"Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]","Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]"
+1.0,2005-Opstinsko-A-1-2,2005-Opstinsko-B-2-2,Teorija brojeva,Teorija brojeva,True,"Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]","Naći sve proste brojeve $p$, $q$ i $r$, kao i sve prirodne brojeve $n$, takve da važi
+    \[
+        \frac{1}{p} + \frac{1}{q} + \frac{1}{r} = \frac{1}{n}.
+    \]"
+1.0,2005-Opstinsko-A-1-1,2005-Opstinsko-B-1-1,Geometrija,Geometrija,True,Neka je $K$ središte težišne duži $CC_1$ trougla $\triangle ABC$ i neka je $AK \cap BC = \{M\}$. Naći odnos $CM : MB$.,Neka je $K$ središte težišne duži $CC_1$ trougla $\triangle ABC$ i neka je $AK \cap BC = \{M\}$. Naći odnos $CM : MB$.
+1.0,2004-Opstinsko-B-3-5,2004-Opstinsko-B-4-5,Algebra,Algebra,True,"Rešiti sistem jednačina u skupu realnih brojeva:
+    \[
+        \begin{aligned}
+            x^{3}y^{3}z^{4} &= 1 \\
+            x^{2}y^{4}z^{4} &= 2 \\
+            x^{2}y^{3}z^{5} &= 3.
+        \end{aligned}
+    \]","Rešiti sistem jednačina u skupu realnih brojeva:
+    \[
+        \begin{aligned}
+            x^{3}y^{3}z^{4} &= 1 \\
+            x^{2}y^{4}z^{4} &= 2 \\
+            x^{2}y^{3}z^{5} &= 3.
+        \end{aligned}
+    \]"
+1.0,2004-Opstinsko-A-3-2,2004-Opstinsko-A-4-2,Teorija brojeva,Teorija brojeva,True,"a) Ako je $x \equiv y \pmod{p}$ onda je i $x^{p} \equiv y^{p} \pmod{p^{2}}$. Dokazati.
+
+    b) Rešiti jednačinu $x^{5} + y^{5} + z^{5} = 2004$ u $\mathbb{N}$.","a) Ako je $x \equiv y \pmod{p}$ onda je i $x^{p} \equiv y^{p} \pmod{p^{2}}$. Dokazati.
+
+    b) Rešiti jednačinu $x^{5} + y^{5} + z^{5} = 2004$ u $\mathbb{N}$."
+1.0,2004-Opstinsko-B-1-5,2004-Opstinsko-B-2-5,Teorija brojeva,Teorija brojeva,True,Dokazati da je broj $2^{12} + 5^{9}$ složen.,Dokazati da je broj $2^{12} + 5^{9}$ složen.
+1.0,2004-Opstinsko-A-1-5,2004-Opstinsko-A-2-5,Kombinatorika,Kombinatorika,True,"Komarac se nalazi u donjem levom uglu pravougaone tablice formata $2003 \times 2004$. Komarac leti iznad ove tablice na sledeći način: kada poleti iz nekog polja i preleti 99 polja, on sleti na 100-to da se odmori (linija kojom se komarac kreće ne mora da bude prava linija, može biti i izlomljena i sme da seče samu sebe, ali svaki ,,korak'' komarca mora biti paralelan ivicama tablice). Zatim komarac ponovo poleće sa tog polja, preleće preko 99 polja i sleće na 100-to\ldots{} Da li komarac može sleteti u gornji desni ugao?","Komarac se nalazi u donjem levom uglu pravougaone tablice formata $2003 \times 2004$. Komarac leti iznad ove tablice na sledeći način: kada poleti iz nekog polja i preleti 99 polja, on sleti na 100-to da se odmori (linija kojom se komarac kreće ne mora da bude prava linija, može biti i izlomljena i sme da seče samu sebe, ali svaki ,,korak'' komarca mora biti paralelan ivicama tablice). Zatim komarac ponovo poleće sa tog polja, preleće preko 99 polja i sleće na 100-to\ldots{} Da li komarac može sleteti u gornji desni ugao?"
+1.0,2004-Opstinsko-A-1-3,2004-Opstinsko-B-1-3,Teorija brojeva,Teorija brojeva,True,Dokazati da za neparan ceo broj $q$ jednačina $x^{3} + 3x + q = 0$ nema celobrojnih rešenja.,Dokazati da za neparan ceo broj $q$ jednačina $x^{3} + 3x + q = 0$ nema celobrojnih rešenja.
+1.0,2004-Opstinsko-A-1-1,2004-Opstinsko-A-2-1,Geometrija,Geometrija,True,"Na dijagonali $AC$ romba $ABCD$ izabrana je proizvoljna tačka $E$ različita od $A$ i $C$. Neka su $N$ i $M$ tačke pravih $AB$ i $BC$, redom, takve da je $AE = NE$ i $CE = ME$, a $K$ presečna tačka pravih $AM$ i $CN$. Dokazati da tačke $K$, $E$ i $D$ pripadaju jednoj pravoj.","Na dijagonali $AC$ romba $ABCD$ izabrana je proizvoljna tačka $E$ različita od $A$ i $C$. Neka su $N$ i $M$ tačke pravih $AB$ i $BC$, redom, takve da je $AE = NE$ i $CE = ME$, a $K$ presečna tačka pravih $AM$ i $CN$. Dokazati da tačke $K$, $E$ i $D$ pripadaju jednoj pravoj."
+1.0,2003-Opstinsko-B-3-5,2003-Opstinsko-B-4-5,Kombinatorika,Kombinatorika,True,Kazaljke na satu su preklopljene tačno u ponoć. Kada će se sledeći put preklopiti?,Kazaljke na satu su preklopljene tačno u ponoć. Kada će se sledeći put preklopiti?
+1.0,2003-Opstinsko-A-2-1,2003-Opstinsko-B-2-1,Algebra,Algebra,True,Bazen se puni dvema cevima za $6$ sati. Prva cev bi ga napunila za $5$ sati manje od druge. Za koje vreme bi bazen napunila druga cev?,Bazen se puni dvema cevima za $6$ sati. Prva cev bi ga napunila za $5$ sati manje od druge. Za koje vreme bi bazen napunila druga cev?
+1.0,2003-Opstinsko-A-1-5,2003-Opstinsko-B-1-5,Kombinatorika,Kombinatorika,True,"Student je u toku petogodišnjih studija položio $31$ ispit. Svake godine je dao više ispita nego prethodne, a na petoj godini je dao tri puta više ispita nego na prvoj. Koliko ispita je student položio na četvrtoj godini?","Student je u toku petogodišnjih studija položio $31$ ispit. Svake godine je dao više ispita nego prethodne, a na petoj godini je dao tri puta više ispita nego na prvoj. Koliko ispita je student položio na četvrtoj godini?"
+1.0,2003-Opstinsko-A-1-2,2003-Opstinsko-B-1-2,Algebra,Algebra,True,"Rastojanje između sela $A$ i $B$ je $3$ kilometra. U selu $A$ ima $100$ đaka, a u selu $B$ $50$ đaka. Na kom rastojanju od sela $A$ treba sagraditi školu, tako da ukupan put koji svi đaci prelaze u toku jednog dana bude najmanji?","Rastojanje između sela $A$ i $B$ je $3$ kilometra. U selu $A$ ima $100$ đaka, a u selu $B$ $50$ đaka. Na kom rastojanju od sela $A$ treba sagraditi školu, tako da ukupan put koji svi đaci prelaze u toku jednog dana bude najmanji?"
+1.0,2002-Opstinsko-A-4-3,2002-Opstinsko-B-4-3,Algebra,Algebra,True,"Na paraboli $y^2 = 2x$ naći tačku najbližu tački $(1,4)$.","Na paraboli $y^2 = 2x$ naći tačku najbližu tački $(1,4)$."
+1.0,2002-Opstinsko-B-3-2,2002-Opstinsko-B-4-2,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]","Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]"
+1.0,2002-Opstinsko-A-3-5,2002-Opstinsko-A-4-5,Teorija brojeva,Teorija brojeva,True,"Dokazati da ne postoje prirodni brojevi $a, b, c, d$ takvi da je
+    \[
+        a^a + b^b + c^c = d^d.
+    \]","Dokazati da ne postoje prirodni brojevi $a, b, c, d$ takvi da je
+    \[
+        a^a + b^b + c^c = d^d.
+    \]"
+1.0,2002-Opstinsko-A-3-2,2002-Opstinsko-B-3-2,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]","Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]"
+1.0,2002-Opstinsko-A-3-2,2002-Opstinsko-B-4-2,Algebra,Algebra,True,"Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]","Rešiti nejednačinu:
+    \[
+        \log_x \frac{12 - 4x}{4 - x} \leq 1.
+    \]"
+1.0,2002-Opstinsko-A-3-1,2002-Opstinsko-B-3-1,Kombinatorika,Kombinatorika,True,"Miljan voli šestocifrene brojeve kod kojih je zbir prve tri cifre jednak zbiru poslednje tri, a Mladen one kod kojih je zbir cifara na neparnim mestima jednak zbiru cifara na parnim mestima. Koliko ima šestocifrenih brojeva koje vole i Miljan i Mladen?","Miljan voli šestocifrene brojeve kod kojih je zbir prve tri cifre jednak zbiru poslednje tri, a Mladen one kod kojih je zbir cifara na neparnim mestima jednak zbiru cifara na parnim mestima. Koliko ima šestocifrenih brojeva koje vole i Miljan i Mladen?"
+1.0,2002-Opstinsko-A-1-5,2002-Opstinsko-B-1-5,Kombinatorika,Kombinatorika,True,"Na rukometnom turniru, svaka ekipa je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Za pobedu se dobija 2 poena, za poraz 0, a za nerešen rezultat svaka ekipa dobija po 1 poen. Tri prvoplasirane ekipe imale su 7, 5 i 3 poena. Koliko je na turniru učestvovalo ekipa, i koliko je poena imala poslednjeplasirana od njih? (Ako dve ekipe imaju jednak broj poena, mesto se određuje na osnovu razlike broja datih i primljenih golova.)","Na rukometnom turniru, svaka ekipa je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Za pobedu se dobija 2 poena, za poraz 0, a za nerešen rezultat svaka ekipa dobija po 1 poen. Tri prvoplasirane ekipe imale su 7, 5 i 3 poena. Koliko je na turniru učestvovalo ekipa, i koliko je poena imala poslednjeplasirana od njih? (Ako dve ekipe imaju jednak broj poena, mesto se određuje na osnovu razlike broja datih i primljenih golova.)"
+1.0,2000-Opstinsko-A-2-2,2000-Opstinsko-B-2-2,Algebra,Algebra,True,Date su kvadratne jednačine $x^{2} - x + m = 0$ i $x^{2} - x + 3m = 0$ ($m \neq 0$). Odrediti vrednost $m$ tako da jedno rešenje druge jednačine bude jednako dvostrukoj vrednosti jednog rešenja prve jednačine.,Date su kvadratne jednačine $x^{2} - x + m = 0$ i $x^{2} - x + 3m = 0$ ($m \neq 0$). Odrediti vrednost $m$ tako da jedno rešenje druge jednačine bude jednako dvostrukoj vrednosti jednog rešenja prve jednačine.
+1.0,1999-Opstinsko-A-3-5,1999-Opstinsko-A-4-5,Geometrija,Geometrija,True,"U ravni je zadat konveksan poligon $A_1A_2A_3 \ldots A_n$ $(n \geq 3)$ čija stranica $A_kA_{k+1}$ ima dužinu $a_k$ $(A_{n+1} = A_1)$. Ako projekcija tog poligona na pravu koja sadrži stranicu $A_kA_{k+1}$ ima dužinu $d_k$, dokazati da važi
+    \[
+        \frac{a_1}{d_1} + \cdots + \frac{a_n}{d_n} > 2.
+    \]","U ravni je zadat konveksan poligon $A_1A_2A_3 \ldots A_n$ $(n \geq 3)$ čija stranica $A_kA_{k+1}$ ima dužinu $a_k$ $(A_{n+1} = A_1)$. Ako projekcija tog poligona na pravu koja sadrži stranicu $A_kA_{k+1}$ ima dužinu $d_k$, dokazati da važi
+    \[
+        \frac{a_1}{d_1} + \cdots + \frac{a_n}{d_n} > 2.
+    \]"
+1.0,2002-Drzavno-A-1-4,2002-Drzavno-B-1-4,Geometrija,Geometrija,True,"Dat je trougao $ABC$. Posmatrajmo prave koje seku stranice $AC$ i $BC$ u tačkama $M$ i $N$ redom, tako da je $MN = AM + BN$. Dokazati da postoji krug $k$ koji dodiruje sve takve prave.","Dat je trougao $ABC$. Posmatrajmo prave koje seku stranice $AC$ i $BC$ u tačkama $M$ i $N$ redom, tako da je $MN = AM + BN$. Dokazati da postoji krug $k$ koji dodiruje sve takve prave."
+1.0,2023-Opstinsko-A-1-1,2023-Opstinsko-B-1-1,Algebra,Algebra,True,"Dat je skup $X=\{\textit{aca, konac, lopte, loto, prst}\}$ i na tom skupu dve relacije $\varrho_1$ i $\varrho_2$, koje su definisane zahtevom:
+    $$ x \ \varrho_1 \ y \overset{\text{def}}{\iff} \text{reči } x \text{ i } y \text{ su iste dužine,} $$
+    $$ x \ \varrho_2 \ y \overset{\text{def}}{\iff} \text{reči } x \text{ i } y \text{ se završavaju istim slovom.} $$
+    \quad (a) Da li su date relacije refleksivne, simetrične, antisimetrične i tranzitivne?
+    
+    \quad (b) Za svaku od relacija $\varrho_1$ i $\varrho_2$ ispitati da li je relacija ekvivalencije, odnosno, da li je ista relacija poretka. U slučaju da je neka od njih relacija ekvivalencije, naći sve klase ekvivalencije.","Dat je skup $X=\{\textit{aca, konac, lopte, loto, prst}\}$ i na tom skupu dve relacije $\varrho_1$ i $\varrho_2$, koje su definisane zahtevom:
+    $$ x \ \varrho_1 \ y \overset{\text{def}}{\iff} \text{reči } x \text{ i } y \text{ su iste dužine,} $$
+    $$ x \ \varrho_2 \ y \overset{\text{def}}{\iff} \text{reči } x \text{ i } y \text{ se završavaju istim slovom.} $$
+    \quad (a) Da li su date relacije refleksivne, simetrične, antisimetrične i tranzitivne?
+    
+    \quad (b) Za svaku od relacija $\varrho_1$ i $\varrho_2$ ispitati da li je relacija ekvivalencije, odnosno, da li je ista relacija poretka. U slučaju da je neka od njih relacija ekvivalencije, naći sve klase ekvivalencije."
+1.0,2011-Opstinsko-B-3-1,2011-Opstinsko-B-4-3,Algebra,Algebra,True,"Odrediti sve vrednosti realnog parametra $m$ za koje sistem jednačina
+    \[
+        \begin{array}{rcrcrcrcl}
+            2x & + & 3y & + & 2z & + & 3t &=& 0\\
+            3x & + & 2y & + & 3z & + & 2t &=& 0\\
+            2x & + & 2y & + & 3z & + & 3t &=& 0\\
+            3x & + & 3y & + & 2z & + & mt &=& 0
+        \end{array}
+    \]
+    ima beskonačno mnogo rešenja u skupu realnih brojeva.","Odrediti sve vrednosti realnog parametra $m$ za koje sistem jednačina
+    \[
+        \begin{array}{rcrcrcrcl}
+            2x & + & 3y & + & 2z & + & 3t &=& 0\\
+            3x & + & 2y & + & 3z & + & 2t &=& 0\\
+            2x & + & 2y & + & 3z & + & 3t &=& 0\\
+            3x & + & 3y & + & 2z & + & mt &=& 0
+        \end{array}
+    \]
+    ima beskonačno mnogo rešenja u skupu realnih brojeva."
+1.0,2011-Opstinsko-A-3-2,2011-Opstinsko-B-4-5,Geometrija,Geometrija,True,"Neka su $ABC$ i $A'B'C'$ trouglovi takvi da je $\angle BAC = \angle B'A'C' = 60^\circ$. Dokazati da je
+    \[
+        2 \cdot BC \cdot B'C' \geq AB \cdot A'B' + CA \cdot C'A'.
+    \]","Neka su $ABC$ i $A'B'C'$ trouglovi takvi da je $\angle BAC = \angle B'A'C' = 60^\circ$. Dokazati da je
+    \[
+        2 \cdot BC \cdot B'C' \geq AB \cdot A'B' + CA \cdot C'A'.
+    \]"
+1.0,2011-Opstinsko-B-2-4,2011-Opstinsko-B-4-4,Kombinatorika,Kombinatorika,True,"Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?","Na koliko načina je moguće rasporediti $11$ ptica u $3$ identična kaveza, tako da svaki kavez sadrži bar tri ptice?"
+1.0,2011-Opstinsko-A-2-2,2011-Opstinsko-B-3-2,Algebra,Algebra,True,"U skupu realnih brojeva rešiti jednačinu
+    \[
+        \cos^2\left(\frac{\pi}{4} + 5x\right) = \sin^2 x \cdot \cos 9x + \cos^2\left(\frac{\pi}{4} + 4x\right).
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        \cos^2\left(\frac{\pi}{4} + 5x\right) = \sin^2 x \cdot \cos 9x + \cos^2\left(\frac{\pi}{4} + 4x\right).
+    \]"
+1.0,2000-Drzavno-A-3-1,2000-Drzavno-A-4-1,Teorija brojeva,Teorija brojeva,True,"Dati su prirodni brojevi $q$, $n$ i $r$, $0 < r \le n$. Dokazati da $r!$ deli broj $(q^{n} - 1)(q^{n} - q) \cdots (q^{n} - q^{r-1})$.","Dati su prirodni brojevi $q$, $n$ i $r$, $0 < r \le n$. Dokazati da $r!$ deli broj $(q^{n} - 1)(q^{n} - q) \cdots (q^{n} - q^{r-1})$."
+1.0,1999-Drzavno-A-3-5,1999-Drzavno-B-3-5,Algebra,Algebra,True,"Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne.","Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne."
+1.0,1999-Drzavno-A-3-5,1999-Drzavno-B-4-5,Algebra,Algebra,True,"Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne.","Odrediti sve vrednosti parametra $a \in R$ za koje su jednačine
+    \[
+        a(2a - 1)\sin^{3} x + 3\cos^{3} x - 2a^{2}\sin x = 0
+    \]
+    i
+    \[
+        \log_{1/2}(3\tg x - 1) - \log_{2}(3\tg x + 1) - \log_{\frac{1}{\sqrt{2}}}(5 - \tg x) = 1
+    \]
+    ekvivalentne."
+1.0,1999-Drzavno-A-3-4,1999-Drzavno-A-4-4,Kombinatorika,Kombinatorika,True,"U ravni je zadato $n$ vertikalnih i $n$ horizontalnih pravih koje se seku u $n^{2}$ tačaka. Prave su obojene plavom, crvenom ili zelenom bojom. Neka je presek dve plave prave plava tačka, dve crvene prave crvena tačka, dve zelene prave zelena tačka, presek plave i crvene prave zelena tačka, crvene i zelene prave plava tačka a zelene i plave prave crvena tačka. Na taj način je dobijeno $n^{2}$ obojenih tačaka. Koliko različitih bojenja $n^{2}$ tačaka dobijamo različitim izborom bojenja pravih?","U ravni je zadato $n$ vertikalnih i $n$ horizontalnih pravih koje se seku u $n^{2}$ tačaka. Prave su obojene plavom, crvenom ili zelenom bojom. Neka je presek dve plave prave plava tačka, dve crvene prave crvena tačka, dve zelene prave zelena tačka, presek plave i crvene prave zelena tačka, crvene i zelene prave plava tačka a zelene i plave prave crvena tačka. Na taj način je dobijeno $n^{2}$ obojenih tačaka. Koliko različitih bojenja $n^{2}$ tačaka dobijamo različitim izborom bojenja pravih?"
+1.0,1999-Drzavno-A-3-3,1999-Drzavno-A-4-5,Kombinatorika,Kombinatorika,True,Koliko se najviše jednakokrakih krstića površine $5$ može izrezati iz table $6 \times 6$?,Koliko se najviše jednakokrakih krstića površine $5$ može izrezati iz table $6 \times 6$?
+1.0,1999-Drzavno-A-2-1,1999-Drzavno-B-2-1,Geometrija,Geometrija,True,"Ako su $AA_1$, $BB_1$ i $CC_1$ visine oštrouglog trougla $ABC$, a $A_2$, $B_2$, $C_2$ tačke u kojima prave $AA_1$, $BB_1$, $CC_1$ seku krug opisan oko trougla $ABC$, dokazati da je
+    \[
+        \frac{AA_2}{AA_1} + \frac{BB_2}{BB_1} + \frac{CC_2}{CC_1} = 4.
+    \]","Ako su $AA_1$, $BB_1$ i $CC_1$ visine oštrouglog trougla $ABC$, a $A_2$, $B_2$, $C_2$ tačke u kojima prave $AA_1$, $BB_1$, $CC_1$ seku krug opisan oko trougla $ABC$, dokazati da je
+    \[
+        \frac{AA_2}{AA_1} + \frac{BB_2}{BB_1} + \frac{CC_2}{CC_1} = 4.
+    \]"
+1.0,1999-Drzavno-A-1-1,1999-Drzavno-B-1-1,Geometrija,Geometrija,True,Dat je konveksan šestougao $ABCDEF$. Svaka od dijagonala $AD$ i $BE$ deli šestougao na dva dela jednakih površina. Dokazati da je četvorougao $BDEA$ trapez.,Dat je konveksan šestougao $ABCDEF$. Svaka od dijagonala $AD$ i $BE$ deli šestougao na dva dela jednakih površina. Dokazati da je četvorougao $BDEA$ trapez.
+1.0,2002-Drzavno-A-4-5,2002-Drzavno-B-4-5,Geometrija,Geometrija,True,"Dokazati da se u koordinatnoj ravni može nacrtati kružnica koja ne prolazi ni kroz jednu tačku sa celobrojnim koordinatama, a u čijoj se unutrašnjosti nalaze tačno 2002 takve tačke.","Dokazati da se u koordinatnoj ravni može nacrtati kružnica koja ne prolazi ni kroz jednu tačku sa celobrojnim koordinatama, a u čijoj se unutrašnjosti nalaze tačno 2002 takve tačke."
+1.0,2002-Drzavno-A-4-3,2002-Drzavno-B-4-3,Geometrija,Geometrija,True,"Dat je triedar sa vrhom $O$, i tačke $A, B, C$ na njegovim ivicama koje su jednako udaljene od tačke $O$. Neka je $S$ centar lopte upisane u taj triedar. Dokazati da je vektor $\overrightarrow{OS}$ kolinearan sa vektorom
+    \[
+        \sin(\angle BOC) \cdot \overrightarrow{OA} + \sin(\angle COA) \cdot \overrightarrow{OB} + \sin(\angle AOB) \cdot \overrightarrow{OC}.
+    \]","Dat je triedar sa vrhom $O$, i tačke $A, B, C$ na njegovim ivicama koje su jednako udaljene od tačke $O$. Neka je $S$ centar lopte upisane u taj triedar. Dokazati da je vektor $\overrightarrow{OS}$ kolinearan sa vektorom
+    \[
+        \sin(\angle BOC) \cdot \overrightarrow{OA} + \sin(\angle COA) \cdot \overrightarrow{OB} + \sin(\angle AOB) \cdot \overrightarrow{OC}.
+    \]"
+1.0,2002-Drzavno-A-3-4,2002-Drzavno-B-3-4,Teorija brojeva,Teorija brojeva,True,"Dokazati da postoji prirodan broj $n$ kome su poslednje četiri cifre jednake 2002, takav da $n^{2002}$ počinje ciframa 2002.","Dokazati da postoji prirodan broj $n$ kome su poslednje četiri cifre jednake 2002, takav da $n^{2002}$ počinje ciframa 2002."
+1.0,2002-Drzavno-A-3-3,2002-Drzavno-B-3-3,Geometrija,Geometrija,True,"Dat je tetraedar $SABC$ kod koga je trougao $ABC$ oštrougli, i $SA = SB = SC$. Dokazati da se taj tetraedar može iseći na konačno mnogo poliedara, od kojih se može složiti tetraedar podudaran sa $SABC$, ali suprotne orijentacije.","Dat je tetraedar $SABC$ kod koga je trougao $ABC$ oštrougli, i $SA = SB = SC$. Dokazati da se taj tetraedar može iseći na konačno mnogo poliedara, od kojih se može složiti tetraedar podudaran sa $SABC$, ali suprotne orijentacije."
+1.0,2002-Drzavno-A-2-1,2002-Drzavno-B-2-1,Algebra,Algebra,True,"Naći sve vrednosti realnog parametra $a$, tako da sistem
+    \begin{align*}
+        axy + x - y + \frac{3}{2} &= 0 \\
+        x + 2y + xy + 1 &= 0
+    \end{align*}
+    ima jedinstveno rešenje u skupu realnih brojeva.","Naći sve vrednosti realnog parametra $a$, tako da sistem
+    \begin{align*}
+        axy + x - y + \frac{3}{2} &= 0 \\
+        x + 2y + xy + 1 &= 0
+    \end{align*}
+    ima jedinstveno rešenje u skupu realnih brojeva."
+0.9999,2006-Okruzno-A-4-3,2013-Opstinsko-B-3-1,Geometrija,Geometrija,False,"Četvorougao $ABCD$ je osnova piramide $SABCD$, a ivica $SD$ njena visina. Izračunati zapreminu piramide, ako je $AB = BC = \sqrt{5}$, $AD = DC = \sqrt{2}$, $AC = 2$ i $SA + SB = 2 + \sqrt{5}$.","Četvorougao $ABCD$ je osnova piramide $SABCD$, a ivica $SD$ je njena visina. Izračunati zapreminu piramide, ako je $AB = BC = \sqrt{5}$, $AD = DC = \sqrt{2}$, $AC = 2$ i $SA + SB = 2 + \sqrt{5}$."
+0.9953,2019-Opstinsko-B-1-5,2019-Opstinsko-B-3-4,Geometrija,Kombinatorika,False,"Za pravougaonim stolom je postavljeno osam stolica, četiri s jedne strane i četiri naspram njih s druge strane. Na koliko načina je moguće rasporediti osmoro prijatelja za ovim stolom, a da pritom Ana i Bane ne sede jedno naspram drugog, a Vesna i Goran sede jedno pored drugog? (Poznato je da svi prijatelji imaju međusobno različita imena.)","Za pravougaonim stolom je postavljeno osam stolica, četiri s jedne strane i četiri naspram njih s druge strane. Na koliko načina je moguće rasporediti osmoro prijatelja za ovim stolom, a da pritom Ana i Bane sede jedno naspram drugog, a Vesna i Goran jedno pored drugog? (Poznato je da svi prijatelji imaju međusobno različita imena.)"
+0.9935,1999-Okruzno-A-1-4,1999-Okruzno-B-1-4,Algebra,Algebra,False,"Dat je skup $A$. Među njegovim podskupovima definišemo relaciju $\sim$: $X$, $Y \subset A$, $X \sim Y \Leftrightarrow X \cap Y \neq \emptyset$. Ispitati da li je $\sim$ refleksivna, simetrična, antisimetrična ili tranzitivna.","Dat je skup $A$. Među njegovim podskupovima definišemo relaciju $\sim$: $X$, $Y \subset A$, $X \sim Y \Leftrightarrow X \cap Y = \emptyset$. Ispitati da li je $\sim$ refleksivna, simetrična, antisimetrična ili tranzitivna."
+0.993,2005-Opstinsko-A-2-5,2005-Opstinsko-A-3-5,Kombinatorika,Kombinatorika,False,"Posle svakog sastanka komisije, neki članovi (znači njih bar dvoje) odlaze zajedno na ručak. Tamo međutim, svako od prisutnih se posvađa sa svakim. Nakon toga posvađani neće više otići u zajedničkom društvu na ručak posle sastanka komisije. Sastanci komisije se održavaju dokle god je moguće oformiti društvo (od bar dvoje ljudi) za odlazak na ručak nakon sastanka.
+    \begin{enumerate}
+        \item Da li je moguće da je komisija koja broji 7 članova održala ukupno 10 sastanaka (tj. ručkova)?
+        \item Da li je moguće da je komisija koja broji 11 članova održala ukupno 5 sastanaka (tj. ručkova)?
+    \end{enumerate}","Posle svakog sastanka komisije, neki članovi (znači njih bar dvoje) odlaze zajedno na ručak. Tamo međutim, svako od prisutnih se posvađa sa svakim. Nakon toga posvađani neće više otići u zajedničkom društvu na ručak posle sastanka komisije. Sastanci komisije se održavaju dokle god je moguće oformiti društvo (od bar dvoje ljudi) za odlazak na ručak nakon sastanka.
+    \begin{enumerate}
+        \item Da li je moguće da je komisija koja broji 8 članova održala ukupno 15 sastanaka (tj. ručkova)?
+        \item Da li je moguće da je komisija koja broji 13 članova održala ukupno 7 sastanaka (tj. ručkova)?
+    \end{enumerate}"
+0.9889,2007-Opstinsko-A-2-4,2007-Opstinsko-B-2-5,Algebra,Algebra,False,"Odrediti sve moguće vrednosti realnog parametra $a$, za koje jednačina
+    \[
+        \frac{(a-1)x^2 + ax + a - 1}{x + 3} = 0
+    \]
+    ima jedinstveno rešenje u skupu realnih brojeva.","Odrediti sve moguće vrednosti realnog parametra $a$ za koje jednačina
+    \[
+        \frac{(a-1)x^2 + ax + a - 1}{x + 3} = 0
+    \]
+    ima jedinstveno rešenje u skupu realnih brojeva."
+0.9838,1999-Okruzno-A-3-5,1999-Okruzno-A-4-5,Geometrija,Geometrija,False,"Dat je trougao $ABC$ sa stranicama $a > b > c$ i proizvoljna tačka $O$ u unutrašnjosti tog trougla. Neka prave $AO$, $BO$, $CO$ seku stranice trougla $ABC$ u tačkama $P$, $Q$ i $R$. Dokazati da je $OP + OQ + OR < a$.","Dat je trougao $ABC$ sa stranicama $a > b > c$ i proizvoljna tačka $O$ u unutrašnjosti toga trougla. Neka prave $AO$, $BO$, $CO$ seku stranice trougla $ABC$ u tačkama $P$, $Q$ i $R$. Dokazati da je $OP + OQ + OR < a$."
+0.9829,2021-Okruzno-B-1-3,2021-Okruzno-B-3-1,Kombinatorika,Kombinatorika,False,"U jednom redu bioskopa je 2n sedišta. Treba označiti n sedišta na kojima će sedenje biti dozvoljeno, pri čemu pravilo distance nalaže da dva posetioca ne smeju da sede jedan do drugog. Na koliko načina se to može učiniti?","U jednom redu bioskopa je 9 sedišta. Treba označiti 4 sedišta na kojima će sedenje biti dozvoljeno, pri čemu pravilo distance nalaže da dva posetioca ne smeju da sede jedan do drugog. Na koliko načina se to može učiniti?"
+0.9799,1999-Drzavno-A-2-2,1999-Drzavno-B-2-2,Algebra,Algebra,False,"Neka su $a$, $b$, $c$ pozitivni realni brojevi, $a \geq b \geq c$ tako da važi
+    \[
+        \sqrt{3a(b - c)} - \sqrt{c(a - b)} = 0.
+    \]
+    Ako su $x$, $y$, $z$, $p$ realni brojevi, odrediti kom od skupova $N$, $Z \setminus N$, $Q \setminus Z$, $R \setminus Q$ ili $C \setminus R$ pripada vrednost izraza:
+    \begin{align*}
+        f(x, y, z, p) &= \left(\frac{1}{a} - \frac{1}{c}\right)\left(\frac{\sqrt{3}}{2}p - i\sqrt{3}\right)\left(-\frac{x}{2} - \frac{\sqrt{3}}{2}z - iy\right) + \\
+        &\quad + \left(\frac{1}{a} - \frac{1}{b}\right)(2 + ip)\left[\left(\frac{\sqrt{3}}{2}y - iz\right) + \frac{\sqrt{3}}{3}\left(\frac{y}{2} - ix\right)\right].
+    \end{align*}","Neka su $a \geq b \geq c > 0$ realni brojevi, takvi da $\sqrt{3a(b - c)} - \sqrt{c(a - b)} = 0$. Ako su $x$, $y$, $z$, $p$ realni brojevi, odrediti kom od skupova $N$, $Z \setminus N$, $Q \setminus Z$, $R \setminus Q$ ili $C \setminus R$ pripada vrednost izraza:
+    \begin{align*}
+        f(x, y, z, p) &= \left(\frac{1}{a} - \frac{1}{c}\right)\left(\frac{\sqrt{3}}{2}p - i\sqrt{3}\right)\left(-\frac{x}{2} - \frac{\sqrt{3}}{2}z - iy\right) + \\
+        &\quad + \left(\frac{1}{a} - \frac{1}{b}\right)(2 + ip)\left[\left(\frac{\sqrt{3}}{2}y - iz\right) + \frac{\sqrt{3}}{3}\left(\frac{y}{2} - ix\right)\right].
+    \end{align*}"
+0.9798,2003-Opstinsko-A-3-5,2003-Opstinsko-A-4-5,Geometrija,Geometrija,False,"Mnogougao koji je opisan oko kruga poluprečnika $r$, razložen je na konačno mnogo trouglova. Dokazati da je suma poluprečnika upisanih krugova u te trouglove veća od $r$.",Mnogougao koji je opisan oko kruga poluprečnika $r$ razložen je na konačno mnogo trouglova. Dokazati da je suma poluprečnika upisanih krugova u te trouglove veća od $r$.
+0.9798,2019-Opstinsko-A-1-5,2019-Opstinsko-B-2-5,Kombinatorika,Kombinatorika,False,"U popularnoj igri ,,Minolovac`` na nekim poljima table $a \times b$ ($a, b \in \mathbb{N}$) nalaze se mine, a na svakom preostalom polju je upisan broj njemu susednih polja na kojima su mine (pod susednim poljima podrazumevamo polja koja imaju bar jedno zajedničko teme). Ispitati da li postoje brojevi $a$ i $b$ i raspored mina na tabli $a \times b$ takvi da tačno 2019 polja nemaju minu i da je na svima njima upisan broj:
+    \begin{enumerate}
+        \item 3;
+        \item 4;
+        \item 7.
+    \end{enumerate}","U popularnoj igri ,,Minolovac`` na nekim poljima table $a \times b$ ($a, b \in \mathbb{N}$) nalaze se mine, a na svakom preostalom polju je upisan broj njemu susednih polja na kojima su mine (pod susednim poljima podrazumevamo polja koja imaju bar jedno zajedničko teme). Ispitati da li postoje brojevi $a$ i $b$ i raspored mina na tabli $a \times b$ takvi da tačno 2019 polja nemaju minu i da je na svima njima upisan broj:
+    \begin{enumerate}
+        \item 8;
+        \item 7;
+        \item 6.
+    \end{enumerate}"
+0.9753,2026-Opstinsko-A-2-3,2026-Opstinsko-B-4-5,Kombinatorika,Kombinatorika,False,"Na šahovskom turniru igraju n igrača, $n \in \mathbb{N},$ $n \ge 2$. Svaki takmičar igra sa svakim takmičarem na turniru tačno po jedan put. Za svaku partiju svaki takmičar dobija 0 poena za svaki poraz, 0.5 poena za svaki remi i 1 poen za svaku pobedu. Odrediti najveći mogući broj nerešenih partija, tako da svaki takmičar ima ceo broj poena.","Na šahovskom turniru igraju n igrača, $n \in \mathbb{N}, n \ge 2.$ Svaki takmičar igra sa svakim takmičarem na turniru tačno po jedan put. Za svaku partiju svaki takmičar dobija 0 poena za svaki poraz, 0.5 poena za svaki remi i 1 poen za svaku pobedu. Odrediti najveći mogući broj nerešenih partija, tako da svaki takmičar ima ceo broj poena."
+0.9746,2013-Drzavno-A-4-3,2013-Drzavno-B-4-4,Geometrija,Geometrija,False,"Neka je $H$ ortocentar oštrouglog trougla $ABC$, a $B_1$ i $C_1$ redom podnožja visina iz temena $B$ i $C$. Prava $\ell$, koja sadrži $H$ i paralelna je sa $B_1C_1$, seče pravu $BC$ u tački $K$ i kružnicu opisanu oko trougla $HB_1C_1$ u tački $L$ ($L \neq H$). Kružnice opisane oko trouglova $HB_1C_1$ i $ABC$ se seku u tačkama $A$ i $D$. Ako prava $AH$ seče kružnicu opisanu oko trougla $ABC$ u tački $E$ ($E \neq A$), i ako je $M$ središte duži $BC$, dokazati da tačke $D, E, K, L, M$ leže na istoj kružnici.","Neka je $H$ ortocentar oštrouglog trougla $ABC$, a $B_1$ i $C_1$ redom podnožja visina iz temena $B$ i $C$. Prava $\ell$, koja sadrži $H$ i paralelna je sa $B_1C_1$, seče pravu $BC$ u tački $K$ i kružnicu opisanu oko trougla $HB_1C_1$ u tački $L$ ($L \neq H$). Kružnice opisane oko trouglova $HB_1C_1$ i $ABC$ se seku u tačkama $A$ i $D$. Ako prava $AH$ seče kružnicu opisanu oko trougla $ABC$ u tački $E$ ($E \neq A$), dokazati da tačke $D, E, K, L$ leže na istoj kružnici."
+0.9737,2007-Opstinsko-A-2-5,2007-Opstinsko-B-3-5,Algebra,Teorija brojeva,False,"(M567) Neka su prva četiri člana niza brojevi $1, 9, 9, 3$, dok se svaki sledeći član dobija kao ostatak pri deljenju sa $10$ zbira prethodna četiri člana ($1, 9, 9, 3, 2, 3, 7, \ldots$). Dokazati da će se u tom nizu ponovo, pre ili kasnije, pojaviti četvorka $1, 9, 9, 3$. Da li će se u tom nizu pojaviti i četvorka $7, 3, 6, 7$?","Neka su prva četiri člana niza brojevi $1, 9, 9, 3$, dok se svaki sledeći član dobija kao ostatak pri deljenju sa $10$ zbira prethodna četiri člana ($1, 9, 9, 3, 2, 3, 7, \ldots$). Dokazati da će se u tom nizu ponovo, pre ili kasnije, pojaviti četvorka $1, 9, 9, 3$. Da li će se u tom nizu pojaviti i četvorka $7, 3, 6, 7$?"
+0.9694,2022-Opstinsko-A-2-2,2022-Opstinsko-B-3-4,Geometrija,Geometrija,False,"U trouglu $\triangle ABC$ ugao kod temena $A$ jednak je $90^\circ$, a ugao kod temena $C$ jednak je $70^\circ$. Neka je $P$ tačka duži $AB$ takva da je $\measuredangle ACP = 30^\circ$, a $Q$ tačka duži $AC$ takva da je $\measuredangle CPQ = 20^\circ$. Dokazati da je prava $BQ$ simetrala ugla kod temena $B$ trougla $ABC$.","U trouglu $ABC$ ugao kod temena $A$ jednak je $90^\circ$, a ugao kod temena $C$ jednak je $70^\circ$. Neka je $P$ tačka duži $AB$, takva da je $\measuredangle ABC = 30^\circ$, a $Q$ tačka duži $AC$ takva da je $\measuredangle CPQ = 20^\circ$. Dokazati da je prava $BQ$ simetrala ugla kod temena $B$ trougla $ABC$."
+0.9609,2026-Okruzno-B-3-5,2026-Okruzno-B-4-4,Algebra,Kombinatorika,False,"Da li je moguće svaku tačku koordinatne ravni obojiti u jednu od 2025 boja, tako da postoji tačka u svakoj od ovih boja i da je grafik svakog polinoma sa celobrojnim koeficijentima jednobojan?","Da li je moguće svaku tačku koordinatne ravni obojiti u jednu od 2026 boja, tako da postoji tačka u svakoj od ovih boja i da je grafik svakog polinoma sa celobrojnim koeficijentima jednobojan?"
+0.9604,2012-Okruzno-A-2-5,2012-Okruzno-B-3-5,Kombinatorika,Kombinatorika,False,"U polja tablice $100 \times 100$ su upisani brojevi. U svakoj vrsti ima bar $10$ različitih brojeva, ali u svake tri uzastopne vrste ima najviše $16$ različitih brojeva. Koliko se najviše različitih brojeva može nalaziti u tablici?","U polja tablice $100 \times 100$ su upisani brojevi. U svakoj vrsti ima bar $10$ različitih brojeva, ali u svake tri uzastopne vrste ima najviše $16$ različitih brojeva. Koliko najviše različitih brojeva može da se nađe u tablici?"
+0.9564,2026-Drzavno-B-3-4,2026-Drzavno-B-4-3,Kombinatorika,Kombinatorika,False,"Ana i Bojan igraju igru na traci od $n \ge 3$ polja sa po jednim žetonom. Na početku, Anin žeton se nalazi na prvom polju, a Bojanov žeton na poslednjem polju. Igrači igraju naizmenično. U svakom potezu, igrač pomera svoj žeton za jedno ili dva polja u pravcu protivnikovog žetona. Žeton mora da stane na prazno polje i nije dozvoljeno preskakanje protivnikovog žetona. Ana igra prva. Igrač koji ne može da odigra potez gubi. Dokazati:
+    (a) Ako n daje ostatak 2 pri deljenju sa 3, Bojan ima pobedničku strategiju.
+    (b) Ako n daje ostatak 0 ili 1 pri deljenju sa 3, Ana ima pobedničku strategiju.","Ana i Bojan igraju igru na traci od $n \ge 3$ polja sa po jednim žetonom. Na početku, Anin žeton se nalazi na prvom polju, a Bojanov žeton na poslednjem polju. Igrači igraju naizmenično. U svakom potezu, igrač pomera svoj žeton za jedno ili dva polja u pravcu protivnikovog žetona. Žeton mora da stane na prazno polje i nije dozvoljeno preskakanje protivnikovog žetona. Ana igra prva. Igrač koji ne može da odigra potez gubi. Dokazati:
+    \begin{itemize}
+        \item[(a)] Ako n daje ostatak 2 pri deljenju sa 3, Bojan ima pobedničku strategiju.
+        \item[(b)] Ako n daje ostatak 0 ili 1 pri deljenju sa 3, Ana ima pobedničku strategiju.
+    \end{itemize}"
+0.9533,2000-Okruzno-A-1-2,2000-Okruzno-B-1-1,Teorija brojeva,Teorija brojeva,False,"Miljan i Mladen igraju sledeću igru: naizmenično biraju delioce broja 200, ali tako da broj koji izaberu ne deli ni jedan od već prethodno izabranih brojeva. Igru gubi onaj igrač koji kaže broj 200. Miljan počinje igru. Kako treba da igra da bi pobedio Mladena?","Miljan i Mladen igraju sledeću igru: naizmenično biraju delioce broja 1000, ali tako da broj koji izaberu ne deli ni jedan od već prethodno izabranih brojeva. Igru gubi onaj igrač koji kaže broj 1000. Miljan počinje igru. Kako treba da igra da bi pobedio Mladena?"
+0.9465,2026-Okruzno-A-3-2,2026-Okruzno-B-3-3,Geometrija,Geometrija,False,"Dat je tetivan četvorougao ABCD. Dijagonale AC i BD se seku u tački E, a prave AD i BC se seku u tački F. Neka je G središte luka CD kružnice opisane oko četvorougla ABCD, koji ne sadrži tačke A i B. Ako su tačke E, F i G kolinearne, dokazati da je četvorougao ABCD jednakokraki trapez.","Dat je tetivan četvorougao ABCD. Prave AC i BD se seku u tački E, a prave AD i BC se seku u tački F. Neka je G središte luka CD kružnice opisane oko ABCD koji ne sadrži tačke A i B. Ako su tačke E, F i G kolinearne, dokazati da je četvorougao ABCD jednakokraki trapez."
+0.9452,2004-Drzavno-B-2-2,2005-Opstinsko-A-2-1,Geometrija,Geometrija,False,"Neka je $AB$ prečnik kruga $k$ i tetive $AD$ i $BC$ tog kruga se seku u tački $E$. Dokazati da
+  \[
+      AE \cdot AD + BE \cdot BC
+  \]
+  ne zavisi od izbora tačaka $C$ i $D$.",Neka je $AB$ prečnik kruga $k$ i neka se tetive $AD$ i $BC$ tog kruga seku u tački $E$. Dokazati da $AE \cdot AD + BE \cdot BC$ ne zavisi od izbora tačaka $C$ i $D$.
+0.9395,2011-Drzavno-A-2-4,2011-Drzavno-B-3-5,Kombinatorika,Kombinatorika,False,"Grupa razbojnika skriva svoje blago u $2011$ pećina koje su numerisane brojevima $1, 2, \ldots, 2011$. Preko dana oni ostavljaju blago u jednoj od ovih pećina, a noću ga premextaju u jednu od susednih pećina (ako je blago u pećini sa brojem $k$, $1 < k < 2011$, premešta se u pećinu sa brojem $k-1$ ili u pećinu sa brojem $k+1$; ako je u pećini sa brojem $1$, onda se premešta u pećinu sa brojem $2$; ako je u pećini sa brojem $2011$, onda se premešta u pećinu sa brojem $2010$). Ali Baba je saznao ove informacije i svakog dana u podne ulazi u jednu od pećina. Da li Ali Baba ima strategiju kojom sa sigurnošću može da pronađe blago u konačno mnogo pokušaja?","Grupa razbojnika skriva svoje blago u $2011$ pećina koje su numerisane brojevima $1$ do $5$. Preko dana oni ostavljaju blago u jednoj od ovih pećina, a noću ga premeštaju u jednu od susednih pećina (ako je blago u pećini sa brojem $k$, $1 < k < 5$, premešta se u pećinu sa brojem $k-1$ ili u pećinu sa brojem $k+1$; ako je u pećini sa brojem $1$, onda se premešta u pećinu sa brojem $2$; ako je u pećini sa brojem $5$, onda se premešta u pećinu sa brojem $4$). Ali Baba je saznao ove informacije i svakog dana u podne ulazi u jednu od pećina. Da li Ali Baba ima strategiju kojom sa sigurnošću može da pronađe blago u konačno mnogo pokušaja?"
+0.939,2007-Opstinsko-A-1-3,2007-Opstinsko-B-2-3,Geometrija,Geometrija,False,"(M539) Na simetrali $\angle BAC$ trougla $ABC$ uočene su tačke $B_1$ i $C_1$ takve da je $BB_1 \perp AB$, $CC_1 \perp AC$. Neka je $M$ središte duži $B_1C_1$. Dokazati da je $MB = MC$.","Na simetrali $\angle BAC$ trougla $ABC$ uočene su tačke $B_1$ i $C_1$ takve da je $BB_1 \perp AB$, $CC_1 \perp AC$. Neka je $M$ središte duži $B_1C_1$. Dokazati da je $MB = MC$."
+0.9389,2012-Okruzno-A-1-5,2012-Okruzno-B-4-5,Kombinatorika,Kombinatorika,False,"Na svakoj od $n > 4$ kartica upisan je jedan od brojeva $+1$ ili $-1$. Sa koliko najmanje pitanja možemo saznati proizvod svih brojeva zapisanih na karticama, ako jednim pitanjem možemo saznati vrednost proizvoda brojeva na tačno tri proizvoljno izabrane kartice?","Na svakoj od $2011$ kartica upisan je jedan od brojeva $+1$ ili $-1$. Sa koliko najmanje pitanja možemo saznati proizvod svih brojeva, ako jednim pitanjem možemo saznati vrednost proizvoda brojeva na tačno tri proizvoljno izabrane kartice?"
+0.9284,2011-Okruzno-B-4-5,2015-Okruzno-B-3-5,Kombinatorika,Kombinatorika,False,Koliko ima šestocifrenih brojeva sa različitim ciframa čija je najveća cifra za $7$ veća od najmanje cifre?,Koliko ima šestocifrenih brojeva sa različitim ciframa čija je najveća cifra za osam veća od najmanje cifre?
+0.9245,2026-Drzavno-B-2-4,2026-Drzavno-B-3-5,Algebra,Algebra,False,"(a) Neka su a i b realni brojevi takvi da je $a<b.$ Dokazati da za svako $y \in \mathbb{R}$ važi $|y-a|+|y-b| \ge b-a.$
+    (b) Neka je x iracionalan broj, takav da je broj $|x-1|+|x-2|+\dots+|x-2023|+|x-2024|$ racionalan. Dokazati da za proizvoljan realan broj y važi nejednakost $|y-1|+|y-2|+\dots+|y-2023|+|y-2024| \ge |x-1|+|x-2|+\dots+|x-2023|+|x-2024|.$","Neka je x iracionalan broj, takav da je broj $|x-1|+|x-2|+\dots+|x-2023|+|x-2024|$ racionalan. Dokazati da za proizvoljan realan broj y važi nejednakost $|y-1|+|y-2|+\dots+|y-2023|+|y-2024| \ge |x-1|+|x-2|+\dots+|x-2023|+|x-2024|.$"
+0.9044,2016-Opstinsko-A-1-2,2016-Opstinsko-B-4-2,Kombinatorika,Kombinatorika,False,U vrstu je poređano 2016 stolica. Na koliko načina je moguće obojiti svaku stolicu crvenom ili plavom bojom na takav način da broj parova susednih stolica koje imaju istu boju bude paran?,U vrstu je poređano 2016 stolica. Na koliko načina je moguće obojiti svaku stolicu crvenom ili plavom bojom na takav način da broj plavih stolica bude paran?
+0.9025,2023-Opstinsko-B-3-4,2023-Opstinsko-B-4-4,Teorija brojeva,Teorija brojeva,False,"Naći maksimalan broj elemenata skupa $\{1,2,\dots,13\}$ koje možemo izabrati tako da među izabranima ne postoje neka tri, recimo $a, b$ i $c$, $a \ne b$, tako da $a - b \mid c$.","Naći maksimalan broj elemenata skupa $\{1,2,\dots,23\}$ koje možemo izabrati tako da među izabranima ne postoje neka tri, recimo $a, b$ i $c$, $a \ne b$, tako da $a - b \mid c$."
+0.9018,2014-Okruzno-A-1-4,2014-Okruzno-B-1-4,Geometrija,Geometrija,False,U trouglu $ABC$ simetrala ugla kod temena $A$ seče stranicu $BC$ u tački $D$. Normala iz tačke $B$ na pravu $AD$ seče opisanu kružnicu trougla $ABD$ u tački $E \neq B$. Dokazati da centar $O$ opisane kružnice trougla $ABC$ leži na pravoj $AE$.,Neka je $ABC$ trougao takav da važi $\angle ABC > \angle BCA$. Simetrala ugla kod temena $A$ ovog trougla seče stranicu $BC$ u tački $D$. Normala iz tačke $B$ na pravu $AD$ seče opisanu kružnicu trougla $ABD$ u tački $E \neq B$. Dokazati da centar $O$ opisane kružnice trougla $ABC$ leži na pravoj $AE$.
+0.901,2005-Drzavno-B-3-2,2006-Drzavno-B-2-3,Algebra,Algebra,False,"Neka je funkcija $f : \mathbb{R} \to \mathbb{R}$, data sa $f(x) = \dfrac{2x^2 + 6x + 6}{x^2 + 4x + 5}$, za svako $x \in \mathbb{R}$. Odrediti maksimalnu vrednost (ako postoji) date funkcije.","Neka je funkcija $f : \mathbb{R} \longrightarrow \mathbb{R}$, data sa $f(x) = \dfrac{2x^2 + 6x + 6}{x^2 + 4x + 5}$, za svako $x \in \mathbb{R}$. Odrediti maksimalnu vrednost (ako postoji) date funkcije."
+0.9001,2010-Okruzno-A-2-2,2010-Okruzno-B-2-4,Kombinatorika,Kombinatorika,False,"Na turniru učestvuje $n \geqslant 2$ igrača. Predviđeno je da svaka dva igrača odigraju po jednu partiju. Međutim, igrač $A$ je napustio turnir nakon $k$ odigranih partija ($1 \leqslant k \leqslant n-3$), a igrač $B$ nakon jedne odigrane partije. Ostali igrači nisu napuštali turnir. Na turniru je odigrano $55$ partija. Da li su $A$ i $B$ igrali međusobno?","Na turniru učestvuje $n \geqslant 2$ igrača. Predviđeno je da svaka dva igrača odigraju po jednu partiju. Međutim, igrač $A$ je napustio turnir nakon $10$ odigranih partija, a igrač $B$ nakon jedne odigrane partije. Na turniru je odigrano $55$ partija. Da li su $A$ i $B$ igrali međusobno?"
+0.894,2008-Opstinsko-B-4-2,2009-Opstinsko-B-4-2,Geometrija,Geometrija,False,"Izračunati površinu paralelograma konstruisanog nad vektorima $\vec{p} = 2\vec{a} + 3\vec{b}$ i $\vec{q} = \vec{a} - 4\vec{b}$, pri čemu je $|\vec{a}| = |\vec{b}| = 1$ i $\vec{a} \perp \vec{b}$.","Izračunati površinu paralelograma konstruisanog nad vektorima $\vec{p} = \vec{a} + 2\vec{b}$ i $\vec{q} = 2\vec{a} - 3\vec{b}$, pri čemu je $|\vec{a}| = |\vec{b}| = 1$ i $\angle(\vec{a}, \vec{b}) = 60^\circ$."
+0.8802,2006-Opstinsko-A-3-5,2006-Opstinsko-A-4-5,Teorija brojeva,Teorija brojeva,False,"Postoje li celi pozitivni brojevi $x, y$ i $z$ za koje važi:
+    \[
+        x^3 + y^4 = z^5 \; ?
+    \]","Postoje li celi pozitivni brojevi $x, y, z$ i $t$ za koje važi:
+    \[
+        x^3 + y^4 = z^5 \; ?
+    \]"
+0.8749,2010-Drzavno-A-3-2,2010-Drzavno-B-3-4,Teorija brojeva,Teorija brojeva,False,"Neka je sa $\overline{a_n b_n}$ označen dvocifreni broj koji predstavlja poslednje dve cifre broja $1^{2010} + 2^{2010} + \ldots + n^{2010}$, za $n \in \mathbb{N}$ (u dekadnom zapisu). Odrediti da li je broj $0,a_1b_1a_2b_2a_3b_3\ldots$ racionalan.","Neka je sa $\overline{a_n b_n}$ označen dvocifreni broj koji predstavlja poslednje dve cifre broja $1 + 2 + \ldots + n$, za $n \in \mathbb{N}$ (u dekadnom zapisu). Odrediti da li je broj $0,a_1b_1a_2b_2a_3b_3\ldots$ racionalan."
+0.8725,2004-Drzavno-B-1-2,2010-Okruzno-B-1-2,Geometrija,Geometrija,False,U pravouglom trouglu $\triangle ABC$ nad katetom $AC$ kao nad prečnikom konstruisan je krug $k$ koji seče hipotenuzu $AB$ u tački $E$. U tački $E$ konstruisana je tangenta $t$ kruga $k$ koja seče katetu $BC$ u tački $D$. Dokazati da je trougao $\triangle BDE$ jednakokraki.,U pravouglom $\triangle ABC$ nad katetom $BC$ kao prečnikom konstruisana je kružnica koja seče hipotenuzu $AB$ u tački $E$. Tangenta ove kružnice u tački $E$ seče katetu $AC$ u tački $D$. Dokazati da je $\triangle ADE$ jednakokraki.
+0.871,2004-Drzavno-B-3-1,2005-Okruzno-A-2-4,Algebra,Algebra,False,Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći?,Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći? (Obrazložiti odgovor!)
+0.871,2004-Drzavno-B-3-1,2005-Okruzno-B-3-4,Algebra,Algebra,False,Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći?,Koji je od brojeva $2^{\sqrt{\log_2 2004}}$ i $2004^{\sqrt{\log_{2004} 2}}$ veći? (Obrazložiti odgovor!)
+0.8671,2023-Drzavno-B-1-2,2023-Drzavno-B-2-2,Teorija brojeva,Teorija brojeva,False,Da li postoji cifra $a$ takva da je broj $\overline{20\underbrace{aa\dots aa}_{2020}21}$ kvadrat prirodnog broja?,Da li postoji cifra $a$ takva da je broj $\overline{20\underbrace{aa\dots aa}_{2022}21}$ kub prirodnog broja?
+0.8638,2009-Drzavno-B-3-5,2012-Drzavno-B-2-2,Algebra,Algebra,False,"Odrediti sve realne brojeve $x$ za koje važi
+    \[
+        \log_{x+1} x \geqslant \log_{x^2+1} x^2 \geqslant \log_{x^3+1} x^3 \geqslant \ldots \geqslant \log_{x^n+1} x^n \geqslant \ldots
+    \]","Odrediti sve realne brojeve $x$ za koje važi
+    \[
+        \log_{x+1} x \geq \log_{x^2+1} x^2 \geq \log_{x^3+1} x^3 \geq \ldots \geq \log_{x^n+1} x^n \geq \ldots
+    \]"
+0.8603,2002-Okruzno-B-1-5,2014-Opstinsko-A-1-5,Kombinatorika,Kombinatorika,False,"Na odbojkaškom turniru, učestvovalo je 10 ekipa. Svaka od njih je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa je imala $x_1$ pobeda i $y_1$ poraza, druga $x_2$ pobeda i $y_2$ poraza, \ldots, deseta je imala $x_{10}$ pobeda i $y_{10}$ poraza. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \cdots + x_{10}^2 = y_1^2 + y_2^2 + \cdots + y_{10}^2.
+    \]
+    (U odbojci nema nerešenog rezultata -- svaka utakmica se završava pobedom jedne od ekipa.)","Na odbojkaškom turniru učestvovalo je $10$ ekipa. Svaka od njih odigrala je po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa imala je $x_1$ pobeda i $y_1$ poraza, druga ekipa $x_2$ pobeda i $y_2$ poraza, itd. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \ldots + x_{10}^2 = y_1^2 + y_2^2 + \ldots + y_{10}^2.
+    \]
+    (Odbojkaška utakmica se ne može završiti nerešenim rezultatom.)"
+0.8603,2002-Okruzno-A-1-5,2014-Opstinsko-A-1-5,Kombinatorika,Kombinatorika,False,"Na odbojkaškom turniru, učestvovalo je 10 ekipa. Svaka od njih je odigrala po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa je imala $x_1$ pobeda i $y_1$ poraza, druga $x_2$ pobeda i $y_2$ poraza, \ldots, deseta je imala $x_{10}$ pobeda i $y_{10}$ poraza. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \cdots + x_{10}^2 = y_1^2 + y_2^2 + \cdots + y_{10}^2.
+    \]
+    (U odbojci nema nerešenog rezultata -- svaka utakmica se završava pobedom jedne od ekipa.)","Na odbojkaškom turniru učestvovalo je $10$ ekipa. Svaka od njih odigrala je po jednu utakmicu sa svakom od preostalih ekipa. Na kraju turnira, prva ekipa imala je $x_1$ pobeda i $y_1$ poraza, druga ekipa $x_2$ pobeda i $y_2$ poraza, itd. Dokazati da je
+    \[
+        x_1^2 + x_2^2 + \ldots + x_{10}^2 = y_1^2 + y_2^2 + \ldots + y_{10}^2.
+    \]
+    (Odbojkaška utakmica se ne može završiti nerešenim rezultatom.)"
+0.8563,2005-Drzavno-B-2-4,2007-Okruzno-B-2-4,Algebra,Algebra,False,Rešiti nejednačinu $\sqrt{4x - x^2 - 3} \geq \sqrt{x^2 - 7x + 12} - \sqrt{x^2 - 5x + 6}$.,"Rešiti nejednačinu
+    \[
+        \sqrt{4x - x^2 - 3} > \sqrt{x^2 - 7x + 12} - \sqrt{x^2 - 5x + 6}.
+    \]"
+0.8448,2005-Drzavno-B-4-5,2009-Opstinsko-A-4-1,Geometrija,Geometrija,False,Izračunati površinu pravilne četvorostrane prizme zapremine $V = 12\sqrt{3}$ kod koje je zbir dužina svih ivica najmanji.,"Izračunati površinu pravilne četvorostrane prizme čija je zapremina $V = 12\sqrt{3}$, a zbir dužina svih ivica je najmanji mogući."
+0.8418,2008-Opstinsko-A-3-1,2008-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & z & = & 0, \\
+            x & + & ay & - & 3z & = & 1, \\
+            ax & - & y & + & z & = & 0.
+        \end{array}
+    \]"
+0.8418,2008-Opstinsko-B-3-1,2008-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & z & = & 0, \\
+            x & + & ay & - & 3z & = & 1, \\
+            ax & - & y & + & z & = & 0.
+        \end{array}
+    \]"
+0.8413,2016-Drzavno-A-2-2,2016-Drzavno-A-3-4,Algebra,Algebra,False,"Naći sve funkcije $f : \mathbb{R} \to \mathbb{R}$ takve da važi
+\[
+    f(x)f(x - y) + f(y)f(x + y) = x^2 + f(y)^2 \quad \text{za sve } x, y \in \mathbb{R}.
+\]","Neka je data funkcija $f : \mathbb{R} \to \mathbb{R}$ koja nije konstantna takva da važi
+\[
+    f(x)f(x - y) + f(y)f(x + y) = f(x)^2 + f(y)^2 \quad \text{za sve } x, y \in \mathbb{R}.
+\]
+Dokazati: $f(x + y) = f(x) + f(y)$ za sve $x, y \in \mathbb{R}$."
+0.8361,2007-Okruzno-A-2-5,2007-Okruzno-B-2-5,Algebra,Algebra,False,"Odrediti sve realne brojeve $x$ i $y$ za koje važi jednakost
+    \[
+        x^2 - 2x \cos(xy) + 1 = 0.
+    \]","(M474) Odrediti sve realne brojeve $x$ i $y$ za koje važi jednakost
+    \[
+        x^2 - 2x \cos(xy) + 1 = 0.
+    \]"
+0.825,2008-Opstinsko-B-4-1,2009-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & z & = & 0, \\
+            x & + & ay & - & 3z & = & 1, \\
+            ax & - & y & + & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            2x & + & y & - & z & = & -1, \\
+            -4x & - & 2y & + & az & = & a, \\
+            (a-1)x & + & y & + & z & = & 2.
+        \end{array}
+    \]"
+0.8193,2014-Okruzno-A-2-5,2014-Okruzno-A-3-5,Kombinatorika,Kombinatorika,False,"Za stanovnike planete $P$, kojih možda ima i beskonačno mnogo, važi sledeće:
+    \begin{itemize}
+        \item[(1)] svaki stanovnik voli tačno jednog i poštuje tačno jednog stanovnika;
+        \item[(2)] ako stanovnik $A$ voli stanovnika $B$, onda svi stanovnici koji poštuju stanovnika $A$ vole stanovnika $B$;
+        \item[(3)] ako stanovnik $A$ poštuje stanovnika $B$, onda svi stanovnici koji vole stanovnika $A$ poštuju stanovnika $B$;
+        \item[(4)] za svakog stanovnika postoji neko ko ga voli.
+    \end{itemize}
+    Da li je obavezno tačno da svaki stanovnik voli onoga koga poštuje? (Stanovnik može poštovati ili voleti sebe.)","U nekoj zemlji živi konačno mnogo stanovnika. Svaki od njih voli bar jednog i poštuje bar jednog stanovnika (ne obavezno istog). Poznato je da:
+    \begin{itemize}
+        \item[(1)] ako stanovnik $A$ voli stanovnika $B$, onda svi stanovnici koji poštuju stanovnika $A$ vole stanovnika $B$;
+        \item[(2)] ako stanovnik $A$ poštuje stanovnika $B$, onda svi stanovnici koji vole stanovnika $A$ poštuju stanovnika $B$.
+    \end{itemize}
+    Dokazati da postoji stanovnik koji voli sebe."
+0.8167,2006-Drzavno-B-1-3,2013-Opstinsko-B-1-1,Teorija brojeva,Teorija brojeva,False,"a) Dokazati da broj $n^2 + n + 1$ nije deljiv sa $2006$ ni za jedan prirodan broj $n$.
+
+    b) Dokazati da broj $n^2 + n + 2$ nije deljiv sa $2007$ ni za jedan prirodan broj $n$.",Dokazati da $n^2 + 1$ nije deljiv sa 3 ni za jedan prirodan broj $n$.
+0.816,2011-Okruzno-B-4-1,2023-Opstinsko-B-4-3,Algebra,Algebra,False,"Ako je $\log_{10} 2 = a$ i $\log_{10} 3 = b$, odrediti $\log_5 216$ u funkciji od $a$ i $b$.","Ako je $\log 2 = a$ i $\log 3 = b$, odrediti $\log_5 216$ u funkciji od $a$ i $b$ $(\log x = \log_{10} x, x > 0)$."
+0.8089,2007-Drzavno-A-3-2,2007-Drzavno-B-4-2,Geometrija,Geometrija,False,"U trouglu $ABC$ je $AB = AC < BC$. Neka je $D$ tačka na polupravoj $AB$, tako da je $AD = BC$. Ako je $\angle BCA = 4 \cdot \angle DCB$ odrediti moguće vrednosti za $\angle ABC$.",U trouglu $ABC$ važe relacije $AB = AC < BC$. Neka je $D$ tačka na polupravoj $AB$ takva da je $AD = BC$. Odrediti vrednost ugla $\angle ABC$ ako se zna da je $\angle BCA = 4 \cdot \angle DCB$.
+0.8075,2003-Drzavno-B-3-2,2004-Drzavno-B-3-5,Algebra,Algebra,False,"Rešiti sistem u zavisnosti od realnog parametra $a$:
+    \[
+        \begin{aligned}
+            ax + 6y + z &= 1 \\
+            x + 6ay + z &= 6 \\
+            x + 6y + az &= 1.
+        \end{aligned}
+    \]","U zavisnosti od realnog parametra $a$ rešiti sistem jednačina:
+  \[
+      \begin{aligned}
+          x + y - z &= 1 \\
+          2x + 3y + az &= 3 \\
+          x + ay + 3z &= 2.
+      \end{aligned}
+  \]"
+0.8003,2014-Drzavno-A-2-4,2014-Drzavno-B-3-5,Teorija brojeva,Kombinatorika,False,"U nizu je dato $n \geq 3$ sijalica. Ispod svake sijalice nalazi se prekidač. Pritiskom na prekidač ispod sijalice sa rednim brojem $i$, $1 < i < n$, menja se stanje sijalica sa rednim brojevima $i-1$, $i$ i $i+1$; pritiskom na prekidač ispod prve sijalice menja se stanje prve i druge sijalice, dok se pritiskom na prekidač ispod sijalice sa rednim brojem $n$ menja stanje sijalica sa rednim brojevima $n-1$ i $n$. Odrediti sve prirodne brojeve $n$ za koje je bez obzira na početno stanje sijalica moguće u konačno mnogo poteza dobiti stanje u kojem su sve sijalice upaljene.","U niz je poređano $2014$ sijalica. Ispod svake sijalice nalazi se prekidač. Pritiskom na prekidač ispod sijalice sa rednim brojem $i$, za $1 < i < 2014$, menja se stanje sijalica sa rednim brojevima $i-1$, $i$ i $i+1$; pritiskom na prekidač ispod prve sijalice menja se stanje prve i druge sijalice, dok se pritiskom na prekidač ispod sijalice sa rednim brojem $2014$ menja stanje sijalica sa rednim brojevima $2013$ i $2014$.
+\begin{itemize}
+    \item[a)] Ako su na početku sve sijalice ugašene da li se nizom poteza može dobiti da sve sijalice budu upaljene?
+    \item[b)] Ako je na početku jedna sijalica upaljena, a preostalih $2013$ ugašeno, da li se bez obzira koja je sijalica upaljena može doći do stanja u kojem su sve sijalice upaljene?
+\end{itemize}"
+0.7968,2008-Opstinsko-B-3-1,2009-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            2x & + & y & - & z & = & -1, \\
+            -4x & - & 2y & + & az & = & a, \\
+            (a-1)x & + & y & + & z & = & 2.
+        \end{array}
+    \]"
+0.7968,2008-Opstinsko-A-3-1,2009-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            2x & + & y & - & z & = & -1, \\
+            -4x & - & 2y & + & az & = & a, \\
+            (a-1)x & + & y & + & z & = & 2.
+        \end{array}
+    \]"
+0.7907,2008-Opstinsko-B-4-1,2009-Opstinsko-B-3-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & z & = & 0, \\
+            x & + & ay & - & 3z & = & 1, \\
+            ax & - & y & + & z & = & 0.
+        \end{array}
+    \]","Neka je $m \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & - & y & + & z & = & 0, \\
+            x & + & (m-1)y & + & 2z & = & 1, \\
+            -x & + & 2y & + & (2m-1)z & = & 3, \\
+            x & + & y & + & 4z & = & 4.
+        \end{array}
+    \]"
+0.7855,2014-Drzavno-A-4-4,2014-Drzavno-B-2-4,Geometrija,Kombinatorika,False,"Na papiru je nacrtan pravilan šestougao. Aca i Voja naizmenično biraju po jednu tačku sa ruba tog mnogougla, pri čemu Aca tačku uvek boji plavom, a Voja crvenom bojom (svaka tačka može biti odabrana najviše jednom). Aca igra prvi. Igru dobija igrač koji prvi ostvari da među tačkama koje je do tada obojio postoje tri koje čine temena jednakostraničnog ili temena jednakokrako pravouglog trougla. Da li neki od igrača ima pobedničku strategiju?","Na papiru je nacrtana kružnica. Aca i Voja naizmenično biraju po jednu tačku sa kružnice, pri čemu Aca tačku uvek boji plavom, a Voja uvek crvenom bojom (svaka tačka može biti odabrana najviše jednom). Aca počinje igru. U igri pobeđuje igrač koji prvi ostvari da među tačkama koje je do tada obojio postoje tri koje čine temena jednakostraničnog ili temena jednakokrako pravouglog trougla. Da li neki od igrača može igrati tako da pobedi bez obzira na to kako igra drugi igrač?"
+0.7811,2017-Drzavno-B-4-3,2017-Okruzno-B-2-5,Teorija brojeva,Kombinatorika,False,"U svako polje tablice formata $n \times n$ potrebno je upisati po jedan od brojeva $1, 2, 3, \ldots, n$ na takav način da se u svakoj vrsti, u svakoj koloni i na svakoj dijagonali svaki od brojeva pojavljuje najviše jedanput. (Pritom posmatramo dijagonale svih mogućih dužina: dakle, dve dijagonale dužine $n$, četiri dijagonale dužine $n-1$, četiri dijagonale dužine $n-2$, \ldots, četiri dijagonale dužine 2 i četiri dijagonale dužine 1.) Da li je ovo moguće postići za:
+  \begin{itemize}
+      \item[a)] $n = 4$;
+      \item[b)] $n = 5$?
+  \end{itemize}","Data je kvadratna tablica $n \times n$. Potrebno je u svako njeno polje upisati po jedan realan broj tako da na svakoj dijagonali zbir brojeva iznosi 2017. (Pritom posmatramo dijagonale svih mogućih dužina: dakle, dve dijagonale dužine $n$, četiri dijagonale dužine $n - 1$, četiri dijagonale dužine $n - 2$, \ldots, četiri dijagonale dužine 2 i četiri dijagonale dužine 1.) Da li je ovo moguće postići za:
+  \begin{itemize}
+      \item[a)] $n = 5$;
+      \item[b)] $n = 2017$?
+  \end{itemize}"
+0.7808,2017-Drzavno-A-1-1,2017-Drzavno-B-4-3,Kombinatorika,Teorija brojeva,False,"Da li je moguće u svako polje tablice formata $2017 \times 2017$ upisati po jedan od brojeva $1, 2, 3, \ldots, 2017$ na takav način da se u svakoj vrsti, u svakoj koloni i na svakoj dijagonali svaki od brojeva pojavljuje najviše jedanput? (Pritom posmatramo dijagonale svih mogućih dužina: dakle, dve dijagonale dužine 2017, četiri dijagonale dužine 2016, četiri dijagonale dužine 2015, \ldots, četiri dijagonale dužine 2 i četiri dijagonale dužine 1.)","U svako polje tablice formata $n \times n$ potrebno je upisati po jedan od brojeva $1, 2, 3, \ldots, n$ na takav način da se u svakoj vrsti, u svakoj koloni i na svakoj dijagonali svaki od brojeva pojavljuje najviše jedanput. (Pritom posmatramo dijagonale svih mogućih dužina: dakle, dve dijagonale dužine $n$, četiri dijagonale dužine $n-1$, četiri dijagonale dužine $n-2$, \ldots, četiri dijagonale dužine 2 i četiri dijagonale dužine 1.) Da li je ovo moguće postići za:
+  \begin{itemize}
+      \item[a)] $n = 4$;
+      \item[b)] $n = 5$?
+  \end{itemize}"
+0.7746,2024-Opstinsko-B-3-1,2024-Opstinsko-B-4-2,Geometrija,Geometrija,False,"U trouglu $ABC$, sa uglovima $\alpha, \beta, \gamma$ u temenima $A,B$ i $C$, redom, važi da je
+    \[
+        \sin \alpha = 2023 \sin \beta \sin \gamma \quad \text{ i } \quad \cos \alpha = 2023 \cos \beta \cos \gamma.
+    \]
+    Odrediti vrednost izraza
+    \[
+        \frac{1 + \tan \alpha + \tan^2 \alpha}{1 + \cot \alpha + \cot^2 \alpha}.
+    \]","U trouglu $ABC$, sa uglovima $\alpha, \beta, \gamma$ u temenima $A,B$ i $C$, redom, važi da je
+    \[
+        \sin \alpha = 2023 \sin \beta \sin \gamma \quad \text{ i } \quad \cos \alpha = 2023 \cos \beta \cos \gamma.
+    \]
+    Odrediti vrednost izraza
+    \[
+        \frac{\tan \alpha + \tan^2 \alpha + \tan^3 \alpha + \cdots + \tan^{2023} \alpha}
+        {\tan^{-1} \alpha + \tan^{-2} \alpha + \tan^{-3} \alpha + \cdots + \tan^{-2023} \alpha}.
+    \]"
+0.7691,2005-Okruzno-A-2-2,2005-Okruzno-B-2-2,Algebra,Algebra,False,Rešiti nejednačinu $\sqrt{2x - 1} + \sqrt{x + 2} \geq 3 + \sqrt{x + 6}$.,Rešiti jednačinu $\sqrt{2x - 1} - 3 = \sqrt{x + 6} - \sqrt{x + 2}$.
+0.7675,2024-Opstinsko-A-1-2,2024-Opstinsko-A-3-3,Kombinatorika,Kombinatorika,False,"Data je tabla dimenzija $2023 \times 2024$. Aca i Branko igraju sledeću igru: Najpre Aca bira polje table i postavlja kraljicu, a potom naizmenično odigravaju potez kraljicom (u skladu sa šahovskim pravilima), pri čemu u svakom potezu pomeraju kraljicu na neko od polja table na koje kraljica do tada nije stala (tokom igre ne mogu pomeriti kraljicu na početno polje -- polje na koje je Aca, u početku igre, postavio kraljicu). Igru gubi igrac koji ne može da odigra potez. Ukoliko Branko igra prvi (nakon što je Aca postavio kraljicu), koji igrac ima pobedničku strategiju?","Data je tabla dimenzija $2023 \times 2024$. Aca i Branko igraju sledeću igru: Najpre Aca bira polje table i postavlja skakača, a potom naizmenično odigravaju potez skakačem (u skladu sa šahovskim pravilima), pri čemu u svakom potezu pomeraju skakača na neko od polja table na koje skakač do tada nije stao (tokom igre ne mogu pomeriti skakača na početno polje -- polje na koje je Aca, u početku igre, postavio skakača). Igru gubi igrac koji ne može da odigra potez. Ukoliko Branko igra prvi (nakon što je Aca postavio skakača), koji igrac ima pobedničku strategiju?"
+0.766,2012-Drzavno-B-4-2,2012-Opstinsko-B-3-3,Algebra,Algebra,False,"U skupu prirodnih brojeva rešiti jednačinu
+    \[
+        \mathop{\rm arctg}\nolimits \frac{n}{11} + n \cdot \mathop{\rm arctg}\nolimits \frac{1}{7} = \mathop{\rm arctg}\nolimits \frac{1}{n}.
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        \arcsin 3x = \mathop{\rm arctg}\nolimits 5x.
+    \]"
+0.7652,2017-Okruzno-B-1-1,2022-Okruzno-B-1-1,Algebra,Algebra,False,"Neka je $\rho$ relacija na skupu $\mathbb{R}$ definisana sa:
+  \[
+      x\,\rho\,y \text{ ako i samo ako važi } x^2 - y^2 \geqslant 0.
+  \]
+  Ispitati da li je relacija $\rho$ refleksivna, simetrična, antisimetrična i tranzitivna, da li je relacija ekvivalencije, i da li je relacija poretka.","Za $m, n \in \mathbb{N}$ neka je $m \rho n$ ako i samo ako je $mn$ potpun kvadrat. Ispitati da li je relacija $\rho$ refleksivna, simetrična, antisimetrična ili tranzitivna. Da li je $\rho$ relacija ekvivalencije? Da li je $\rho$ relacija poretka?"
+0.765,2012-Drzavno-B-4-2,2011-Opstinsko-A-4-1,Algebra,Algebra,False,"U skupu prirodnih brojeva rešiti jednačinu
+    \[
+        \mathop{\rm arctg}\nolimits \frac{n}{11} + n \cdot \mathop{\rm arctg}\nolimits \frac{1}{7} = \mathop{\rm arctg}\nolimits \frac{1}{n}.
+    \]","Dokazati da je funkcija
+    \[
+        f(x) = \mathop{\rm arctg}\nolimits x + \mathop{\rm arctg}\nolimits \frac{1+x}{1-x} + 2 \cdot \mathop{\rm arctg}\nolimits \frac{1}{x}
+    \]
+    na intervalima u kojima je definisana konstantna, a zatim naći vrednost ove funkcije."
+0.7636,2024-Drzavno-B-1-2,1999-Drzavno-B-1-2,Algebra,Algebra,False,"Da li postoji polinom $P(x)$ sa celobrojnim koeficijentima, takav da je $P(a) = b$, $P(b) = c$ i $P(c) = a$, za neke različite cele brojeve $a, b$ i $c$?","Dokazati da ne postoji polinom $P(x)$ sa celobrojnim koeficijentima za koji je $P(a) = b$, $P(b) = c$, $P(c) = a$, gde su $a$, $b$, $c$ tri različita cela broja."
+0.7628,2018-Drzavno-A-1-2,2016-Opstinsko-A-1-1,Geometrija,Algebra,False,"Dat je prirodan broj $k$ i skupovi $A$, $B$ i $C$ takvi da važi
+\[
+    |A \triangle B| = |B \triangle C| = |C \triangle A| = 2k.
+\]
+Dokazati da postoji jedinstven skup $D$ za koji važi
+\[
+    |A \triangle D| = |B \triangle D| = |C \triangle D| = k.
+\]
+(Za skupove $X$ i $Y$ označili smo $X \triangle Y = (X \setminus Y) \cup (Y \setminus X)$, što se naziva \textit{simetrična razlika} skupova $X$ i $Y$.)","Neka su $A$, $B$ i $C$ konačni skupovi za koje važi
+    \[
+        |A \triangle C| + |B \triangle C| = |A \triangle B|.
+    \]
+    Dokazati da tada važi
+    \[
+        A \cap B \subseteq C \subseteq A \cup B.
+    \]
+    (Za skupove $X$ i $Y$ označili smo $X \triangle Y = (X \setminus Y) \cup (Y \setminus X)$, što se naziva \textit{simetrična razlika} skupova $X$ i $Y$.)"
+0.7531,2000-Drzavno-B-3-4,2007-Opstinsko-B-3-1,Algebra,Algebra,False,"Ako su $x$, $y$, $z$ pozitivni realni brojevi različiti od 3 i ako je $y = 3^{\frac{1}{1 - \log_3 x}}$ i $z = 3^{\frac{1}{1 - \log_3 y}}$, dokazati da je $x = 3^{\frac{1}{1 - \log_3 z}}$.","Ako je $b = 3^{\frac{1}{1 - \log_3 a}}$ i $c = 3^{\frac{1}{1 - \log_3 b}}$, dokazati da je $a = 3^{\frac{1}{1 - \log_3 c}}$."
+0.7517,2013-Drzavno-A-3-1,2013-Drzavno-B-4-5,Algebra,Kombinatorika,False,"Za skup prirodnih brojeva $A$ kažemo da je \emph{skup-interval} ako postoje prirodni brojevi $a \leq b$ takvi da je $A = \{i \in \mathbb{N} \mid a \leq i \leq b\}$. Za date prirodne brojeve $n$ i $k$, koliko ima uređenih $k$-torki skup-intervala $(A_1, A_2, \ldots, A_k)$ takvih da je
+\[
+A_1 \subseteq A_2 \subseteq \ldots \subseteq A_k \subseteq \{1, 2, \ldots, n\}?
+\]","Za date prirodne brojeve $n$ i $k$, koliko ima uređenih $k$-torki skupova $(A_1, A_2, \ldots, A_k)$ takvih da je
+  \[
+  A_1 \subseteq A_2 \subseteq \ldots \subseteq A_k \subseteq \{1, 2, \ldots, n\}?
+  \]"
+0.7514,2003-Okruzno-B-2-4,2009-Okruzno-A-2-1,Algebra,Algebra,False,"U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 - x} = 1 - \sqrt{x - 1}.
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 + \sqrt{x}} + \sqrt[3]{2 - \sqrt{x}} = 1.
+    \]"
+0.7514,2003-Okruzno-B-2-4,2009-Okruzno-B-2-5,Algebra,Algebra,False,"U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 - x} = 1 - \sqrt{x - 1}.
+    \]","U skupu realnih brojeva rešiti jednačinu
+    \[
+        \sqrt[3]{2 + \sqrt{x}} + \sqrt[3]{2 - \sqrt{x}} = 1.
+    \]"
+0.7452,2023-Drzavno-A-4-3,2026-Okruzno-A-1-3,Kombinatorika,Kombinatorika,False,"Na tabli je zapisan prirodan broj $n$. Ana i Bojan igraju sledeću igru, naizmenično vukući poteze. Potez se sastoji od brisanja napisanog broja i zamenjivanja istog sa razlikom tog broja i nekog njegovog delioca koji nije $1$, niti sam taj broj (igrač sam bira delilac). Ako Ana igra prva, u zavisnosti od broja $n$, odrediti koji igrač ima pobedničku strategiju (igru gubi onaj igrač koji ne može odigrati potez).","Na tabli je zapisan broj 2025. Ana i Bojan igraju sledeću igru, naizmenično vukući poteze: Potez se sastoji od brisanja napisanog broja i zamenjivanja istog sa razlikom tog broja i neke njegove cifre koja nije nula (igrač sam bira cifru). Pobednik je onaj koji napiše 0 na tabli. Ako Ana igra prva, odrediti koji igrač ima pobedničku strategiju."
+0.725,2009-Opstinsko-B-1-2,2010-Opstinsko-B-1-2,Algebra,Algebra,False,"Neka je $g : \mathbb{R} \to \mathbb{R}$, $g(x) = 3x + 1$.
+    \begin{itemize}
+        \item[(a)] Odrediti funkciju $f$ ako je $f(x) = g(g(x)) - g(x)$.
+        \item[(b)] Dokazati da je $f$ bijekcija i odrediti $f^{-1}(x)$.
+    \end{itemize}","Neka je $g \colon \mathbb{R} \to \mathbb{R}$ definisana sa $g(5-2x) = 4x-7$.
+    \begin{itemize}
+        \item[(a)] Odrediti $g(x)$.
+        \item[(b)] Odrediti funkciju $f$, ako je $f = g \circ g$.
+        \item[(v)] Dokazati da je $f$ bijekcija i odrediti $f^{-1}(x)$.
+    \end{itemize}"
+0.7248,2006-Opstinsko-B-2-1,2012-Opstinsko-B-2-1,Algebra,Algebra,False,"Odrediti sve kompleksne brojeve $z = x + iy$, za koje važi $|z - 2| = |z + 2i|$ i $|z + 2| = |z - 2i|$.",Odrediti sve kompleksne brojeve $z$ za koje važi $|z| = |z - 2i|$ i $|z - 1| = 1$.
+0.7235,2002-Drzavno-A-1-5,2015-Okruzno-A-1-2,Teorija brojeva,Teorija brojeva,False,"Neka je $S(n)$ zbir, a $P(n)$ proizvod cifara prirodnog broja $n$. Naći sve prirodne brojeve za koje je $S(n) + P(n) = n$.",Neka je $P(n)$ proizvod svih cifara prirodnog broja $n$. Naći sve prirodne brojeve $n$ za koje važi $n = P(n) + 18$.
+0.7229,2010-Opstinsko-B-3-1,2010-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x &+& y &+& az &=& 1-a,\\
+            ax &-& y &+& z &=& -1,\\
+            x &-& ay &-& z &=& 0.
+        \end{array}
+    \]","Odrediti vrednosti $m \in \mathbb{R}$ za koje sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x &+& y &-& z &=& 1,\\
+            2x &+& 3y &+& mz &=& 3,\\
+            x &+& my &+& 3z &=& 2
+        \end{array}
+    \]
+    ima jedinstveno rešenje u skupu realnih brojeva i odrediti to rešenje."
+0.7227,2008-Opstinsko-A-3-1,2009-Opstinsko-B-3-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $m \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & - & y & + & z & = & 0, \\
+            x & + & (m-1)y & + & 2z & = & 1, \\
+            -x & + & 2y & + & (2m-1)z & = & 3, \\
+            x & + & y & + & 4z & = & 4.
+        \end{array}
+    \]"
+0.7227,2008-Opstinsko-B-3-1,2009-Opstinsko-B-3-1,Algebra,Algebra,False,"Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & + & y & + & (1 - a)z & = & a, \\
+            (1 - a)x & - & y & + & z & = & -1, \\
+            x & + & (a - 1)y & - & z & = & 0.
+        \end{array}
+    \]","Neka je $m \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & - & y & + & z & = & 0, \\
+            x & + & (m-1)y & + & 2z & = & 1, \\
+            -x & + & 2y & + & (2m-1)z & = & 3, \\
+            x & + & y & + & 4z & = & 4.
+        \end{array}
+    \]"
+0.7168,2004-Drzavno-A-3-4,2012-Opstinsko-B-2-3,Algebra,Algebra,False,"Funkcija $f : \mathbb{R} \to \mathbb{R}$ je takva da je
+\[
+    x + f(x) = f(f(x))
+\]
+za svako $x \in \mathbb{R}$. Naći sva rešenja jednačine $f(f(x)) = 0$.","Funkcija $f : \mathbb{R} \to \mathbb{R}$, zadata je sa $f(x) = 3x^2 + 4x + 1$, za svako $x \in \mathbb{R}$. Rešiti nejednačinu
+    \[
+        f(f(x)) \leq 0.
+    \]"
+0.7149,2021-Okruzno-A-1-5,2021-Okruzno-B-1-5,Teorija brojeva,Teorija brojeva,False,Naći sve prirodne brojeve n za koje je $n\cdot2^{n}+4$ kvadrat celog broja.,Naći sve prirodne brojeve n za koje je $n\cdot2^{n-3}+3$ kvadrat celog broja.
+0.7111,2000-Drzavno-B-4-3,2011-Opstinsko-A-4-1,Algebra,Algebra,False,Date su funkcije: $f(x) = \mathop{\rm arctg}\nolimits x^{2}$ i $g(x) = \mathop{\rm arctg}\nolimits (x\sqrt{2} - 1) - \mathop{\rm arctg}\nolimits (x\sqrt{2} + 1)$ ($x \in \mathbf{R}$). Dokazati da je razlika ovih funkcija konstanta i odrediti tu konstantu.,"Dokazati da je funkcija
+    \[
+        f(x) = \mathop{\rm arctg}\nolimits x + \mathop{\rm arctg}\nolimits \frac{1+x}{1-x} + 2 \cdot \mathop{\rm arctg}\nolimits \frac{1}{x}
+    \]
+    na intervalima u kojima je definisana konstantna, a zatim naći vrednost ove funkcije."
+0.7107,2016-Opstinsko-A-3-4,2016-Opstinsko-B-4-5,Geometrija,Geometrija,False,"Dve kružnice poluprečnika $r_1$ i $r_2$ seku se u tačkama $A$ i $B$, a jedna njihova zajednička tangenta ih dodiruje u tačkama $C$ i $D$. Neka je $N$ tačka preseka pravih $AB$ i $CD$, pri čemu je $B$ između $A$ i $N$. Izračunati odnos visina $\triangle NAC$ i $\triangle NAD$ spuštenih iz tačke $N$.","Dve kružnice poluprečnika $r_1$ i $r_2$ seku se u tačkama $A$ i $B$, a jedna njihova zajednička tangenta ih dodiruje u tačkama $C$ i $D$, pri čemu je tačka $B$ bliža pravoj $CD$ od tačke $A$. Izračunati poluprečnik kružnice opisane oko $\triangle ACD$."
+0.7094,2026-Opstinsko-A-1-3,2026-Opstinsko-B-2-4,Geometrija,Geometrija,False,"Dve kružnice $k_1$ i $k_2$, koje se seku u dve različite tačke, imaju zajedničku tetivu AB. Neka je tačka P izabrana na kružnici $k_1$ i neka se nalazi u spoljašnjosti kružnice $k_2$. Prave PA i PB seku po drugi put kružnicu $k_2$, redom, u tačkama X i Y. Pokazati da je, bez obzira na izbor tačke P, dužina duži XY konstantna.","Dve kružnice $k_1$ i $k_2$ koje se seku u dve različite tačke, imaju zajedničku tetivu AB. Neka je tačka P izabrana na kružnici $k_1$ i neka se nalazi u spoljašnjosti kružnice $k_2$. Prave PA i PB seku kružnicu $k_2$ redom, u tačkama X i Y. Ako je $AB=6, PA=5, PB=7$ i $AX=16$ odrediti dužinu duži XY."
+0.7087,2009-Opstinsko-B-3-1,2009-Opstinsko-B-4-1,Algebra,Algebra,False,"Neka je $m \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            x & - & y & + & z & = & 0, \\
+            x & + & (m-1)y & + & 2z & = & 1, \\
+            -x & + & 2y & + & (2m-1)z & = & 3, \\
+            x & + & y & + & 4z & = & 4.
+        \end{array}
+    \]","Neka je $a \in \mathbb{R}$. U skupu realnih brojeva rešiti sistem
+    \[
+        \begin{array}{rcrcrcr}
+            2x & + & y & - & z & = & -1, \\
+            -4x & - & 2y & + & az & = & a, \\
+            (a-1)x & + & y & + & z & = & 2.
+        \end{array}
+    \]"
+0.7065,2008-Drzavno-A-3-3,2006-Okruzno-B-1-5,Kombinatorika,Kombinatorika,False,"U svako polje tablice $8 \times 7$ upisan je broj na sledeći način: u polje $(i, j)$ koje se nalazi u preseku $i$-te vrste i $j$-te kolone upisan je broj $i \cdot (2j + 1)$. U tako dobijenoj tablici dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ ili kvadrat $4 \times 4$ i povećati za $1$ svaki broj u poljima izabranog kvadrata. Da li se polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?",U svako polje tablice $8 \times 8$ napisan je broj. Dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ (sastavljen od $9$ polja) ili kvadrat $4 \times 4$ (sastavljen od $16$ polja) i povećati za $1$ svaki broj na poljima izabranog kvadrata. Da li se svaka polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?
+0.7065,2008-Drzavno-A-3-3,2006-Okruzno-A-1-5,Kombinatorika,Kombinatorika,False,"U svako polje tablice $8 \times 7$ upisan je broj na sledeći način: u polje $(i, j)$ koje se nalazi u preseku $i$-te vrste i $j$-te kolone upisan je broj $i \cdot (2j + 1)$. U tako dobijenoj tablici dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ ili kvadrat $4 \times 4$ i povećati za $1$ svaki broj u poljima izabranog kvadrata. Da li se polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?",U svako polje tablice $8 \times 8$ napisan je broj. Dozvoljeno je izabrati bilo koji kvadrat $3 \times 3$ (sastavljen od $9$ polja) ili kvadrat $4 \times 4$ (sastavljen od $16$ polja) i povećati za $1$ svaki broj na poljima izabranog kvadrata. Da li se svaka polazna tablica primenom takvih operacija može transformisati u tablicu u kojoj su svi brojevi parni?
+0.7061,2026-Opstinsko-A-4-3,2026-Opstinsko-B-4-3,Teorija brojeva,Teorija brojeva,False,Rešiti jednačinu $n!+n=n^m$ u skupu prirodnih brojeva.,U skupu prirodnih brojeva rešiti jednačinu $n!+n=n^n.$
+0.7031,2009-Drzavno-A-1-5,2009-Drzavno-A-2-5,Teorija brojeva,Teorija brojeva,False,Da li postoji prirodan broj koji je potpun kvadrat i čiji je zbir cifara jednak $2008^{2009}$?,Da li postoji prirodan broj koji je potpun kvadrat i čiji je zbir cifara jednak $2009^{2008}$?
+0.702,2024-Okruzno-A-1-5,2024-Okruzno-A-3-3,Geometrija,Geometrija,False,"Na stranici $BC$ trougla $ABC$ uočena je tačka $D$. Tačke $E$ i $F$, koje su različite od tačke $D$, su izabrane na pravoj $BC$ tako da je $BE = BD$ i $CF = CD$. Kružnice opisane oko trouglova $ACE$ i $ABF$ seku se, po drugi put, u tački $G$. Označimo sa $H$ središte kružnice opisane oko trougla $EGF$. Dokazati da je središte duži $DH$ ujedno i središte opisane kružnice oko trougla $ABC$.","Na stranici $BC$ trougla $ABC$ uočena je tačka $D$. Tačke $E$ i $F$ su izabrane na pravoj $BC$ tako da je $BE = BD$ i $CF = CD$. Kružnice opisane oko trouglova $ACE$ i $ABF$ seku se, po drugi put, u tački $G$. Neka kružnica opisana oko trougla $AEF$ seče pravu $AD$, ponovo, u tački $H$. Dokazati da je $DG = GH$."

@@ -1,0 +1,141 @@
+{
+  "input": "data/interim/text_expanded/problems_clean.jsonl",
+  "n_records": 2974,
+  "threshold": 0.7,
+  "similarity": "cosine, TF-IDF char_wb 4-grams, sublinear_tf, over model_text (lowercase, whitespace-normalized)",
+  "n_records_with_attribution_tail_removed": 113,
+  "n_pairs_above_threshold": 286,
+  "n_pairs_above_threshold_not_exact": 91,
+  "n_pairs_with_label_disagreement": 0,
+  "manual_review": {
+    "reviewed_file": "reports/data/text_v2/neardup_review.xlsx",
+    "n_reviewed_pairs": 91,
+    "n_marked_DA": 91,
+    "n_marked_NE": 0,
+    "n_without_decision_treated_as_DA": 0
+  },
+  "label_corrections": {
+    "corrections_file": "reports/data/text_v2/ispravke_oznaka.xlsx",
+    "n_rows_with_decision": 40,
+    "n_previously_excluded_conflict_records_returned": 22,
+    "n_labels_changed": 20,
+    "changes": [
+      {
+        "id": "2002-Drzavno-A-2-4",
+        "from": "Kombinatorika",
+        "to": "Algebra"
+      },
+      {
+        "id": "2003-Drzavno-A-3-4",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "id": "2006-Drzavno-A-3-2",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2009-Drzavno-A-2-1",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2013-Drzavno-A-3-1",
+        "from": "Algebra",
+        "to": "Kombinatorika"
+      },
+      {
+        "id": "2014-Drzavno-A-2-4",
+        "from": "Teorija brojeva",
+        "to": "Kombinatorika"
+      },
+      {
+        "id": "2014-Drzavno-A-4-4",
+        "from": "Geometrija",
+        "to": "Kombinatorika"
+      },
+      {
+        "id": "2017-Drzavno-A-1-1",
+        "from": "Kombinatorika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2018-Drzavno-A-1-2",
+        "from": "Geometrija",
+        "to": "Algebra"
+      },
+      {
+        "id": "1999-Drzavno-B-4-3",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "id": "2000-Drzavno-B-3-5",
+        "from": "Geometrija",
+        "to": "Algebra"
+      },
+      {
+        "id": "2007-Drzavno-B-2-4",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "1999-Okruzno-A-1-2",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "id": "2017-Okruzno-B-2-5",
+        "from": "Kombinatorika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2026-Okruzno-B-4-4",
+        "from": "Kombinatorika",
+        "to": "Algebra"
+      },
+      {
+        "id": "2003-Opstinsko-B-2-4",
+        "from": "Algebra",
+        "to": "Geometrija"
+      },
+      {
+        "id": "2004-Opstinsko-A-4-5",
+        "from": "Algebra",
+        "to": "Geometrija"
+      },
+      {
+        "id": "2006-Opstinsko-B-1-5",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2007-Opstinsko-A-2-5",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "id": "2019-Opstinsko-B-1-5",
+        "from": "Geometrija",
+        "to": "Kombinatorika"
+      }
+    ]
+  },
+  "class_distribution": {
+    "Algebra": 1050,
+    "Geometrija": 803,
+    "Teorija brojeva": 636,
+    "Kombinatorika": 485
+  },
+  "n_groups_v1_exact": 2795,
+  "n_groups_v2": 2714,
+  "largest_group_v2": 5,
+  "group_size_histogram": {
+    "1": 2479,
+    "2": 214,
+    "3": 18,
+    "4": 2,
+    "5": 1
+  }
+}

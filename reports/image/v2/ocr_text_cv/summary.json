@@ -1,0 +1,117 @@
+{
+  "ocr_lat": {
+    "macro_f1_pooled": 0.6386,
+    "macro_f1_fold_mean": 0.6321,
+    "macro_f1_fold_sd": 0.0325,
+    "accuracy_pooled": 0.6609,
+    "per_class_f1": {
+      "Algebra": 0.5439,
+      "Geometrija": 0.8054,
+      "Teorija brojeva": 0.6122,
+      "Logika": 0.593
+    },
+    "confusion": [
+      [
+        279,
+        61,
+        158,
+        66
+      ],
+      [
+        11,
+        770,
+        16,
+        79
+      ],
+      [
+        126,
+        62,
+        435,
+        109
+      ],
+      [
+        46,
+        143,
+        80,
+        381
+      ]
+    ]
+  },
+  "ocr_cyr": {
+    "macro_f1_pooled": 0.6359,
+    "macro_f1_fold_mean": 0.6296,
+    "macro_f1_fold_sd": 0.0342,
+    "accuracy_pooled": 0.6577,
+    "per_class_f1": {
+      "Algebra": 0.5424,
+      "Geometrija": 0.8002,
+      "Teorija brojeva": 0.6103,
+      "Logika": 0.5906
+    },
+    "confusion": [
+      [
+        278,
+        65,
+        160,
+        61
+      ],
+      [
+        13,
+        763,
+        20,
+        80
+      ],
+      [
+        126,
+        58,
+        437,
+        111
+      ],
+      [
+        44,
+        145,
+        83,
+        378
+      ]
+    ]
+  },
+  "ocr_both": {
+    "macro_f1_pooled": 0.6396,
+    "macro_f1_fold_mean": 0.6331,
+    "macro_f1_fold_sd": 0.0348,
+    "accuracy_pooled": 0.6612,
+    "per_class_f1": {
+      "Algebra": 0.5481,
+      "Geometrija": 0.804,
+      "Teorija brojeva": 0.6145,
+      "Logika": 0.5916
+    },
+    "confusion": [
+      [
+        282,
+        61,
+        156,
+        65
+      ],
+      [
+        11,
+        767,
+        16,
+        82
+      ],
+      [
+        126,
+        60,
+        436,
+        110
+      ],
+      [
+        46,
+        144,
+        79,
+        381
+      ]
+    ]
+  },
+  "scripts_agreement_rate": 0.9706
+}

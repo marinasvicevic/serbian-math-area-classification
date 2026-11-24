@@ -1,0 +1,295 @@
+{
+  "threshold": 0.8,
+  "group_source": "manual review from reports/image/v2/cross_family_pairs_review.xlsx",
+  "manual_review": {
+    "cross_year_DA": 8,
+    "cross_year_NE": 3,
+    "cross_year_empty_treated_as_DA": 0,
+    "same_year_reviewed": 33,
+    "same_year_DA": 32,
+    "same_year_NE": 1,
+    "n_labels_changed": 30,
+    "label_changes": [
+      {
+        "family": "kgfam-2014-regular-2-t12",
+        "from": "Algebra",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2014-regular-7-8-t01",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2015-regular-1-t14",
+        "from": "Algebra",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2016-regular-5-6-t14",
+        "from": "Algebra",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2018-final-11-12-t15",
+        "from": "Algebra",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2018-final-11-12-t16",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2018-final-5-6-t26",
+        "from": "Logika",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2018-final-5-6-t29",
+        "from": "Geometrija",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2018-regular-1-t04",
+        "from": "Algebra",
+        "to": "Geometrija"
+      },
+      {
+        "family": "kgfam-2019-final-1-t16",
+        "from": "Logika",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2019-final-5-6-t08",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2019-final-7-8-t30",
+        "from": "Logika",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2019-regular-1-t09",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2019-regular-2-t07",
+        "from": "Geometrija",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2020-regular-3-4-t09",
+        "from": "Logika",
+        "to": "Geometrija"
+      },
+      {
+        "family": "kgfam-2021-regular-1-t10",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2021-regular-1-t12",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2022-final-11-12-t10",
+        "from": "Geometrija",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2022-final-11-12-t11",
+        "from": "Logika",
+        "to": "Geometrija"
+      },
+      {
+        "family": "kgfam-2022-final-11-12-t12",
+        "from": "Teorija brojeva",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2022-final-2-t16",
+        "from": "Algebra",
+        "to": "Logika"
+      },
+      {
+        "family": "kgfam-2022-final-5-6-t25",
+        "from": "Logika",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2022-final-5-6-t30",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2022-final-7-8-t18",
+        "from": "Teorija brojeva",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2022-final-7-8-t30",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2022-regular-1-t18",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2023-regular-1-t13",
+        "from": "Logika",
+        "to": "Teorija brojeva"
+      },
+      {
+        "family": "kgfam-2023-regular-1-t15",
+        "from": "Logika",
+        "to": "Geometrija"
+      },
+      {
+        "family": "kgfam-2024-regular-1-t11",
+        "from": "Logika",
+        "to": "Algebra"
+      },
+      {
+        "family": "kgfam-2024-regular-5-6-t06",
+        "from": "Geometrija",
+        "to": "Logika"
+      }
+    ],
+    "DA_pairs_with_different_labels_unresolved": 0,
+    "DA_chains_with_different_labels_after_corrections": 0,
+    "n_families_moved_to_earlier_year_group": 5,
+    "moved_families": [
+      {
+        "family": "kgfam-2022-final-11-12-t08",
+        "year": 2022,
+        "moved_to": 2019
+      },
+      {
+        "family": "kgfam-2022-final-11-12-t24",
+        "year": 2022,
+        "moved_to": 2019
+      },
+      {
+        "family": "kgfam-2022-final-5-6-t26",
+        "year": 2022,
+        "moved_to": 2019
+      },
+      {
+        "family": "kgfam-2022-final-9-10-t10",
+        "year": 2022,
+        "moved_to": 2019
+      },
+      {
+        "family": "kgfam-2022-final-9-10-t29",
+        "year": 2022,
+        "moved_to": 2019
+      }
+    ]
+  },
+  "n_candidate_pairs": 346,
+  "n_candidate_pairs_same_year_cross_category": 335,
+  "n_candidate_pairs_cross_year": 11,
+  "n_candidate_pairs_label_disagreement": 33,
+  "n_folds": 13,
+  "fold_sizes": {
+    "0": 180,
+    "1": 179,
+    "2": 180,
+    "3": 180,
+    "4": 355,
+    "5": 359,
+    "6": 180,
+    "7": 180,
+    "8": 337,
+    "9": 180,
+    "10": 154,
+    "11": 178,
+    "12": 180
+  },
+  "fold_label_distribution": {
+    "0": {
+      "Algebra": 44,
+      "Geometrija": 58,
+      "Logika": 31,
+      "Teorija brojeva": 47
+    },
+    "1": {
+      "Algebra": 40,
+      "Geometrija": 64,
+      "Logika": 33,
+      "Teorija brojeva": 42
+    },
+    "2": {
+      "Algebra": 33,
+      "Geometrija": 55,
+      "Logika": 44,
+      "Teorija brojeva": 48
+    },
+    "3": {
+      "Algebra": 45,
+      "Geometrija": 50,
+      "Logika": 50,
+      "Teorija brojeva": 35
+    },
+    "4": {
+      "Algebra": 70,
+      "Geometrija": 115,
+      "Logika": 75,
+      "Teorija brojeva": 95
+    },
+    "5": {
+      "Algebra": 78,
+      "Geometrija": 94,
+      "Logika": 82,
+      "Teorija brojeva": 105
+    },
+    "6": {
+      "Algebra": 29,
+      "Geometrija": 60,
+      "Logika": 50,
+      "Teorija brojeva": 41
+    },
+    "7": {
+      "Algebra": 32,
+      "Geometrija": 54,
+      "Logika": 49,
+      "Teorija brojeva": 45
+    },
+    "8": {
+      "Algebra": 78,
+      "Geometrija": 99,
+      "Logika": 62,
+      "Teorija brojeva": 98
+    },
+    "9": {
+      "Algebra": 23,
+      "Geometrija": 59,
+      "Logika": 45,
+      "Teorija brojeva": 53
+    },
+    "10": {
+      "Algebra": 24,
+      "Geometrija": 52,
+      "Logika": 34,
+      "Teorija brojeva": 44
+    },
+    "11": {
+      "Algebra": 41,
+      "Geometrija": 52,
+      "Logika": 53,
+      "Teorija brojeva": 32
+    },
+    "12": {
+      "Algebra": 27,
+      "Geometrija": 64,
+      "Logika": 42,
+      "Teorija brojeva": 47
+    }
+  }
+}

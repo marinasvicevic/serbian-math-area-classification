@@ -1,0 +1,26 @@
+{
+  "n_families": 2822,
+  "n_folds": 13,
+  "group": "document_group_id (year/round/category)",
+  "n_groups": 110,
+  "fold_sizes": {
+    "0": 221,
+    "1": 214,
+    "2": 213,
+    "3": 227,
+    "4": 238,
+    "5": 208,
+    "6": 214,
+    "7": 216,
+    "8": 221,
+    "9": 210,
+    "10": 215,
+    "11": 216,
+    "12": 209
+  },
+  "leakage": {
+    "candidate_same_task_pairs": 346,
+    "pairs_split_across_folds_document_split": 342,
+    "pairs_split_across_folds_year_split": 3
+  }
+}

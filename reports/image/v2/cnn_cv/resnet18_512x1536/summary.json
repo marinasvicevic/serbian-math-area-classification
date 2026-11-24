@@ -1,0 +1,22 @@
+{
+  "arch": "resnet18",
+  "canvas": [
+    512,
+    1536
+  ],
+  "seeds": [
+    0
+  ],
+  "recipe": {
+    "phase1_epochs": 2,
+    "phase2_epochs": 12,
+    "cosine_tmax": 28
+  },
+  "family_macro_f1_fold_mean": 0.5413,
+  "family_macro_f1_fold_sd": 0.0597,
+  "family_macro_f1_pooled_per_seed": [
+    0.5595
+  ],
+  "cyrillic_macro_f1_fold_mean": 0.5297,
+  "latin_macro_f1_fold_mean": 0.5333
+}

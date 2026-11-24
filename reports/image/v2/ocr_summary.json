@@ -1,0 +1,8 @@
+{
+  "n_families": 2822,
+  "upscale": 2.0,
+  "tesseract_config": "--psm 6",
+  "workers": 8,
+  "mean_conf_cyrillic": 88.86,
+  "mean_conf_latin": 88.54
+}

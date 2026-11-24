@@ -1,0 +1,71 @@
+{
+  "provider": "local",
+  "model": "Qwen/Qwen3.6-27B",
+  "script": "lat",
+  "prompt_version": "kangaroo-img-v1",
+  "temperature": "0",
+  "max_tokens": 32768,
+  "pilot": false,
+  "n": 2822,
+  "macro_f1_pooled": 0.6595,
+  "macro_f1_fold_mean": 0.6498,
+  "macro_f1_fold_sd": 0.0481,
+  "accuracy": 0.6754,
+  "ci95_group_bootstrap": [
+    0.6308,
+    0.684
+  ],
+  "n_invalid": 32,
+  "n_retried": 99,
+  "n_truncated_max_tokens": 99,
+  "per_class_f1": {
+    "Algebra": 0.6191,
+    "Geometrija": 0.8419,
+    "Teorija brojeva": 0.5254,
+    "Logika": 0.6515
+  },
+  "per_category_macro_f1": {
+    "1": 0.5486,
+    "11-12": 0.7271,
+    "2": 0.5315,
+    "3-4": 0.6182,
+    "5-6": 0.622,
+    "7-8": 0.7009,
+    "9-10": 0.7051
+  },
+  "confusion": [
+    [
+      425,
+      36,
+      66,
+      35
+    ],
+    [
+      16,
+      756,
+      3,
+      85
+    ],
+    [
+      278,
+      31,
+      295,
+      120
+    ],
+    [
+      90,
+      97,
+      27,
+      430
+    ]
+  ],
+  "tokens_in": 1672731,
+  "tokens_out": 12578986,
+  "mean_output_tokens": 4457.5,
+  "n_via_batch": 0,
+  "mcnemar_vs_ocr_same_script": {
+    "only_a_correct": 396,
+    "only_b_correct": 355,
+    "p": 0.1443
+  }
+}

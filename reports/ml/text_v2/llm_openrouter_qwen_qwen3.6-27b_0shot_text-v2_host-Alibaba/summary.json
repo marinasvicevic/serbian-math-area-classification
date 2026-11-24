@@ -1,0 +1,73 @@
+{
+  "provider": "openrouter",
+  "model": "qwen/qwen3.6-27b",
+  "shots_per_class": 0,
+  "prompt_version": "text-v2",
+  "temperature": "0",
+  "pilot": false,
+  "n": 2974,
+  "macro_f1_pooled": 0.8588,
+  "macro_f1_fold_mean": 0.8585,
+  "macro_f1_fold_sd": 0.0214,
+  "accuracy": 0.8665,
+  "ci95_group_bootstrap": [
+    0.8449,
+    0.8723
+  ],
+  "n_invalid": 0,
+  "n_retried": 0,
+  "per_class_f1": {
+    "Algebra": 0.8694,
+    "Geometrija": 0.944,
+    "Teorija brojeva": 0.7897,
+    "Kombinatorika": 0.8321
+  },
+  "confusion": [
+    [
+      922,
+      26,
+      82,
+      20
+    ],
+    [
+      22,
+      759,
+      12,
+      10
+    ],
+    [
+      95,
+      3,
+      507,
+      31
+    ],
+    [
+      32,
+      17,
+      47,
+      389
+    ]
+  ],
+  "tokens_in": 1001549,
+  "tokens_out": 6615163,
+  "n_truncated_max_tokens": 0,
+  "provider_hosts": {
+    "Alibaba": 2974
+  },
+  "n_revalidated": 0,
+  "n_via_batch": 0,
+  "vs_linear_same_items": {
+    "word_svm": {
+      "linear_macro_f1_same_items": 0.8556,
+      "linear_only_correct": 172,
+      "llm_only_correct": 184,
+      "p_mcnemar": 0.56
+    },
+    "word_char_svm": {
+      "linear_macro_f1_same_items": 0.8651,
+      "linear_only_correct": 172,
+      "llm_only_correct": 155,
+      "p_mcnemar": 0.3763
+    }
+  }
+}

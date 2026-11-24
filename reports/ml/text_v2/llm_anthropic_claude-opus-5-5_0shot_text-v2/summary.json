@@ -1,0 +1,70 @@
+{
+  "provider": "anthropic",
+  "model": "claude-opus-5-5",
+  "shots_per_class": 0,
+  "prompt_version": "text-v2",
+  "temperature": "not set (Message Batches API; temperature not accepted by the model)",
+  "pilot": false,
+  "n": 2974,
+  "macro_f1_pooled": 0.8597,
+  "macro_f1_fold_mean": 0.8595,
+  "macro_f1_fold_sd": 0.0111,
+  "accuracy": 0.8668,
+  "ci95_group_bootstrap": [
+    0.8463,
+    0.8737
+  ],
+  "n_invalid": 0,
+  "n_retried": 20,
+  "per_class_f1": {
+    "Algebra": 0.8668,
+    "Geometrija": 0.9474,
+    "Teorija brojeva": 0.7914,
+    "Kombinatorika": 0.833
+  },
+  "confusion": [
+    [
+      908,
+      26,
+      83,
+      33
+    ],
+    [
+      23,
+      757,
+      6,
+      17
+    ],
+    [
+      90,
+      2,
+      499,
+      45
+    ],
+    [
+      24,
+      10,
+      37,
+      414
+    ]
+  ],
+  "tokens_in": 1497564,
+  "tokens_out": 767452,
+  "n_truncated_max_tokens": 9,
+  "n_revalidated": 9,
+  "n_via_batch": 2974,
+  "vs_linear_same_items": {
+    "word_svm": {
+      "linear_macro_f1_same_items": 0.8556,
+      "linear_only_correct": 175,
+      "llm_only_correct": 188,
+      "p_mcnemar": 0.5289
+    },
+    "word_char_svm": {
+      "linear_macro_f1_same_items": 0.8651,
+      "linear_only_correct": 171,
+      "llm_only_correct": 155,
+      "p_mcnemar": 0.4061
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "majority": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.1313,
+    "ci95": [
+      0.1199,
+      0.1428
+    ],
+    "accuracy": 0.3562,
+    "params": "{}"
+  },
+  "word_lr": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.8082,
+    "ci95": [
+      0.7735,
+      0.8416
+    ],
+    "accuracy": 0.8108,
+    "params": "{\"v__ngram_range\": [1, 1], \"v__min_df\": 1, \"clf__C\": 2.0, \"clf__class_weight\": null}"
+  },
+  "word_svm": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.8097,
+    "ci95": [
+      0.7743,
+      0.8434
+    ],
+    "accuracy": 0.8126,
+    "params": "{\"v__ngram_range\": [1, 1], \"v__min_df\": 1, \"clf__C\": 0.25, \"clf__class_weight\": null}"
+  },
+  "char_svm": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.8298,
+    "ci95": [
+      0.7956,
+      0.8627
+    ],
+    "accuracy": 0.8312,
+    "params": "{\"v__ngram_range\": [3, 6], \"clf__C\": 0.25}"
+  },
+  "word_char_svm": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.8327,
+    "ci95": [
+      0.7977,
+      0.8655
+    ],
+    "accuracy": 0.833,
+    "params": "{\"clf__C\": 0.06}"
+  },
+  "complement_nb": {
+    "n_train": 2432,
+    "n_test": 539,
+    "n_train_purged": 3,
+    "macro_f1": 0.8036,
+    "ci95": [
+      0.7697,
+      0.8388
+    ],
+    "accuracy": 0.8071,
+    "params": "{\"clf__alpha\": 0.3}"
+  }
+}

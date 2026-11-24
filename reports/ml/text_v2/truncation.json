@@ -1,0 +1,22 @@
+{
+  "classla/bcms-bertic": {
+    "n": 2974,
+    "max_len": 256,
+    "n_truncated": 43,
+    "pct_truncated": 1.45,
+    "median_tokens": 75,
+    "p95_tokens": 175,
+    "max_tokens": 501,
+    "pct_tokens_lost_in_truncated": 19.0
+  },
+  "xlm-roberta-base": {
+    "n": 2974,
+    "max_len": 256,
+    "n_truncated": 49,
+    "pct_truncated": 1.65,
+    "median_tokens": 78,
+    "p95_tokens": 184,
+    "max_tokens": 525,
+    "pct_tokens_lost_in_truncated": 19.6
+  }
+}

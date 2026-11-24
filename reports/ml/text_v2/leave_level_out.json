@@ -1,0 +1,116 @@
+{
+  "drzavno": {
+    "majority": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.1251
+    },
+    "word_lr": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.8311
+    },
+    "word_svm": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.8266
+    },
+    "char_svm": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.8523
+    },
+    "word_char_svm": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.8496
+    },
+    "complement_nb": {
+      "n_train": 2030,
+      "n_test": 926,
+      "n_train_purged": 18,
+      "macro_f1": 0.8267
+    }
+  },
+  "okruzno": {
+    "majority": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.1293
+    },
+    "word_lr": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.8348
+    },
+    "word_svm": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.8452
+    },
+    "char_svm": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.8574
+    },
+    "word_char_svm": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.856
+    },
+    "complement_nb": {
+      "n_train": 1936,
+      "n_test": 1026,
+      "n_train_purged": 12,
+      "macro_f1": 0.837
+    }
+  },
+  "opstinsko": {
+    "majority": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.1363
+    },
+    "word_lr": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.859
+    },
+    "word_svm": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.8639
+    },
+    "char_svm": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.8783
+    },
+    "word_char_svm": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.8739
+    },
+    "complement_nb": {
+      "n_train": 1940,
+      "n_test": 1022,
+      "n_train_purged": 12,
+      "macro_f1": 0.86
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ocr_lat": {
+    "macro_f1_pooled": 0.6393,
+    "macro_f1_fold_mean": 0.6327,
+    "macro_f1_fold_sd": 0.0326,
+    "accuracy_pooled": 0.6616,
+    "per_class_f1": {
+      "Algebra": 0.5394,
+      "Geometrija": 0.804,
+      "Teorija brojeva": 0.6148,
+      "Logika": 0.5989
+    },
+    "confusion": [
+      [
+        277,
+        62,
+        161,
+        64
+      ],
+      [
+        12,
+        769,
+        15,
+        80
+      ],
+      [
+        127,
+        61,
+        435,
+        109
+      ],
+      [
+        47,
+        145,
+        72,
+        386
+      ]
+    ]
+  },
+  "ocr_cyr": {
+    "macro_f1_pooled": 0.637,
+    "macro_f1_fold_mean": 0.6303,
+    "macro_f1_fold_sd": 0.0346,
+    "accuracy_pooled": 0.6588,
+    "per_class_f1": {
+      "Algebra": 0.5396,
+      "Geometrija": 0.8002,
+      "Teorija brojeva": 0.6144,
+      "Logika": 0.5938
+    },
+    "confusion": [
+      [
+        276,
+        64,
+        161,
+        63
+      ],
+      [
+        14,
+        761,
+        19,
+        82
+      ],
+      [
+        124,
+        57,
+        439,
+        112
+      ],
+      [
+        45,
+        144,
+        78,
+        383
+      ]
+    ]
+  },
+  "ocr_both": {
+    "macro_f1_pooled": 0.6418,
+    "macro_f1_fold_mean": 0.6353,
+    "macro_f1_fold_sd": 0.0358,
+    "accuracy_pooled": 0.6634,
+    "per_class_f1": {
+      "Algebra": 0.5456,
+      "Geometrija": 0.8034,
+      "Teorija brojeva": 0.62,
+      "Logika": 0.5981
+    },
+    "confusion": [
+      [
+        281,
+        62,
+        157,
+        64
+      ],
+      [
+        12,
+        766,
+        15,
+        83
+      ],
+      [
+        126,
+        58,
+        438,
+        110
+      ],
+      [
+        47,
+        145,
+        71,
+        387
+      ]
+    ],
+    "ci95_group_bootstrap": [
+      0.622,
+      0.6577
+    ]
+  },
+  "scripts_agreement_rate": 0.9713,
+  "protocol": {
+    "folds_file": "image_folds_v2.csv",
+    "calendar_years": true,
+    "purge_pairs": true,
+    "n_folds": 13,
+    "train_families_purged_total": 8
+  }
+}

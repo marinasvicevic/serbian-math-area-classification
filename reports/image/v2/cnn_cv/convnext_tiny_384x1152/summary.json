@@ -1,0 +1,22 @@
+{
+  "arch": "convnext_tiny",
+  "canvas": [
+    384,
+    1152
+  ],
+  "seeds": [
+    0
+  ],
+  "recipe": {
+    "phase1_epochs": 2,
+    "phase2_epochs": 12,
+    "cosine_tmax": 28
+  },
+  "family_macro_f1_fold_mean": 0.5154,
+  "family_macro_f1_fold_sd": 0.0424,
+  "family_macro_f1_pooled_per_seed": [
+    0.5232
+  ],
+  "cyrillic_macro_f1_fold_mean": 0.5017,
+  "latin_macro_f1_fold_mean": 0.5119
+}

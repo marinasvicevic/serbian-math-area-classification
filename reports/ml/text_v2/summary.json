@@ -1,0 +1,311 @@
+{
+  "protocol": {
+    "repeats": 5,
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "group_column": "group_id_v2",
+    "text_column": "model_text",
+    "n_records": 2974,
+    "n_groups": 2714,
+    "quick_grid": false
+  },
+  "models": {
+    "majority": {
+      "macro_f1_mean": 0.1305,
+      "macro_f1_sd": 0.0001,
+      "accuracy_mean": 0.3531,
+      "oof_rep0_macro_f1": 0.1305,
+      "oof_rep0_ci95": [
+        0.1254,
+        0.1355
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.5219,
+        "Geometrija": 0.0,
+        "Teorija brojeva": 0.0,
+        "Kombinatorika": 0.0
+      },
+      "confusion_rep0": [
+        [
+          1050,
+          0,
+          0,
+          0
+        ],
+        [
+          803,
+          0,
+          0,
+          0
+        ],
+        [
+          636,
+          0,
+          0,
+          0
+        ],
+        [
+          485,
+          0,
+          0,
+          0
+        ]
+      ],
+      "vs_reference": {
+        "reference": "word_svm",
+        "mean_diff": -0.7244,
+        "corrected_t": -89.895,
+        "p_corrected_t": 0.0,
+        "mcnemar_ref_only_correct": 1665,
+        "mcnemar_model_only_correct": 150,
+        "p_mcnemar": 0.0
+      }
+    },
+    "word_lr": {
+      "macro_f1_mean": 0.8493,
+      "macro_f1_sd": 0.0134,
+      "accuracy_mean": 0.8559,
+      "oof_rep0_macro_f1": 0.8501,
+      "oof_rep0_ci95": [
+        0.8355,
+        0.8642
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.8495,
+        "Geometrija": 0.944,
+        "Teorija brojeva": 0.7715,
+        "Kombinatorika": 0.8353
+      },
+      "confusion_rep0": [
+        [
+          892,
+          34,
+          87,
+          37
+        ],
+        [
+          22,
+          758,
+          1,
+          22
+        ],
+        [
+          115,
+          2,
+          476,
+          43
+        ],
+        [
+          21,
+          9,
+          34,
+          421
+        ]
+      ],
+      "vs_reference": {
+        "reference": "word_svm",
+        "mean_diff": -0.0056,
+        "corrected_t": -1.431,
+        "p_corrected_t": 0.1654,
+        "mcnemar_ref_only_correct": 50,
+        "mcnemar_model_only_correct": 32,
+        "p_mcnemar": 0.0598
+      }
+    },
+    "word_svm": {
+      "macro_f1_mean": 0.8548,
+      "macro_f1_sd": 0.015,
+      "accuracy_mean": 0.8615,
+      "oof_rep0_macro_f1": 0.8556,
+      "oof_rep0_ci95": [
+        0.8421,
+        0.8695
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.858,
+        "Geometrija": 0.9443,
+        "Teorija brojeva": 0.7854,
+        "Kombinatorika": 0.8348
+      },
+      "confusion_rep0": [
+        [
+          900,
+          35,
+          79,
+          36
+        ],
+        [
+          19,
+          763,
+          1,
+          20
+        ],
+        [
+          108,
+          2,
+          485,
+          41
+        ],
+        [
+          21,
+          13,
+          34,
+          417
+        ]
+      ]
+    },
+    "char_svm": {
+      "macro_f1_mean": 0.8662,
+      "macro_f1_sd": 0.0114,
+      "accuracy_mean": 0.8738,
+      "oof_rep0_macro_f1": 0.8668,
+      "oof_rep0_ci95": [
+        0.8533,
+        0.8806
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.8719,
+        "Geometrija": 0.956,
+        "Teorija brojeva": 0.7939,
+        "Kombinatorika": 0.8452
+      },
+      "confusion_rep0": [
+        [
+          909,
+          25,
+          77,
+          39
+        ],
+        [
+          15,
+          771,
+          1,
+          16
+        ],
+        [
+          97,
+          4,
+          493,
+          42
+        ],
+        [
+          14,
+          10,
+          35,
+          426
+        ]
+      ],
+      "vs_reference": {
+        "reference": "word_svm",
+        "mean_diff": 0.0114,
+        "corrected_t": 1.892,
+        "p_corrected_t": 0.0706,
+        "mcnemar_ref_only_correct": 65,
+        "mcnemar_model_only_correct": 99,
+        "p_mcnemar": 0.0098
+      }
+    },
+    "word_char_svm": {
+      "macro_f1_mean": 0.8677,
+      "macro_f1_sd": 0.0122,
+      "accuracy_mean": 0.8744,
+      "oof_rep0_macro_f1": 0.8651,
+      "oof_rep0_ci95": [
+        0.8517,
+        0.8786
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.8701,
+        "Geometrija": 0.9553,
+        "Teorija brojeva": 0.792,
+        "Kombinatorika": 0.843
+      },
+      "confusion_rep0": [
+        [
+          904,
+          26,
+          80,
+          40
+        ],
+        [
+          14,
+          770,
+          0,
+          19
+        ],
+        [
+          97,
+          4,
+          493,
+          42
+        ],
+        [
+          13,
+          9,
+          36,
+          427
+        ]
+      ],
+      "vs_reference": {
+        "reference": "word_svm",
+        "mean_diff": 0.0128,
+        "corrected_t": 2.499,
+        "p_corrected_t": 0.0197,
+        "mcnemar_ref_only_correct": 48,
+        "mcnemar_model_only_correct": 77,
+        "p_mcnemar": 0.012
+      }
+    },
+    "complement_nb": {
+      "macro_f1_mean": 0.8448,
+      "macro_f1_sd": 0.0125,
+      "accuracy_mean": 0.8538,
+      "oof_rep0_macro_f1": 0.8437,
+      "oof_rep0_ci95": [
+        0.8294,
+        0.8581
+      ],
+      "per_class_f1_rep0": {
+        "Algebra": 0.8526,
+        "Geometrija": 0.942,
+        "Teorija brojeva": 0.7483,
+        "Kombinatorika": 0.8317
+      },
+      "confusion_rep0": [
+        [
+          917,
+          39,
+          59,
+          35
+        ],
+        [
+          17,
+          772,
+          1,
+          13
+        ],
+        [
+          146,
+          6,
+          434,
+          50
+        ],
+        [
+          21,
+          19,
+          30,
+          415
+        ]
+      ],
+      "vs_reference": {
+        "reference": "word_svm",
+        "mean_diff": -0.0101,
+        "corrected_t": -1.676,
+        "p_corrected_t": 0.1067,
+        "mcnemar_ref_only_correct": 105,
+        "mcnemar_model_only_correct": 78,
+        "p_mcnemar": 0.0543
+      }
+    }
+  }
+}
