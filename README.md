@@ -41,7 +41,7 @@ Area names are stored in Serbian in all data files: `Algebra`, `Geometrija` (Geo
 ## Data
 
 * **Text corpus and OCR text** are included in `data/`.
-* **Kangaroo images** (5644 PNG files) are archived on Zenodo: **DOI: [to be added]**. Unzip the archive in the repository root; the images are placed under `data/image_interim/...`, exactly as referenced by `reports/image/final_image_annotations.csv` (columns `cyrillic_image_path`, `latin_image_path`).
+* **Kangaroo images** (5644 PNG files) are archived on Zenodo: DOI **[10.5281/zenodo.24514836](https://doi.org/10.5281/zenodo.24514836)**. Unzip the archive in the repository root; the images are placed under `data/image_interim/...`, exactly as referenced by `reports/image/final_image_annotations.csv` (columns `cyrillic_image_path`, `latin_image_path`).
 * **Final labels** for the image corpus are in `reports/image/v2/image_folds_v2.csv` (column `label`; `label_original` holds the label before the review of repeated problems).
 
 The competition problems are publicly available publications of the competition organiser, the Mathematical Society of Serbia (Društvo matematičara Srbije); see `data/README.md`.
