@@ -1,0 +1,17 @@
+# Direct dependencies with the versions of the local (Windows) environment used for the paper.
+# The complete environment is listed in requirements-lock.txt.
+# GPU runs: BERTic/XLM-R fine-tuning in Google Colab (NVIDIA T4); CNN and the local Qwen3.6-27B
+# image runs on a server with two NVIDIA L40S GPUs (Qwen served with vLLM 0.32.0).
+numpy==2.4.6
+pandas==3.1.0
+scipy==1.17.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+pillow==13.0.0
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.22.1
+anthropic==2.3.0
+requests==2.34.2
+pytesseract==0.3.13
