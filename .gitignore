@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.ckpt
+*.pt
+# images are distributed through Zenodo
+data/image_interim/batch_*/
+data/image_interim/production_task_crops/
+# pilot runs and raw API logs
+**/pilot/
+**/responses.jsonl
+**/batch_state.json
