@@ -31,7 +31,7 @@ Folds used by all text models: `reports/ml/text_v2/folds.csv` (5 repetitions x 5
 * `reports/image/v2/image_folds_v2.csv` - **final labels** (`label`), labels before the review (`label_original`; 30 families differ), year groups (`group_id_v2`) and the 13 leave-one-year-out folds.
 * `reports/image/v2/image_folds_doc.csv` - the control split by source document (Table 6).
 * `data/image_interim/ocr/kengur_ocr_v1.jsonl` - Tesseract OCR of both images of every family (`ocr_cyrillic_raw`, `ocr_cyrillic_translit` = Cyrillic OCR transliterated to Latin script, `ocr_latin`, mean word confidences `conf_cyrillic`, `conf_latin`).
-* Images (5644 PNG): Zenodo, DOI **[to be added]**. Unzip in the repository root; the files are placed under `data/image_interim/batch_*/task_crops/` and `data/image_interim/production_task_crops/`, as referenced by the image paths above.
+* Images (5644 PNG): Zenodo, DOI **[10.5281/zenodo.24514836](https://doi.org/10.5281/zenodo.24514836)**. Unzip in the repository root; the files are placed under `data/image_interim/batch_*/task_crops/` and `data/image_interim/production_task_crops/`, as referenced by the image paths above.
 
 Area names: `Algebra`, `Geometrija` (Geometry), `Teorija brojeva` (called *Brojevi* / Numbers in the Kangaroo competition), `Logika` (Logic).
 
